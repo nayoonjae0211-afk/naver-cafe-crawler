@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# 민감한 정보
+config.json
+cookies.json
+
+# 로그 및 스크린샷
+logs/
+*.log
+*.png
+
+# 결과 파일
+results/
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+tmp*
+*.tmp

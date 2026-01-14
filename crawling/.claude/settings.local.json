@@ -13,7 +13,9 @@
       "Bash(tasklist:*)",
       "Bash(playwright list:*)",
       "Bash(timeout 1 cat:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git reset:*)"
     ]
   }
 }

@@ -1,0 +1,39 @@
+{
+  "accounts": [
+    {
+      "naver_id": "your_naver_id_1",
+      "naver_password": "your_password_1",
+      "assigned_cafes": ["카페1"],
+      "group_name": "group1"
+    },
+    {
+      "naver_id": "your_naver_id_2",
+      "naver_password": "your_password_2",
+      "assigned_cafes": [
+        "카페2",
+        "카페3",
+        "카페4"
+      ],
+      "group_name": "group2"
+    }
+  ],
+  "cafes": [
+    {
+      "cafe_id": "12345678",
+      "cafe_name": "카페1",
+      "cafe_url": "https://cafe.naver.com/f-e/cafes/12345678/menus/0?viewType=L&ta=ARTICLE_COMMENT&page=1&q=키워드&p=1d"
+    },
+    {
+      "cafe_id": "87654321",
+      "cafe_name": "카페2",
+      "cafe_url": "https://cafe.naver.com/f-e/cafes/87654321/menus/0?viewType=L&ta=ARTICLE_COMMENT&page=1&q=키워드&p=1d"
+    }
+  ],
+  "keywords": [
+    "키워드1",
+    "키워드2",
+    "키워드3"
+  ],
+  "output_folder": "results",
+  "log_folder": "logs"
+}
