@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 네이버 카페 크롤링 스크립트
-가전제품 관련 키워드 모니터링
+키워드 기반 게시글/댓글 모니터링
 """
 
 import json
@@ -519,7 +519,7 @@ class NaverCafeCrawler:
         try:
             output_folder = Path(self.config.output_folder)
             last_tuesday, this_monday = self._get_date_range()
-            filename = f"가전모니터링_{self.group_name}_{last_tuesday.strftime('%Y-%m-%d')}~{this_monday.strftime('%d')}.xlsx"
+            filename = f"키워드모니터링_{self.group_name}_{last_tuesday.strftime('%Y-%m-%d')}~{this_monday.strftime('%d')}.xlsx"
             filepath = output_folder / filename
 
             if not filepath.exists():
@@ -897,7 +897,7 @@ class NaverCafeCrawler:
 
         # 파일명 생성
         last_tuesday, this_monday = self._get_date_range()
-        filename = f"가전모니터링_{self.group_name}_{last_tuesday.strftime('%Y-%m-%d')}~{this_monday.strftime('%d')}.xlsx"
+        filename = f"키워드모니터링_{self.group_name}_{last_tuesday.strftime('%Y-%m-%d')}~{this_monday.strftime('%d')}.xlsx"
         filepath = output_folder / filename
 
         # 기존 파일이 있으면 로드, 없으면 새로 생성
@@ -909,7 +909,7 @@ class NaverCafeCrawler:
         else:
             wb = Workbook()
             ws = wb.active
-            ws.title = "가전모니터링"
+            ws.title = "키워드모니터링"
             existing_rows = 0
 
             # 헤더 생성 (새 파일인 경우)
@@ -1162,7 +1162,7 @@ def main():
     """메인 함수 - 멀티프로세싱 실행"""
     print("="*80)
     print("네이버 카페 크롤러 (멀티 브라우저 버전)")
-    print("가전제품 키워드 모니터링")
+    print("키워드 기반 게시글/댓글 모니터링")
     print("="*80)
     print()
 
