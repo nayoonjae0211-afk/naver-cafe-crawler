@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(pip install:*)",
+      "Bash(playwright install:*)",
+      "Bash(python crawler.py:*)",
+      "Bash(taskkill:*)",
+      "Bash(kill:*)",
+      "Bash(ls:*)",
+      "Bash(xargs:*)",
+      "Bash(python:*)",
+      "Bash(tasklist:*)",
+      "Bash(playwright list:*)",
+      "Bash(timeout 1 cat:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

@@ -1,0 +1,1543 @@
+2026-01-12 11:05:24 - NaverCafeCrawler_group2 - INFO - 브라우저 시작
+2026-01-12 11:05:34 - NaverCafeCrawler_group2 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 11:05:34 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 11:05:34 - NaverCafeCrawler_group2 - INFO - 네이버 카페 크롤링 시작
+2026-01-12 11:05:34 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 11:05:34 - NaverCafeCrawler_group2 - INFO - 기존 엑셀 파일 없음, 처음부터 시작
+2026-01-12 11:05:34 - NaverCafeCrawler_group2 - INFO - 네이버 로그인 시작
+2026-01-12 11:05:42 - NaverCafeCrawler_group2 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 11:05:52 - NaverCafeCrawler_group2 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 11:05:52 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 11:05:52 - NaverCafeCrawler_group2 - INFO - [카페 1/9] 웨딩킹 시작
+2026-01-12 11:05:52 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [1/24] 'lg계약' 시작
+2026-01-12 11:05:54 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지: 10개
+2026-01-12 11:07:04 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2페이지 없음, 종료
+2026-01-12 11:07:04 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 10개
+2026-01-12 11:07:04 - NaverCafeCrawler_group2 - INFO - 'lg계약' 10개 데이터 저장 중...
+2026-01-12 11:07:04 - NaverCafeCrawler_group2 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:07:04 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [2/24] 'lg구매' 시작
+2026-01-12 11:07:07 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지: 13개
+2026-01-12 11:08:34 - NaverCafeCrawler_group2 - INFO - 'lg구매' 2페이지 없음, 종료
+2026-01-12 11:08:34 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 13개
+2026-01-12 11:08:34 - NaverCafeCrawler_group2 - INFO - 'lg구매' 13개 데이터 저장 중...
+2026-01-12 11:08:34 - NaverCafeCrawler_group2 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:08:34 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [3/24] 'lg졸업' 시작
+2026-01-12 11:08:35 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지: 5개
+2026-01-12 11:09:21 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 2페이지 없음, 종료
+2026-01-12 11:09:21 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 5개
+2026-01-12 11:09:21 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 5개 데이터 저장 중...
+2026-01-12 11:09:21 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:09:21 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [4/24] '삼성계약' 시작
+2026-01-12 11:09:23 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지: 15개
+2026-01-12 11:11:02 - NaverCafeCrawler_group2 - INFO - '삼성계약' 2페이지: 5개
+2026-01-12 11:11:52 - NaverCafeCrawler_group2 - INFO - '삼성계약' 3페이지 없음, 종료
+2026-01-12 11:11:52 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 20개
+2026-01-12 11:11:52 - NaverCafeCrawler_group2 - INFO - '삼성계약' 20개 데이터 저장 중...
+2026-01-12 11:11:52 - NaverCafeCrawler_group2 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:11:52 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [5/24] '삼성구매' 시작
+2026-01-12 11:11:56 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지: 15개
+2026-01-12 11:13:58 - NaverCafeCrawler_group2 - INFO - '삼성구매' 2페이지: 11개
+2026-01-12 11:15:46 - NaverCafeCrawler_group2 - INFO - '삼성구매' 3페이지 없음, 종료
+2026-01-12 11:15:46 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 26개
+2026-01-12 11:15:46 - NaverCafeCrawler_group2 - INFO - '삼성구매' 26개 데이터 저장 중...
+2026-01-12 11:15:46 - NaverCafeCrawler_group2 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:15:46 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [6/24] '삼성졸업' 시작
+2026-01-12 11:15:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지: 11개
+2026-01-12 11:17:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 2페이지 없음, 종료
+2026-01-12 11:17:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 11개
+2026-01-12 11:17:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 11개 데이터 저장 중...
+2026-01-12 11:17:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:17:52 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [7/24] '엘지계약' 시작
+2026-01-12 11:18:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지 없음, 종료
+2026-01-12 11:18:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 0개
+2026-01-12 11:18:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 11:18:08 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [8/24] '엘지구매' 시작
+2026-01-12 11:18:11 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지: 3개
+2026-01-12 11:18:56 - NaverCafeCrawler_group2 - INFO - '엘지구매' 2페이지 없음, 종료
+2026-01-12 11:18:56 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 3개
+2026-01-12 11:18:56 - NaverCafeCrawler_group2 - INFO - '엘지구매' 3개 데이터 저장 중...
+2026-01-12 11:18:56 - NaverCafeCrawler_group2 - INFO - '엘지구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:18:56 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [9/24] '엘지졸업' 시작
+2026-01-12 11:19:11 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지 없음, 종료
+2026-01-12 11:19:11 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 0개
+2026-01-12 11:19:11 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 11:19:11 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [10/24] '베스트샵' 시작
+2026-01-12 11:19:15 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 8개
+2026-01-12 11:20:54 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지 없음, 종료
+2026-01-12 11:20:54 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 8개
+2026-01-12 11:20:54 - NaverCafeCrawler_group2 - INFO - '베스트샵' 8개 데이터 저장 중...
+2026-01-12 11:20:54 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:20:54 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [11/24] '삼성스토어' 시작
+2026-01-12 11:20:58 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지: 15개
+2026-01-12 11:23:28 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 2페이지: 15개
+2026-01-12 11:25:41 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 3페이지: 2개
+2026-01-12 11:26:21 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 4페이지 없음, 종료
+2026-01-12 11:26:21 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 32개
+2026-01-12 11:26:21 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 32개 데이터 저장 중...
+2026-01-12 11:26:21 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:26:21 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [12/24] '가전졸업' 시작
+2026-01-12 11:26:25 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지: 13개
+2026-01-12 11:28:47 - NaverCafeCrawler_group2 - INFO - '가전졸업' 2페이지 없음, 종료
+2026-01-12 11:28:47 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 13개
+2026-01-12 11:28:47 - NaverCafeCrawler_group2 - INFO - '가전졸업' 13개 데이터 저장 중...
+2026-01-12 11:28:48 - NaverCafeCrawler_group2 - INFO - '가전졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:28:48 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [13/24] 'lg렌탈' 시작
+2026-01-12 11:28:52 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지: 1개
+2026-01-12 11:29:21 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 2페이지 없음, 종료
+2026-01-12 11:29:21 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 1개
+2026-01-12 11:29:21 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1개 데이터 저장 중...
+2026-01-12 11:29:21 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:29:21 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [14/24] '가전렌탈' 시작
+2026-01-12 11:29:38 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 1페이지 없음, 종료
+2026-01-12 11:29:38 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 0개
+2026-01-12 11:29:38 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 11:29:38 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [15/24] '엘지교원' 시작
+2026-01-12 11:29:54 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지 없음, 종료
+2026-01-12 11:29:54 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 0개
+2026-01-12 11:29:54 - NaverCafeCrawler_group2 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 11:29:54 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [16/24] '베스트라이프' 시작
+2026-01-12 11:30:10 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 11:30:10 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 11:30:10 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 11:30:10 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [17/24] '가전구매' 시작
+2026-01-12 11:30:15 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 15개
+2026-01-12 11:32:39 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지: 15개
+2026-01-12 11:35:17 - NaverCafeCrawler_group2 - INFO - '가전구매' 3페이지: 3개
+2026-01-12 11:36:09 - NaverCafeCrawler_group2 - INFO - '가전구매' 4페이지 없음, 종료
+2026-01-12 11:36:09 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 33개
+2026-01-12 11:36:09 - NaverCafeCrawler_group2 - INFO - '가전구매' 33개 데이터 저장 중...
+2026-01-12 11:36:10 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:36:10 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [18/24] 'lg vs 삼성' 시작
+2026-01-12 11:36:17 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지: 1개
+2026-01-12 11:36:50 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 2페이지 없음, 종료
+2026-01-12 11:36:50 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 1개
+2026-01-12 11:36:50 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1개 데이터 저장 중...
+2026-01-12 11:36:51 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:36:51 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [19/24] 'lg구독' 시작
+2026-01-12 11:36:54 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지: 4개
+2026-01-12 11:38:07 - NaverCafeCrawler_group2 - INFO - 'lg구독' 2페이지 없음, 종료
+2026-01-12 11:38:07 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 4개
+2026-01-12 11:38:07 - NaverCafeCrawler_group2 - INFO - 'lg구독' 4개 데이터 저장 중...
+2026-01-12 11:38:07 - NaverCafeCrawler_group2 - INFO - 'lg구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:38:07 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [20/24] '가전구독' 시작
+2026-01-12 11:38:13 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지: 5개
+2026-01-12 11:39:35 - NaverCafeCrawler_group2 - INFO - '가전구독' 2페이지 없음, 종료
+2026-01-12 11:39:35 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 5개
+2026-01-12 11:39:35 - NaverCafeCrawler_group2 - INFO - '가전구독' 5개 데이터 저장 중...
+2026-01-12 11:39:35 - NaverCafeCrawler_group2 - INFO - '가전구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:39:35 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [21/24] '가전상담' 시작
+2026-01-12 11:39:44 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 15개
+2026-01-12 11:42:02 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지: 15개
+2026-01-12 11:44:27 - NaverCafeCrawler_group2 - INFO - '가전상담' 3페이지: 7개
+2026-01-12 11:45:57 - NaverCafeCrawler_group2 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/14811936/articles/2352266?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjIzNTIyNjYsImlzc3VlZEF0IjoxNzY4MTg1ODY3NDE3LCJjYWZlSWQiOjE0ODExOTM2fQ.HsgTk8XdNtoryJVKgwkpgBzPjdOnJFj_tIVTp9tEHek&page=3): Timeout 30000ms exceeded.
+2026-01-12 11:45:57 - NaverCafeCrawler_group2 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 771, in collect_post_details
+    title = self._normalize_text(title_elem.inner_text()) if title_elem.count() > 0 else ""
+                                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17400, in inner_text
+    self._sync(self._impl_obj.inner_text(timeout=timeout))
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 442, in inner_text
+    return await self._frame.inner_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 624, in inner_text
+    return await self._channel.send("innerText", locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.TimeoutError: Timeout 30000ms exceeded.
+
+2026-01-12 11:46:28 - NaverCafeCrawler_group2 - INFO - '가전상담' 4페이지 없음, 종료
+2026-01-12 11:46:28 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 36개
+2026-01-12 11:46:28 - NaverCafeCrawler_group2 - INFO - '가전상담' 36개 데이터 저장 중...
+2026-01-12 11:46:29 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:46:29 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [22/24] 'lg상담후기' 시작
+2026-01-12 11:46:31 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지: 14개
+2026-01-12 11:48:02 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 2페이지 없음, 종료
+2026-01-12 11:48:02 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 14개
+2026-01-12 11:48:02 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 14개 데이터 저장 중...
+2026-01-12 11:48:02 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:48:02 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [23/24] '엘지상담' 시작
+2026-01-12 11:48:04 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지: 4개
+2026-01-12 11:48:43 - NaverCafeCrawler_group2 - INFO - '엘지상담' 2페이지 없음, 종료
+2026-01-12 11:48:43 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 4개
+2026-01-12 11:48:43 - NaverCafeCrawler_group2 - INFO - '엘지상담' 4개 데이터 저장 중...
+2026-01-12 11:48:43 - NaverCafeCrawler_group2 - INFO - '엘지상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:48:43 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [24/24] '삼성상담' 시작
+2026-01-12 11:48:45 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지: 15개
+2026-01-12 11:50:16 - NaverCafeCrawler_group2 - INFO - '삼성상담' 2페이지: 15개
+2026-01-12 11:51:56 - NaverCafeCrawler_group2 - INFO - '삼성상담' 3페이지: 3개
+2026-01-12 11:52:38 - NaverCafeCrawler_group2 - INFO - '삼성상담' 4페이지 없음, 종료
+2026-01-12 11:52:38 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 33개
+2026-01-12 11:52:38 - NaverCafeCrawler_group2 - INFO - '삼성상담' 33개 데이터 저장 중...
+2026-01-12 11:52:38 - NaverCafeCrawler_group2 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 11:52:38 - NaverCafeCrawler_group2 - INFO - [카페 1/9] 웨딩킹 완료
+2026-01-12 11:52:38 - NaverCafeCrawler_group2 - INFO - [카페 2/9] 메이크마이웨딩 시작
+2026-01-12 11:52:38 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [1/24] 'lg계약' 시작
+2026-01-12 11:52:41 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지: 15개
+2026-01-12 11:54:51 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2페이지: 15개
+2026-01-12 11:56:58 - NaverCafeCrawler_group2 - INFO - 'lg계약' 3페이지: 15개
+2026-01-12 11:59:16 - NaverCafeCrawler_group2 - INFO - 'lg계약' 4페이지: 8개
+2026-01-12 12:00:50 - NaverCafeCrawler_group2 - INFO - 'lg계약' 5페이지 없음, 종료
+2026-01-12 12:00:50 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 53개
+2026-01-12 12:00:50 - NaverCafeCrawler_group2 - INFO - 'lg계약' 53개 데이터 저장 중...
+2026-01-12 12:00:50 - NaverCafeCrawler_group2 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:00:50 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [2/24] 'lg구매' 시작
+2026-01-12 12:00:55 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지: 15개
+2026-01-12 12:03:23 - NaverCafeCrawler_group2 - INFO - 'lg구매' 2페이지: 15개
+2026-01-12 12:05:52 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 12:05:52 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 #1 (경과: 60분)
+2026-01-12 12:05:52 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 12:05:52 - NaverCafeCrawler_group2 - INFO - 브라우저 종료
+2026-01-12 12:05:54 - NaverCafeCrawler_group2 - INFO - 브라우저 시작
+2026-01-12 12:05:56 - NaverCafeCrawler_group2 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 12:05:56 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 완료
+2026-01-12 12:05:58 - NaverCafeCrawler_group2 - WARNING - 쿠키 만료됨
+2026-01-12 12:05:58 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 12:05:58 - NaverCafeCrawler_group2 - INFO - 네이버 로그인 시작
+2026-01-12 12:06:15 - NaverCafeCrawler_group2 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 12:06:25 - NaverCafeCrawler_group2 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 12:06:25 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 12:06:25 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 12:06:26 - NaverCafeCrawler_group2 - INFO - 기존 URL 325개 로드 완료
+2026-01-12 12:06:26 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 후 'lg구매' 계속
+2026-01-12 12:06:30 - NaverCafeCrawler_group2 - INFO - 'lg구매' 3페이지: 13개
+2026-01-12 12:08:20 - NaverCafeCrawler_group2 - INFO - 'lg구매' 4페이지 없음, 종료
+2026-01-12 12:08:20 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 43개
+2026-01-12 12:08:20 - NaverCafeCrawler_group2 - INFO - 'lg구매' 43개 데이터 저장 중...
+2026-01-12 12:08:21 - NaverCafeCrawler_group2 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:08:21 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [3/24] 'lg졸업' 시작
+2026-01-12 12:08:23 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지: 15개
+2026-01-12 12:10:18 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 2페이지: 11개
+2026-01-12 12:11:35 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 3페이지 없음, 종료
+2026-01-12 12:11:35 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 26개
+2026-01-12 12:11:35 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 26개 데이터 저장 중...
+2026-01-12 12:11:35 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:11:35 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [4/24] '삼성계약' 시작
+2026-01-12 12:11:38 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지: 15개
+2026-01-12 12:13:40 - NaverCafeCrawler_group2 - INFO - '삼성계약' 2페이지: 15개
+2026-01-12 12:16:00 - NaverCafeCrawler_group2 - INFO - '삼성계약' 3페이지: 11개
+2026-01-12 12:17:49 - NaverCafeCrawler_group2 - INFO - '삼성계약' 4페이지 없음, 종료
+2026-01-12 12:17:49 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 41개
+2026-01-12 12:17:49 - NaverCafeCrawler_group2 - INFO - '삼성계약' 41개 데이터 저장 중...
+2026-01-12 12:17:50 - NaverCafeCrawler_group2 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:17:50 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [5/24] '삼성구매' 시작
+2026-01-12 12:17:55 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지: 15개
+2026-01-12 12:20:50 - NaverCafeCrawler_group2 - INFO - '삼성구매' 2페이지: 5개
+2026-01-12 12:21:55 - NaverCafeCrawler_group2 - INFO - '삼성구매' 3페이지 없음, 종료
+2026-01-12 12:21:55 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 20개
+2026-01-12 12:21:55 - NaverCafeCrawler_group2 - INFO - '삼성구매' 20개 데이터 저장 중...
+2026-01-12 12:21:56 - NaverCafeCrawler_group2 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:21:56 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [6/24] '삼성졸업' 시작
+2026-01-12 12:22:00 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지: 14개
+2026-01-12 12:24:26 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 2페이지 없음, 종료
+2026-01-12 12:24:26 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 14개
+2026-01-12 12:24:26 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 14개 데이터 저장 중...
+2026-01-12 12:24:27 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:24:27 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [7/24] '엘지계약' 시작
+2026-01-12 12:24:30 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지: 9개
+2026-01-12 12:26:15 - NaverCafeCrawler_group2 - INFO - '엘지계약' 2페이지 없음, 종료
+2026-01-12 12:26:15 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 9개
+2026-01-12 12:26:15 - NaverCafeCrawler_group2 - INFO - '엘지계약' 9개 데이터 저장 중...
+2026-01-12 12:26:16 - NaverCafeCrawler_group2 - INFO - '엘지계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:26:16 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [8/24] '엘지구매' 시작
+2026-01-12 12:26:20 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지: 7개
+2026-01-12 12:27:53 - NaverCafeCrawler_group2 - INFO - '엘지구매' 2페이지 없음, 종료
+2026-01-12 12:27:53 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 7개
+2026-01-12 12:27:53 - NaverCafeCrawler_group2 - INFO - '엘지구매' 7개 데이터 저장 중...
+2026-01-12 12:27:53 - NaverCafeCrawler_group2 - INFO - '엘지구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:27:53 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [9/24] '엘지졸업' 시작
+2026-01-12 12:27:59 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지: 7개
+2026-01-12 12:29:34 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 2페이지 없음, 종료
+2026-01-12 12:29:34 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 7개
+2026-01-12 12:29:34 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 7개 데이터 저장 중...
+2026-01-12 12:29:35 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:29:35 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [10/24] '베스트샵' 시작
+2026-01-12 12:29:42 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 15개
+2026-01-12 12:32:43 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지: 15개
+2026-01-12 12:35:45 - NaverCafeCrawler_group2 - INFO - '베스트샵' 3페이지: 8개
+2026-01-12 12:37:28 - NaverCafeCrawler_group2 - INFO - '베스트샵' 4페이지 없음, 종료
+2026-01-12 12:37:28 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 38개
+2026-01-12 12:37:28 - NaverCafeCrawler_group2 - INFO - '베스트샵' 38개 데이터 저장 중...
+2026-01-12 12:37:29 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:37:29 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [11/24] '삼성스토어' 시작
+2026-01-12 12:37:34 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지: 15개
+2026-01-12 12:40:20 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 2페이지: 15개
+2026-01-12 12:44:01 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 3페이지: 5개
+2026-01-12 12:45:33 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 4페이지 없음, 종료
+2026-01-12 12:45:33 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 35개
+2026-01-12 12:45:33 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 35개 데이터 저장 중...
+2026-01-12 12:45:35 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:45:35 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [12/24] '가전졸업' 시작
+2026-01-12 12:45:43 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지: 15개
+2026-01-12 12:53:02 - NaverCafeCrawler_group2 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/28757979/articles/627911?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjYyNzkxMSwiaXNzdWVkQXQiOjE3NjgxODk1NDE3OTIsImNhZmVJZCI6Mjg3NTc5Nzl9.WPe_9ZNubADyv736wNNhm--aYVhST39YfY_HsPBgvbQ&page=1): Execution context was destroyed, most likely because of a navigation
+2026-01-12 12:53:02 - NaverCafeCrawler_group2 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 776, in collect_post_details
+    author = author_elem.inner_text().strip() if author_elem.count() > 0 else ""
+                                                 ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17171, in count
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.count()))
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 390, in count
+    return await self._frame._query_count(self._selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 132, in _query_count
+    return await self._channel.send("queryCount", {"selector": selector})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.Error: Execution context was destroyed, most likely because of a navigation
+
+2026-01-12 12:53:25 - NaverCafeCrawler_group2 - INFO - '가전졸업' 2페이지: 15개
+2026-01-12 12:53:56 - NaverCafeCrawler_group2 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/28757979/articles/627503?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjYyNzUwMywiaXNzdWVkQXQiOjE3NjgxOTAwMDUwMzMsImNhZmVJZCI6Mjg3NTc5Nzl9.YEoIcK3m3EP3lto5WGrYkpagp3VEzvnxaTykwdSSeag&page=2): net::ERR_ABORTED at https://cafe.naver.com/f-e/cafes/28757979/articles/627503?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjYyNzUwMywiaXNzdWVkQXQiOjE3NjgxOTAwMDUwMzMsImNhZmVJZCI6Mjg3NTc5Nzl9.YEoIcK3m3EP3lto5WGrYkpagp3VEzvnxaTykwdSSeag&page=2
+2026-01-12 12:53:56 - NaverCafeCrawler_group2 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/28757979/articles/627503?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjYyNzUwMywiaXNzdWVkQXQiOjE3NjgxOTAwMDUwMzMsImNhZmVJZCI6Mjg3NTc5Nzl9.YEoIcK3m3EP3lto5WGrYkpagp3VEzvnxaTykwdSSeag&page=2): net::ERR_ABORTED at https://cafe.naver.com/f-e/cafes/28757979/articles/627503?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjYyNzUwMywiaXNzdWVkQXQiOjE3NjgxOTAwMDUwMzMsImNhZmVJZCI6Mjg3NTc5Nzl9.YEoIcK3m3EP3lto5WGrYkpagp3VEzvnxaTykwdSSeag&page=2
+2026-01-12 12:54:59 - NaverCafeCrawler_group2 - INFO - '가전졸업' 3페이지: 7개
+2026-01-12 12:55:54 - NaverCafeCrawler_group2 - INFO - '가전졸업' 4페이지 없음, 종료
+2026-01-12 12:55:54 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 35개
+2026-01-12 12:55:54 - NaverCafeCrawler_group2 - INFO - '가전졸업' 35개 데이터 저장 중...
+2026-01-12 12:55:55 - NaverCafeCrawler_group2 - INFO - '가전졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:55:55 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [13/24] 'lg렌탈' 시작
+2026-01-12 12:55:57 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지: 3개
+2026-01-12 12:56:35 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 2페이지 없음, 종료
+2026-01-12 12:56:35 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 3개
+2026-01-12 12:56:35 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 3개 데이터 저장 중...
+2026-01-12 12:56:36 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:56:36 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [14/24] '가전렌탈' 시작
+2026-01-12 12:56:37 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 1페이지: 5개
+2026-01-12 12:57:30 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 2페이지 없음, 종료
+2026-01-12 12:57:30 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 5개
+2026-01-12 12:57:30 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 5개 데이터 저장 중...
+2026-01-12 12:57:31 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 12:57:31 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [15/24] '엘지교원' 시작
+2026-01-12 12:57:44 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지 없음, 종료
+2026-01-12 12:57:44 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 0개
+2026-01-12 12:57:44 - NaverCafeCrawler_group2 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 12:57:44 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [16/24] '베스트라이프' 시작
+2026-01-12 12:57:57 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 12:57:57 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 12:57:57 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 12:57:57 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [17/24] '가전구매' 시작
+2026-01-12 12:58:00 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 15개
+2026-01-12 13:00:02 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지: 15개
+2026-01-12 13:02:18 - NaverCafeCrawler_group2 - INFO - '가전구매' 3페이지: 15개
+2026-01-12 13:04:31 - NaverCafeCrawler_group2 - INFO - '가전구매' 4페이지: 8개
+2026-01-12 13:05:57 - NaverCafeCrawler_group2 - INFO - '가전구매' 5페이지 없음, 종료
+2026-01-12 13:05:57 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 53개
+2026-01-12 13:05:57 - NaverCafeCrawler_group2 - INFO - '가전구매' 53개 데이터 저장 중...
+2026-01-12 13:05:59 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:05:59 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [18/24] 'lg vs 삼성' 시작
+2026-01-12 13:06:13 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지 없음, 종료
+2026-01-12 13:06:13 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 0개
+2026-01-12 13:06:13 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:06:13 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [19/24] 'lg구독' 시작
+2026-01-12 13:06:17 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지: 15개
+2026-01-12 13:08:27 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 13:08:27 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 #2 (경과: 62분)
+2026-01-12 13:08:27 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 13:08:27 - NaverCafeCrawler_group2 - INFO - 브라우저 종료
+2026-01-12 13:08:29 - NaverCafeCrawler_group2 - INFO - 브라우저 시작
+2026-01-12 13:08:30 - NaverCafeCrawler_group2 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 13:08:30 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 완료
+2026-01-12 13:08:32 - NaverCafeCrawler_group2 - WARNING - 쿠키 만료됨
+2026-01-12 13:08:32 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 13:08:32 - NaverCafeCrawler_group2 - INFO - 네이버 로그인 시작
+2026-01-12 13:08:37 - NaverCafeCrawler_group2 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 13:08:47 - NaverCafeCrawler_group2 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 13:08:47 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 13:08:47 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 13:08:48 - NaverCafeCrawler_group2 - INFO - 기존 URL 661개 로드 완료
+2026-01-12 13:08:48 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 후 'lg구독' 계속
+2026-01-12 13:09:03 - NaverCafeCrawler_group2 - INFO - 'lg구독' 2페이지 없음, 종료
+2026-01-12 13:09:03 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 15개
+2026-01-12 13:09:03 - NaverCafeCrawler_group2 - INFO - 'lg구독' 15개 데이터 저장 중...
+2026-01-12 13:09:04 - NaverCafeCrawler_group2 - INFO - 'lg구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:09:04 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [20/24] '가전구독' 시작
+2026-01-12 13:09:06 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지: 15개
+2026-01-12 13:10:47 - NaverCafeCrawler_group2 - INFO - '가전구독' 2페이지: 7개
+2026-01-12 13:11:51 - NaverCafeCrawler_group2 - INFO - '가전구독' 3페이지 없음, 종료
+2026-01-12 13:11:51 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 22개
+2026-01-12 13:11:51 - NaverCafeCrawler_group2 - INFO - '가전구독' 22개 데이터 저장 중...
+2026-01-12 13:11:52 - NaverCafeCrawler_group2 - INFO - '가전구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:11:52 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [21/24] '가전상담' 시작
+2026-01-12 13:11:54 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 15개
+2026-01-12 13:13:49 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지: 15개
+2026-01-12 13:15:45 - NaverCafeCrawler_group2 - INFO - '가전상담' 3페이지: 15개
+2026-01-12 13:17:50 - NaverCafeCrawler_group2 - INFO - '가전상담' 4페이지: 13개
+2026-01-12 13:20:10 - NaverCafeCrawler_group2 - INFO - '가전상담' 5페이지 없음, 종료
+2026-01-12 13:20:10 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 58개
+2026-01-12 13:20:10 - NaverCafeCrawler_group2 - INFO - '가전상담' 58개 데이터 저장 중...
+2026-01-12 13:20:11 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:20:11 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [22/24] 'lg상담후기' 시작
+2026-01-12 13:20:14 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지: 15개
+2026-01-12 13:22:43 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 2페이지: 15개
+2026-01-12 13:25:21 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 3페이지: 15개
+2026-01-12 13:27:57 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 4페이지: 4개
+2026-01-12 13:28:54 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 5페이지 없음, 종료
+2026-01-12 13:28:54 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 49개
+2026-01-12 13:28:54 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 49개 데이터 저장 중...
+2026-01-12 13:28:55 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:28:55 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [23/24] '엘지상담' 시작
+2026-01-12 13:28:58 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지: 6개
+2026-01-12 13:30:18 - NaverCafeCrawler_group2 - INFO - '엘지상담' 2페이지 없음, 종료
+2026-01-12 13:30:18 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 6개
+2026-01-12 13:30:18 - NaverCafeCrawler_group2 - INFO - '엘지상담' 6개 데이터 저장 중...
+2026-01-12 13:30:20 - NaverCafeCrawler_group2 - INFO - '엘지상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:30:20 - NaverCafeCrawler_group2 - INFO - [메이크마이웨딩] [24/24] '삼성상담' 시작
+2026-01-12 13:30:25 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지: 15개
+2026-01-12 13:32:55 - NaverCafeCrawler_group2 - INFO - '삼성상담' 2페이지: 14개
+2026-01-12 13:35:34 - NaverCafeCrawler_group2 - INFO - '삼성상담' 3페이지 없음, 종료
+2026-01-12 13:35:34 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 29개
+2026-01-12 13:35:34 - NaverCafeCrawler_group2 - INFO - '삼성상담' 29개 데이터 저장 중...
+2026-01-12 13:35:35 - NaverCafeCrawler_group2 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:35:35 - NaverCafeCrawler_group2 - INFO - [카페 2/9] 메이크마이웨딩 완료
+2026-01-12 13:35:35 - NaverCafeCrawler_group2 - INFO - [카페 3/9] 결혼준비싸게하기 시작
+2026-01-12 13:35:35 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [1/24] 'lg계약' 시작
+2026-01-12 13:35:42 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지: 2개
+2026-01-12 13:36:26 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2페이지 없음, 종료
+2026-01-12 13:36:26 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 2개
+2026-01-12 13:36:26 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2개 데이터 저장 중...
+2026-01-12 13:36:27 - NaverCafeCrawler_group2 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:36:27 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [2/24] 'lg구매' 시작
+2026-01-12 13:36:34 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지: 5개
+2026-01-12 13:37:54 - NaverCafeCrawler_group2 - INFO - 'lg구매' 2페이지 없음, 종료
+2026-01-12 13:37:54 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 5개
+2026-01-12 13:37:54 - NaverCafeCrawler_group2 - INFO - 'lg구매' 5개 데이터 저장 중...
+2026-01-12 13:37:56 - NaverCafeCrawler_group2 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:37:56 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [3/24] 'lg졸업' 시작
+2026-01-12 13:38:01 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지: 2개
+2026-01-12 13:38:47 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 2페이지 없음, 종료
+2026-01-12 13:38:47 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 2개
+2026-01-12 13:38:47 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 2개 데이터 저장 중...
+2026-01-12 13:38:48 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:38:48 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [4/24] '삼성계약' 시작
+2026-01-12 13:38:53 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지: 3개
+2026-01-12 13:39:54 - NaverCafeCrawler_group2 - INFO - '삼성계약' 2페이지 없음, 종료
+2026-01-12 13:39:54 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 3개
+2026-01-12 13:39:54 - NaverCafeCrawler_group2 - INFO - '삼성계약' 3개 데이터 저장 중...
+2026-01-12 13:39:54 - NaverCafeCrawler_group2 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:39:54 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [5/24] '삼성구매' 시작
+2026-01-12 13:39:58 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지: 7개
+2026-01-12 13:41:54 - NaverCafeCrawler_group2 - INFO - '삼성구매' 2페이지 없음, 종료
+2026-01-12 13:41:54 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 7개
+2026-01-12 13:41:54 - NaverCafeCrawler_group2 - INFO - '삼성구매' 7개 데이터 저장 중...
+2026-01-12 13:41:58 - NaverCafeCrawler_group2 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:41:58 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [6/24] '삼성졸업' 시작
+2026-01-12 13:42:06 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지: 6개
+2026-01-12 13:43:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 2페이지 없음, 종료
+2026-01-12 13:43:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 6개
+2026-01-12 13:43:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 6개 데이터 저장 중...
+2026-01-12 13:43:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:43:52 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [7/24] '엘지계약' 시작
+2026-01-12 13:44:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지 없음, 종료
+2026-01-12 13:44:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 0개
+2026-01-12 13:44:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:44:08 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [8/24] '엘지구매' 시작
+2026-01-12 13:44:14 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지: 2개
+2026-01-12 13:45:00 - NaverCafeCrawler_group2 - INFO - '엘지구매' 2페이지 없음, 종료
+2026-01-12 13:45:00 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 2개
+2026-01-12 13:45:00 - NaverCafeCrawler_group2 - INFO - '엘지구매' 2개 데이터 저장 중...
+2026-01-12 13:45:01 - NaverCafeCrawler_group2 - INFO - '엘지구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:45:01 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [9/24] '엘지졸업' 시작
+2026-01-12 13:45:17 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지 없음, 종료
+2026-01-12 13:45:17 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 0개
+2026-01-12 13:45:17 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:45:17 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [10/24] '베스트샵' 시작
+2026-01-12 13:45:22 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 1개
+2026-01-12 13:45:56 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지 없음, 종료
+2026-01-12 13:45:56 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 1개
+2026-01-12 13:45:56 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1개 데이터 저장 중...
+2026-01-12 13:45:57 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:45:57 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [11/24] '삼성스토어' 시작
+2026-01-12 13:46:02 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지: 5개
+2026-01-12 13:47:23 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 2페이지 없음, 종료
+2026-01-12 13:47:23 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 5개
+2026-01-12 13:47:23 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 5개 데이터 저장 중...
+2026-01-12 13:47:24 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:47:24 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [12/24] '가전졸업' 시작
+2026-01-12 13:47:30 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지: 8개
+2026-01-12 13:49:56 - NaverCafeCrawler_group2 - INFO - '가전졸업' 2페이지 없음, 종료
+2026-01-12 13:49:56 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 8개
+2026-01-12 13:49:56 - NaverCafeCrawler_group2 - INFO - '가전졸업' 8개 데이터 저장 중...
+2026-01-12 13:49:58 - NaverCafeCrawler_group2 - INFO - '가전졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:49:58 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [13/24] 'lg렌탈' 시작
+2026-01-12 13:50:30 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지 없음, 종료
+2026-01-12 13:50:30 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 0개
+2026-01-12 13:50:30 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:50:30 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [14/24] '가전렌탈' 시작
+2026-01-12 13:51:10 - NaverCafeCrawler_group2 - WARNING - '가전렌탈' 1페이지 검색 오류: Execution context was destroyed, most likely because of a navigation
+2026-01-12 13:51:10 - NaverCafeCrawler_group2 - ERROR - '가전렌탈' 1페이지 오류: Execution context was destroyed, most likely because of a navigation
+2026-01-12 13:51:10 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 0개
+2026-01-12 13:51:10 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:51:10 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [15/24] '엘지교원' 시작
+2026-01-12 13:51:23 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지 없음, 종료
+2026-01-12 13:51:23 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 0개
+2026-01-12 13:51:23 - NaverCafeCrawler_group2 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:51:23 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [16/24] '베스트라이프' 시작
+2026-01-12 13:51:36 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 13:51:36 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 13:51:36 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:51:36 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [17/24] '가전구매' 시작
+2026-01-12 13:51:38 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 15개
+2026-01-12 13:53:22 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지: 3개
+2026-01-12 13:53:56 - NaverCafeCrawler_group2 - INFO - '가전구매' 3페이지 없음, 종료
+2026-01-12 13:53:56 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 18개
+2026-01-12 13:53:56 - NaverCafeCrawler_group2 - INFO - '가전구매' 18개 데이터 저장 중...
+2026-01-12 13:53:56 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:53:56 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [18/24] 'lg vs 삼성' 시작
+2026-01-12 13:54:09 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지 없음, 종료
+2026-01-12 13:54:09 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 0개
+2026-01-12 13:54:09 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:54:09 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [19/24] 'lg구독' 시작
+2026-01-12 13:54:11 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지: 1개
+2026-01-12 13:54:34 - NaverCafeCrawler_group2 - INFO - 'lg구독' 2페이지 없음, 종료
+2026-01-12 13:54:34 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 1개
+2026-01-12 13:54:34 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1개 데이터 저장 중...
+2026-01-12 13:54:36 - NaverCafeCrawler_group2 - INFO - 'lg구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:54:36 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [20/24] '가전구독' 시작
+2026-01-12 13:54:37 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지: 2개
+2026-01-12 13:55:10 - NaverCafeCrawler_group2 - INFO - '가전구독' 2페이지 없음, 종료
+2026-01-12 13:55:10 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 2개
+2026-01-12 13:55:10 - NaverCafeCrawler_group2 - INFO - '가전구독' 2개 데이터 저장 중...
+2026-01-12 13:55:11 - NaverCafeCrawler_group2 - INFO - '가전구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:55:11 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [21/24] '가전상담' 시작
+2026-01-12 13:55:13 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 15개
+2026-01-12 13:57:08 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지: 1개
+2026-01-12 13:57:30 - NaverCafeCrawler_group2 - INFO - '가전상담' 3페이지 없음, 종료
+2026-01-12 13:57:30 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 16개
+2026-01-12 13:57:30 - NaverCafeCrawler_group2 - INFO - '가전상담' 16개 데이터 저장 중...
+2026-01-12 13:57:32 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:57:32 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [22/24] 'lg상담후기' 시작
+2026-01-12 13:57:33 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지: 1개
+2026-01-12 13:57:58 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 2페이지 없음, 종료
+2026-01-12 13:57:58 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 1개
+2026-01-12 13:57:58 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1개 데이터 저장 중...
+2026-01-12 13:57:59 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:57:59 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [23/24] '엘지상담' 시작
+2026-01-12 13:58:01 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지: 1개
+2026-01-12 13:58:26 - NaverCafeCrawler_group2 - INFO - '엘지상담' 2페이지 없음, 종료
+2026-01-12 13:58:26 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 1개
+2026-01-12 13:58:26 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1개 데이터 저장 중...
+2026-01-12 13:58:28 - NaverCafeCrawler_group2 - INFO - '엘지상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:58:28 - NaverCafeCrawler_group2 - INFO - [결혼준비싸게하기] [24/24] '삼성상담' 시작
+2026-01-12 13:58:30 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지: 6개
+2026-01-12 13:59:34 - NaverCafeCrawler_group2 - INFO - '삼성상담' 2페이지 없음, 종료
+2026-01-12 13:59:34 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 6개
+2026-01-12 13:59:34 - NaverCafeCrawler_group2 - INFO - '삼성상담' 6개 데이터 저장 중...
+2026-01-12 13:59:35 - NaverCafeCrawler_group2 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 13:59:35 - NaverCafeCrawler_group2 - INFO - [카페 3/9] 결혼준비싸게하기 완료
+2026-01-12 13:59:35 - NaverCafeCrawler_group2 - INFO - [카페 4/9] 짠순이결혼준비 시작
+2026-01-12 13:59:35 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [1/24] 'lg계약' 시작
+2026-01-12 13:59:49 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지 없음, 종료
+2026-01-12 13:59:50 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 0개
+2026-01-12 13:59:50 - NaverCafeCrawler_group2 - INFO - 'lg계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 13:59:50 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [2/24] 'lg구매' 시작
+2026-01-12 13:59:53 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지: 1개
+2026-01-12 14:00:19 - NaverCafeCrawler_group2 - INFO - 'lg구매' 2페이지 없음, 종료
+2026-01-12 14:00:19 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 1개
+2026-01-12 14:00:19 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1개 데이터 저장 중...
+2026-01-12 14:00:22 - NaverCafeCrawler_group2 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:00:22 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [3/24] 'lg졸업' 시작
+2026-01-12 14:00:36 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지 없음, 종료
+2026-01-12 14:00:36 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 0개
+2026-01-12 14:00:36 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:00:36 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [4/24] '삼성계약' 시작
+2026-01-12 14:00:38 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지: 1개
+2026-01-12 14:01:03 - NaverCafeCrawler_group2 - INFO - '삼성계약' 2페이지 없음, 종료
+2026-01-12 14:01:03 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 1개
+2026-01-12 14:01:03 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1개 데이터 저장 중...
+2026-01-12 14:01:05 - NaverCafeCrawler_group2 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:01:05 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [5/24] '삼성구매' 시작
+2026-01-12 14:01:08 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지: 6개
+2026-01-12 14:02:17 - NaverCafeCrawler_group2 - INFO - '삼성구매' 2페이지 없음, 종료
+2026-01-12 14:02:17 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 6개
+2026-01-12 14:02:17 - NaverCafeCrawler_group2 - INFO - '삼성구매' 6개 데이터 저장 중...
+2026-01-12 14:02:19 - NaverCafeCrawler_group2 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:02:19 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [6/24] '삼성졸업' 시작
+2026-01-12 14:02:33 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지 없음, 종료
+2026-01-12 14:02:33 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 0개
+2026-01-12 14:02:33 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:02:33 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [7/24] '엘지계약' 시작
+2026-01-12 14:02:47 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지 없음, 종료
+2026-01-12 14:02:47 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 0개
+2026-01-12 14:02:47 - NaverCafeCrawler_group2 - INFO - '엘지계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:02:47 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [8/24] '엘지구매' 시작
+2026-01-12 14:03:02 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지 없음, 종료
+2026-01-12 14:03:02 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 0개
+2026-01-12 14:03:02 - NaverCafeCrawler_group2 - INFO - '엘지구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:03:02 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [9/24] '엘지졸업' 시작
+2026-01-12 14:03:16 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지 없음, 종료
+2026-01-12 14:03:16 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 0개
+2026-01-12 14:03:16 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:03:16 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [10/24] '베스트샵' 시작
+2026-01-12 14:03:19 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 1개
+2026-01-12 14:03:43 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지 없음, 종료
+2026-01-12 14:03:43 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 1개
+2026-01-12 14:03:43 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1개 데이터 저장 중...
+2026-01-12 14:03:44 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:03:44 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [11/24] '삼성스토어' 시작
+2026-01-12 14:03:47 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지: 3개
+2026-01-12 14:04:31 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 2페이지 없음, 종료
+2026-01-12 14:04:31 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 3개
+2026-01-12 14:04:31 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 3개 데이터 저장 중...
+2026-01-12 14:04:35 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:04:35 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [12/24] '가전졸업' 시작
+2026-01-12 14:04:49 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지 없음, 종료
+2026-01-12 14:04:49 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 0개
+2026-01-12 14:04:49 - NaverCafeCrawler_group2 - INFO - '가전졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:04:49 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [13/24] 'lg렌탈' 시작
+2026-01-12 14:05:04 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지 없음, 종료
+2026-01-12 14:05:04 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 0개
+2026-01-12 14:05:04 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:05:04 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [14/24] '가전렌탈' 시작
+2026-01-12 14:05:19 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 1페이지 없음, 종료
+2026-01-12 14:05:19 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 0개
+2026-01-12 14:05:19 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:05:19 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [15/24] '엘지교원' 시작
+2026-01-12 14:05:33 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지 없음, 종료
+2026-01-12 14:05:33 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 0개
+2026-01-12 14:05:33 - NaverCafeCrawler_group2 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:05:33 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [16/24] '베스트라이프' 시작
+2026-01-12 14:05:49 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 14:05:49 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 14:05:49 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:05:49 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [17/24] '가전구매' 시작
+2026-01-12 14:05:51 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 5개
+2026-01-12 14:06:54 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지 없음, 종료
+2026-01-12 14:06:54 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 5개
+2026-01-12 14:06:54 - NaverCafeCrawler_group2 - INFO - '가전구매' 5개 데이터 저장 중...
+2026-01-12 14:06:55 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:06:55 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [18/24] 'lg vs 삼성' 시작
+2026-01-12 14:07:10 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지 없음, 종료
+2026-01-12 14:07:10 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 0개
+2026-01-12 14:07:10 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:07:10 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [19/24] 'lg구독' 시작
+2026-01-12 14:07:13 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지: 1개
+2026-01-12 14:07:38 - NaverCafeCrawler_group2 - INFO - 'lg구독' 2페이지 없음, 종료
+2026-01-12 14:07:38 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 1개
+2026-01-12 14:07:38 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1개 데이터 저장 중...
+2026-01-12 14:07:39 - NaverCafeCrawler_group2 - INFO - 'lg구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:07:40 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [20/24] '가전구독' 시작
+2026-01-12 14:07:43 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지: 1개
+2026-01-12 14:08:11 - NaverCafeCrawler_group2 - INFO - '가전구독' 2페이지 없음, 종료
+2026-01-12 14:08:11 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 1개
+2026-01-12 14:08:11 - NaverCafeCrawler_group2 - INFO - '가전구독' 1개 데이터 저장 중...
+2026-01-12 14:08:12 - NaverCafeCrawler_group2 - INFO - '가전구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:08:12 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [21/24] '가전상담' 시작
+2026-01-12 14:08:16 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 4개
+2026-01-12 14:08:55 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 14:08:55 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 #3 (경과: 60분)
+2026-01-12 14:08:55 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 14:08:55 - NaverCafeCrawler_group2 - INFO - 브라우저 종료
+2026-01-12 14:08:57 - NaverCafeCrawler_group2 - INFO - 브라우저 시작
+2026-01-12 14:09:00 - NaverCafeCrawler_group2 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 14:09:00 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 완료
+2026-01-12 14:09:02 - NaverCafeCrawler_group2 - WARNING - 쿠키 만료됨
+2026-01-12 14:09:02 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 14:09:02 - NaverCafeCrawler_group2 - INFO - 네이버 로그인 시작
+2026-01-12 14:09:38 - NaverCafeCrawler_group2 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 14:09:48 - NaverCafeCrawler_group2 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 14:09:48 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 14:09:48 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 14:09:48 - NaverCafeCrawler_group2 - INFO - 기존 URL 945개 로드 완료
+2026-01-12 14:09:48 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 후 '가전상담' 계속
+2026-01-12 14:10:03 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지 없음, 종료
+2026-01-12 14:10:03 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 4개
+2026-01-12 14:10:03 - NaverCafeCrawler_group2 - INFO - '가전상담' 4개 데이터 저장 중...
+2026-01-12 14:10:05 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:10:05 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [22/24] 'lg상담후기' 시작
+2026-01-12 14:10:22 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지 없음, 종료
+2026-01-12 14:10:22 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 0개
+2026-01-12 14:10:22 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:10:22 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [23/24] '엘지상담' 시작
+2026-01-12 14:10:35 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지 없음, 종료
+2026-01-12 14:10:35 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 0개
+2026-01-12 14:10:35 - NaverCafeCrawler_group2 - INFO - '엘지상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:10:35 - NaverCafeCrawler_group2 - INFO - [짠순이결혼준비] [24/24] '삼성상담' 시작
+2026-01-12 14:10:36 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지: 3개
+2026-01-12 14:11:16 - NaverCafeCrawler_group2 - INFO - '삼성상담' 2페이지 없음, 종료
+2026-01-12 14:11:16 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 3개
+2026-01-12 14:11:16 - NaverCafeCrawler_group2 - INFO - '삼성상담' 3개 데이터 저장 중...
+2026-01-12 14:11:17 - NaverCafeCrawler_group2 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:11:17 - NaverCafeCrawler_group2 - INFO - [카페 4/9] 짠순이결혼준비 완료
+2026-01-12 14:11:17 - NaverCafeCrawler_group2 - INFO - [카페 5/9] 부산제주결준비 시작
+2026-01-12 14:11:17 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [1/24] 'lg계약' 시작
+2026-01-12 14:11:30 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지 없음, 종료
+2026-01-12 14:11:30 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 0개
+2026-01-12 14:11:30 - NaverCafeCrawler_group2 - INFO - 'lg계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:11:30 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [2/24] 'lg구매' 시작
+2026-01-12 14:11:43 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지 없음, 종료
+2026-01-12 14:11:43 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 0개
+2026-01-12 14:11:43 - NaverCafeCrawler_group2 - INFO - 'lg구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:11:43 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [3/24] 'lg졸업' 시작
+2026-01-12 14:11:56 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지 없음, 종료
+2026-01-12 14:11:56 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 0개
+2026-01-12 14:11:56 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:11:56 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [4/24] '삼성계약' 시작
+2026-01-12 14:12:09 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지 없음, 종료
+2026-01-12 14:12:09 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 0개
+2026-01-12 14:12:09 - NaverCafeCrawler_group2 - INFO - '삼성계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:12:09 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [5/24] '삼성구매' 시작
+2026-01-12 14:12:22 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지 없음, 종료
+2026-01-12 14:12:22 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 0개
+2026-01-12 14:12:22 - NaverCafeCrawler_group2 - INFO - '삼성구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:12:22 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [6/24] '삼성졸업' 시작
+2026-01-12 14:12:35 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지 없음, 종료
+2026-01-12 14:12:35 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 0개
+2026-01-12 14:12:35 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:12:35 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [7/24] '엘지계약' 시작
+2026-01-12 14:12:49 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지 없음, 종료
+2026-01-12 14:12:49 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 0개
+2026-01-12 14:12:49 - NaverCafeCrawler_group2 - INFO - '엘지계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:12:49 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [8/24] '엘지구매' 시작
+2026-01-12 14:13:02 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지 없음, 종료
+2026-01-12 14:13:02 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 0개
+2026-01-12 14:13:02 - NaverCafeCrawler_group2 - INFO - '엘지구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:13:02 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [9/24] '엘지졸업' 시작
+2026-01-12 14:13:15 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지 없음, 종료
+2026-01-12 14:13:15 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 0개
+2026-01-12 14:13:15 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:13:15 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [10/24] '베스트샵' 시작
+2026-01-12 14:13:16 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 2개
+2026-01-12 14:13:47 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지 없음, 종료
+2026-01-12 14:13:47 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 2개
+2026-01-12 14:13:47 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2개 데이터 저장 중...
+2026-01-12 14:13:48 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:13:48 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [11/24] '삼성스토어' 시작
+2026-01-12 14:14:02 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지 없음, 종료
+2026-01-12 14:14:02 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 0개
+2026-01-12 14:14:02 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:14:02 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [12/24] '가전졸업' 시작
+2026-01-12 14:14:15 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지 없음, 종료
+2026-01-12 14:14:15 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 0개
+2026-01-12 14:14:15 - NaverCafeCrawler_group2 - INFO - '가전졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:14:15 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [13/24] 'lg렌탈' 시작
+2026-01-12 14:14:28 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지 없음, 종료
+2026-01-12 14:14:28 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 0개
+2026-01-12 14:14:28 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:14:28 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [14/24] '가전렌탈' 시작
+2026-01-12 14:14:41 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 1페이지 없음, 종료
+2026-01-12 14:14:41 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 0개
+2026-01-12 14:14:41 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:14:41 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [15/24] '엘지교원' 시작
+2026-01-12 14:14:54 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지 없음, 종료
+2026-01-12 14:14:54 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 0개
+2026-01-12 14:14:54 - NaverCafeCrawler_group2 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:14:54 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [16/24] '베스트라이프' 시작
+2026-01-12 14:15:07 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 14:15:07 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 14:15:07 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:15:07 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [17/24] '가전구매' 시작
+2026-01-12 14:15:08 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 1개
+2026-01-12 14:15:28 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지 없음, 종료
+2026-01-12 14:15:28 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 1개
+2026-01-12 14:15:28 - NaverCafeCrawler_group2 - INFO - '가전구매' 1개 데이터 저장 중...
+2026-01-12 14:15:30 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:15:30 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [18/24] 'lg vs 삼성' 시작
+2026-01-12 14:15:43 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지 없음, 종료
+2026-01-12 14:15:43 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 0개
+2026-01-12 14:15:43 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:15:43 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [19/24] 'lg구독' 시작
+2026-01-12 14:15:56 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지 없음, 종료
+2026-01-12 14:15:56 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 0개
+2026-01-12 14:15:56 - NaverCafeCrawler_group2 - INFO - 'lg구독' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:15:56 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [20/24] '가전구독' 시작
+2026-01-12 14:16:09 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지 없음, 종료
+2026-01-12 14:16:09 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 0개
+2026-01-12 14:16:09 - NaverCafeCrawler_group2 - INFO - '가전구독' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:16:09 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [21/24] '가전상담' 시작
+2026-01-12 14:16:11 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 2개
+2026-01-12 14:16:40 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지 없음, 종료
+2026-01-12 14:16:40 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 2개
+2026-01-12 14:16:40 - NaverCafeCrawler_group2 - INFO - '가전상담' 2개 데이터 저장 중...
+2026-01-12 14:16:41 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:16:41 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [22/24] 'lg상담후기' 시작
+2026-01-12 14:16:54 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지 없음, 종료
+2026-01-12 14:16:54 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 0개
+2026-01-12 14:16:54 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:16:54 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [23/24] '엘지상담' 시작
+2026-01-12 14:17:07 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지 없음, 종료
+2026-01-12 14:17:07 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 0개
+2026-01-12 14:17:07 - NaverCafeCrawler_group2 - INFO - '엘지상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:17:07 - NaverCafeCrawler_group2 - INFO - [부산제주결준비] [24/24] '삼성상담' 시작
+2026-01-12 14:17:20 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지 없음, 종료
+2026-01-12 14:17:20 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 0개
+2026-01-12 14:17:20 - NaverCafeCrawler_group2 - INFO - '삼성상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:17:20 - NaverCafeCrawler_group2 - INFO - [카페 5/9] 부산제주결준비 완료
+2026-01-12 14:17:20 - NaverCafeCrawler_group2 - INFO - [카페 6/9] 경남결준비 시작
+2026-01-12 14:17:20 - NaverCafeCrawler_group2 - INFO - [경남결준비] [1/24] 'lg계약' 시작
+2026-01-12 14:17:21 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지: 3개
+2026-01-12 14:17:55 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2페이지 없음, 종료
+2026-01-12 14:17:55 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 3개
+2026-01-12 14:17:55 - NaverCafeCrawler_group2 - INFO - 'lg계약' 3개 데이터 저장 중...
+2026-01-12 14:17:56 - NaverCafeCrawler_group2 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:17:56 - NaverCafeCrawler_group2 - INFO - [경남결준비] [2/24] 'lg구매' 시작
+2026-01-12 14:17:58 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지: 5개
+2026-01-12 14:18:47 - NaverCafeCrawler_group2 - INFO - 'lg구매' 2페이지 없음, 종료
+2026-01-12 14:18:47 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 5개
+2026-01-12 14:18:47 - NaverCafeCrawler_group2 - INFO - 'lg구매' 5개 데이터 저장 중...
+2026-01-12 14:18:48 - NaverCafeCrawler_group2 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:18:48 - NaverCafeCrawler_group2 - INFO - [경남결준비] [3/24] 'lg졸업' 시작
+2026-01-12 14:18:49 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지: 2개
+2026-01-12 14:19:17 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 2페이지 없음, 종료
+2026-01-12 14:19:17 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 2개
+2026-01-12 14:19:17 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 2개 데이터 저장 중...
+2026-01-12 14:19:18 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:19:18 - NaverCafeCrawler_group2 - INFO - [경남결준비] [4/24] '삼성계약' 시작
+2026-01-12 14:19:20 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지: 15개
+2026-01-12 14:20:22 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/13781188/articles/988955?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjk4ODk1NSwiaXNzdWVkQXQiOjE3NjgxOTUxNjA1ODAsImNhZmVJZCI6MTM3ODExODh9.FHW5LKE11sPjgc6ZY0skCzdk_TWm00VldwKaK663ZCk&page=1)
+2026-01-12 14:21:30 - NaverCafeCrawler_group2 - INFO - '삼성계약' 2페이지 없음, 종료
+2026-01-12 14:21:30 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 15개
+2026-01-12 14:21:30 - NaverCafeCrawler_group2 - INFO - '삼성계약' 15개 데이터 저장 중...
+2026-01-12 14:21:31 - NaverCafeCrawler_group2 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:21:31 - NaverCafeCrawler_group2 - INFO - [경남결준비] [5/24] '삼성구매' 시작
+2026-01-12 14:21:34 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지: 15개
+2026-01-12 14:23:28 - NaverCafeCrawler_group2 - INFO - '삼성구매' 2페이지: 4개
+2026-01-12 14:24:18 - NaverCafeCrawler_group2 - INFO - '삼성구매' 3페이지 없음, 종료
+2026-01-12 14:24:18 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 19개
+2026-01-12 14:24:18 - NaverCafeCrawler_group2 - INFO - '삼성구매' 19개 데이터 저장 중...
+2026-01-12 14:24:20 - NaverCafeCrawler_group2 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:24:20 - NaverCafeCrawler_group2 - INFO - [경남결준비] [6/24] '삼성졸업' 시작
+2026-01-12 14:24:23 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지: 14개
+2026-01-12 14:26:26 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 2페이지 없음, 종료
+2026-01-12 14:26:26 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 14개
+2026-01-12 14:26:26 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 14개 데이터 저장 중...
+2026-01-12 14:26:30 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:26:30 - NaverCafeCrawler_group2 - INFO - [경남결준비] [7/24] '엘지계약' 시작
+2026-01-12 14:26:34 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지: 2개
+2026-01-12 14:27:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 2페이지 없음, 종료
+2026-01-12 14:27:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 2개
+2026-01-12 14:27:08 - NaverCafeCrawler_group2 - INFO - '엘지계약' 2개 데이터 저장 중...
+2026-01-12 14:27:10 - NaverCafeCrawler_group2 - INFO - '엘지계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:27:10 - NaverCafeCrawler_group2 - INFO - [경남결준비] [8/24] '엘지구매' 시작
+2026-01-12 14:27:13 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지: 1개
+2026-01-12 14:27:39 - NaverCafeCrawler_group2 - INFO - '엘지구매' 2페이지 없음, 종료
+2026-01-12 14:27:39 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 1개
+2026-01-12 14:27:39 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1개 데이터 저장 중...
+2026-01-12 14:27:41 - NaverCafeCrawler_group2 - INFO - '엘지구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:27:41 - NaverCafeCrawler_group2 - INFO - [경남결준비] [9/24] '엘지졸업' 시작
+2026-01-12 14:27:44 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지: 3개
+2026-01-12 14:28:27 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 2페이지 없음, 종료
+2026-01-12 14:28:27 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 3개
+2026-01-12 14:28:27 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 3개 데이터 저장 중...
+2026-01-12 14:28:29 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:28:29 - NaverCafeCrawler_group2 - INFO - [경남결준비] [10/24] '베스트샵' 시작
+2026-01-12 14:28:34 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 15개
+2026-01-12 14:31:26 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지 없음, 종료
+2026-01-12 14:31:26 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 15개
+2026-01-12 14:31:26 - NaverCafeCrawler_group2 - INFO - '베스트샵' 15개 데이터 저장 중...
+2026-01-12 14:31:28 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:31:28 - NaverCafeCrawler_group2 - INFO - [경남결준비] [11/24] '삼성스토어' 시작
+2026-01-12 14:31:32 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지: 15개
+2026-01-12 14:33:53 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 2페이지: 11개
+2026-01-12 14:34:29 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/13781188/articles/988955?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%8A%A4%ED%86%A0%EC%96%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjk4ODk1NSwiaXNzdWVkQXQiOjE3NjgxOTYwMzI4MzQsImNhZmVJZCI6MTM3ODExODh9.dVBnpMi0tuhxNmJex6GPK5GbsAkHf430eG3Ac8J8vFc&page=2)
+2026-01-12 14:36:11 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 3페이지 없음, 종료
+2026-01-12 14:36:11 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 26개
+2026-01-12 14:36:11 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 26개 데이터 저장 중...
+2026-01-12 14:36:13 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:36:13 - NaverCafeCrawler_group2 - INFO - [경남결준비] [12/24] '가전졸업' 시작
+2026-01-12 14:36:21 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지: 15개
+2026-01-12 14:38:58 - NaverCafeCrawler_group2 - INFO - '가전졸업' 2페이지: 1개
+2026-01-12 14:39:31 - NaverCafeCrawler_group2 - INFO - '가전졸업' 3페이지 없음, 종료
+2026-01-12 14:39:31 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 16개
+2026-01-12 14:39:31 - NaverCafeCrawler_group2 - INFO - '가전졸업' 16개 데이터 저장 중...
+2026-01-12 14:39:34 - NaverCafeCrawler_group2 - INFO - '가전졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:39:34 - NaverCafeCrawler_group2 - INFO - [경남결준비] [13/24] 'lg렌탈' 시작
+2026-01-12 14:39:51 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지 없음, 종료
+2026-01-12 14:39:51 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 0개
+2026-01-12 14:39:51 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:39:51 - NaverCafeCrawler_group2 - INFO - [경남결준비] [14/24] '가전렌탈' 시작
+2026-01-12 14:40:08 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 1페이지 없음, 종료
+2026-01-12 14:40:08 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 0개
+2026-01-12 14:40:08 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:40:08 - NaverCafeCrawler_group2 - INFO - [경남결준비] [15/24] '엘지교원' 시작
+2026-01-12 14:40:27 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지 없음, 종료
+2026-01-12 14:40:27 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 0개
+2026-01-12 14:40:27 - NaverCafeCrawler_group2 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:40:27 - NaverCafeCrawler_group2 - INFO - [경남결준비] [16/24] '베스트라이프' 시작
+2026-01-12 14:40:44 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 14:40:44 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 14:40:44 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:40:44 - NaverCafeCrawler_group2 - INFO - [경남결준비] [17/24] '가전구매' 시작
+2026-01-12 14:40:50 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 15개
+2026-01-12 14:43:55 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지: 10개
+2026-01-12 14:46:05 - NaverCafeCrawler_group2 - INFO - '가전구매' 3페이지 없음, 종료
+2026-01-12 14:46:05 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 25개
+2026-01-12 14:46:05 - NaverCafeCrawler_group2 - INFO - '가전구매' 25개 데이터 저장 중...
+2026-01-12 14:46:07 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:46:07 - NaverCafeCrawler_group2 - INFO - [경남결준비] [18/24] 'lg vs 삼성' 시작
+2026-01-12 14:46:24 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지 없음, 종료
+2026-01-12 14:46:24 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 0개
+2026-01-12 14:46:24 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 14:46:24 - NaverCafeCrawler_group2 - INFO - [경남결준비] [19/24] 'lg구독' 시작
+2026-01-12 14:46:29 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지: 1개
+2026-01-12 14:47:11 - NaverCafeCrawler_group2 - INFO - 'lg구독' 2페이지 없음, 종료
+2026-01-12 14:47:11 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 1개
+2026-01-12 14:47:11 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1개 데이터 저장 중...
+2026-01-12 14:47:15 - NaverCafeCrawler_group2 - INFO - 'lg구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:47:15 - NaverCafeCrawler_group2 - INFO - [경남결준비] [20/24] '가전구독' 시작
+2026-01-12 14:47:21 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지: 6개
+2026-01-12 14:49:40 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/13781188/articles/989077?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%8F%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjk4OTA3NywiaXNzdWVkQXQiOjE3NjgxOTY4NDA2NDIsImNhZmVJZCI6MTM3ODExODh9.NA5IZy7MB3YLeCOZHxtWEDmBXdfpl1h6_ayBWaLZl88&page=1)
+2026-01-12 14:50:33 - NaverCafeCrawler_group2 - INFO - '가전구독' 2페이지 없음, 종료
+2026-01-12 14:50:33 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 6개
+2026-01-12 14:50:33 - NaverCafeCrawler_group2 - INFO - '가전구독' 6개 데이터 저장 중...
+2026-01-12 14:50:34 - NaverCafeCrawler_group2 - INFO - '가전구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:50:34 - NaverCafeCrawler_group2 - INFO - [경남결준비] [21/24] '가전상담' 시작
+2026-01-12 14:50:36 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 15개
+2026-01-12 14:52:08 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지: 9개
+2026-01-12 14:53:17 - NaverCafeCrawler_group2 - INFO - '가전상담' 3페이지 없음, 종료
+2026-01-12 14:53:17 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 24개
+2026-01-12 14:53:17 - NaverCafeCrawler_group2 - INFO - '가전상담' 24개 데이터 저장 중...
+2026-01-12 14:53:18 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:53:18 - NaverCafeCrawler_group2 - INFO - [경남결준비] [22/24] 'lg상담후기' 시작
+2026-01-12 14:53:19 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지: 5개
+2026-01-12 14:54:08 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 2페이지 없음, 종료
+2026-01-12 14:54:08 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 5개
+2026-01-12 14:54:08 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 5개 데이터 저장 중...
+2026-01-12 14:54:10 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:54:10 - NaverCafeCrawler_group2 - INFO - [경남결준비] [23/24] '엘지상담' 시작
+2026-01-12 14:54:12 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지: 2개
+2026-01-12 14:54:39 - NaverCafeCrawler_group2 - INFO - '엘지상담' 2페이지 없음, 종료
+2026-01-12 14:54:39 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 2개
+2026-01-12 14:54:39 - NaverCafeCrawler_group2 - INFO - '엘지상담' 2개 데이터 저장 중...
+2026-01-12 14:54:41 - NaverCafeCrawler_group2 - INFO - '엘지상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:54:41 - NaverCafeCrawler_group2 - INFO - [경남결준비] [24/24] '삼성상담' 시작
+2026-01-12 14:54:43 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지: 15개
+2026-01-12 14:56:28 - NaverCafeCrawler_group2 - INFO - '삼성상담' 2페이지: 4개
+2026-01-12 14:57:16 - NaverCafeCrawler_group2 - INFO - '삼성상담' 3페이지 없음, 종료
+2026-01-12 14:57:16 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 19개
+2026-01-12 14:57:16 - NaverCafeCrawler_group2 - INFO - '삼성상담' 19개 데이터 저장 중...
+2026-01-12 14:57:17 - NaverCafeCrawler_group2 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:57:17 - NaverCafeCrawler_group2 - INFO - [카페 6/9] 경남결준비 완료
+2026-01-12 14:57:17 - NaverCafeCrawler_group2 - INFO - [카페 7/9] 맘스홀릭베이비 시작
+2026-01-12 14:57:17 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [1/24] 'lg계약' 시작
+2026-01-12 14:57:19 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지: 1개
+2026-01-12 14:57:45 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2페이지 없음, 종료
+2026-01-12 14:57:45 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 1개
+2026-01-12 14:57:45 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1개 데이터 저장 중...
+2026-01-12 14:57:49 - NaverCafeCrawler_group2 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 14:57:49 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [2/24] 'lg구매' 시작
+2026-01-12 14:57:53 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지: 15개
+2026-01-12 15:00:21 - NaverCafeCrawler_group2 - INFO - 'lg구매' 2페이지: 1개
+2026-01-12 15:00:50 - NaverCafeCrawler_group2 - INFO - 'lg구매' 3페이지 없음, 종료
+2026-01-12 15:00:50 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 16개
+2026-01-12 15:00:50 - NaverCafeCrawler_group2 - INFO - 'lg구매' 16개 데이터 저장 중...
+2026-01-12 15:00:51 - NaverCafeCrawler_group2 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:00:51 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [3/24] 'lg졸업' 시작
+2026-01-12 15:00:55 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지: 1개
+2026-01-12 15:01:27 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 2페이지 없음, 종료
+2026-01-12 15:01:27 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 1개
+2026-01-12 15:01:27 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1개 데이터 저장 중...
+2026-01-12 15:01:30 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:01:30 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [4/24] '삼성계약' 시작
+2026-01-12 15:01:33 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지: 6개
+2026-01-12 15:02:41 - NaverCafeCrawler_group2 - INFO - '삼성계약' 2페이지 없음, 종료
+2026-01-12 15:02:41 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 6개
+2026-01-12 15:02:41 - NaverCafeCrawler_group2 - INFO - '삼성계약' 6개 데이터 저장 중...
+2026-01-12 15:02:43 - NaverCafeCrawler_group2 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:02:43 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [5/24] '삼성구매' 시작
+2026-01-12 15:02:48 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지: 15개
+2026-01-12 15:04:32 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10094499/articles/77833021?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjc3ODMzMDIxLCJpc3N1ZWRBdCI6MTc2ODE5Nzc2NzQ1NSwiY2FmZUlkIjoxMDA5NDQ5OX0.3ULBHiURZjikjF0NkRvL6XgIrpEjWHAFfrycT1kPNRI&page=1)
+2026-01-12 15:05:26 - NaverCafeCrawler_group2 - INFO - '삼성구매' 2페이지: 15개
+2026-01-12 15:05:48 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10094499/articles/77819968?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjc3ODE5OTY4LCJpc3N1ZWRBdCI6MTc2ODE5NzkyNjM2NiwiY2FmZUlkIjoxMDA5NDQ5OX0.Jlm2Rv0a8U2R_mFlKA46S6IManYAAe2ThQk9slijkVM&page=2)
+2026-01-12 15:08:08 - NaverCafeCrawler_group2 - INFO - '삼성구매' 3페이지: 15개
+2026-01-12 15:10:39 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 15:10:39 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 #4 (경과: 60분)
+2026-01-12 15:10:39 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 15:10:39 - NaverCafeCrawler_group2 - INFO - 브라우저 종료
+2026-01-12 15:10:42 - NaverCafeCrawler_group2 - INFO - 브라우저 시작
+2026-01-12 15:10:43 - NaverCafeCrawler_group2 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 15:10:43 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 완료
+2026-01-12 15:10:45 - NaverCafeCrawler_group2 - WARNING - 쿠키 만료됨
+2026-01-12 15:10:45 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 15:10:45 - NaverCafeCrawler_group2 - INFO - 네이버 로그인 시작
+2026-01-12 15:11:20 - NaverCafeCrawler_group2 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 15:11:30 - NaverCafeCrawler_group2 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 15:11:30 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 15:11:30 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 15:11:32 - NaverCafeCrawler_group2 - INFO - 기존 URL 1184개 로드 완료
+2026-01-12 15:11:32 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 후 '삼성구매' 계속
+2026-01-12 15:11:37 - NaverCafeCrawler_group2 - INFO - '삼성구매' 4페이지: 8개
+2026-01-12 15:12:39 - NaverCafeCrawler_group2 - INFO - '삼성구매' 5페이지 없음, 종료
+2026-01-12 15:12:39 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 53개
+2026-01-12 15:12:39 - NaverCafeCrawler_group2 - INFO - '삼성구매' 53개 데이터 저장 중...
+2026-01-12 15:12:41 - NaverCafeCrawler_group2 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:12:41 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [6/24] '삼성졸업' 시작
+2026-01-12 15:12:42 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지: 1개
+2026-01-12 15:13:03 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 2페이지 없음, 종료
+2026-01-12 15:13:03 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 1개
+2026-01-12 15:13:03 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1개 데이터 저장 중...
+2026-01-12 15:13:05 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:13:05 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [7/24] '엘지계약' 시작
+2026-01-12 15:13:06 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지: 3개
+2026-01-12 15:13:40 - NaverCafeCrawler_group2 - INFO - '엘지계약' 2페이지 없음, 종료
+2026-01-12 15:13:40 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 3개
+2026-01-12 15:13:40 - NaverCafeCrawler_group2 - INFO - '엘지계약' 3개 데이터 저장 중...
+2026-01-12 15:13:42 - NaverCafeCrawler_group2 - INFO - '엘지계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:13:42 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [8/24] '엘지구매' 시작
+2026-01-12 15:13:43 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지: 5개
+2026-01-12 15:14:08 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10094499/articles/77820945?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjc3ODIwOTQ1LCJpc3N1ZWRBdCI6MTc2ODE5ODQyMzM4NSwiY2FmZUlkIjoxMDA5NDQ5OX0.L20zV8UJUlILOePAdKi0QEsgCst40UtjZwRA7Kz-X18&page=1)
+2026-01-12 15:14:46 - NaverCafeCrawler_group2 - INFO - '엘지구매' 2페이지 없음, 종료
+2026-01-12 15:14:46 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 5개
+2026-01-12 15:14:46 - NaverCafeCrawler_group2 - INFO - '엘지구매' 5개 데이터 저장 중...
+2026-01-12 15:14:48 - NaverCafeCrawler_group2 - INFO - '엘지구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:14:48 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [9/24] '엘지졸업' 시작
+2026-01-12 15:15:01 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지 없음, 종료
+2026-01-12 15:15:01 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 0개
+2026-01-12 15:15:01 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:15:01 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [10/24] '베스트샵' 시작
+2026-01-12 15:15:02 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 2개
+2026-01-12 15:15:32 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지 없음, 종료
+2026-01-12 15:15:32 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 2개
+2026-01-12 15:15:32 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2개 데이터 저장 중...
+2026-01-12 15:15:34 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:15:34 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [11/24] '삼성스토어' 시작
+2026-01-12 15:15:36 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지: 5개
+2026-01-12 15:15:55 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10094499/articles/77833021?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%8A%A4%ED%86%A0%EC%96%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjc3ODMzMDIxLCJpc3N1ZWRBdCI6MTc2ODE5ODUzNTYyNSwiY2FmZUlkIjoxMDA5NDQ5OX0.5RtHKRlI9s3Ur7gqMRj7VVKmMtllsoov9SU6sKNS1kE&page=1)
+2026-01-12 15:16:39 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 2페이지 없음, 종료
+2026-01-12 15:16:39 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 5개
+2026-01-12 15:16:39 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 5개 데이터 저장 중...
+2026-01-12 15:16:41 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:16:41 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [12/24] '가전졸업' 시작
+2026-01-12 15:16:54 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지 없음, 종료
+2026-01-12 15:16:54 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 0개
+2026-01-12 15:16:54 - NaverCafeCrawler_group2 - INFO - '가전졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:16:54 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [13/24] 'lg렌탈' 시작
+2026-01-12 15:16:55 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지: 2개
+2026-01-12 15:17:22 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 2페이지 없음, 종료
+2026-01-12 15:17:22 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 2개
+2026-01-12 15:17:22 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 2개 데이터 저장 중...
+2026-01-12 15:17:24 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:17:24 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [14/24] '가전렌탈' 시작
+2026-01-12 15:17:37 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 1페이지 없음, 종료
+2026-01-12 15:17:37 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 0개
+2026-01-12 15:17:37 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:17:37 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [15/24] '엘지교원' 시작
+2026-01-12 15:17:50 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지 없음, 종료
+2026-01-12 15:17:50 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 0개
+2026-01-12 15:17:50 - NaverCafeCrawler_group2 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:17:50 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [16/24] '베스트라이프' 시작
+2026-01-12 15:18:03 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 15:18:03 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 15:18:03 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:18:03 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [17/24] '가전구매' 시작
+2026-01-12 15:18:06 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 15개
+2026-01-12 15:18:53 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10094499/articles/77833021?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjc3ODMzMDIxLCJpc3N1ZWRBdCI6MTc2ODE5ODY4NTQ3OSwiY2FmZUlkIjoxMDA5NDQ5OX0.Di6ftS0MEvoXdge82cTAGxI6CprIKoBhv9iQrd_-jT8&page=1)
+2026-01-12 15:19:53 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10094499/articles/77820945?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjc3ODIwOTQ1LCJpc3N1ZWRBdCI6MTc2ODE5ODY4NTQ3OSwiY2FmZUlkIjoxMDA5NDQ5OX0._xSB_O8c0sJNF6XmzR-V5O4hxsQpKJPn7OQ665Lsy6k&page=1)
+2026-01-12 15:20:42 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지: 10개
+2026-01-12 15:22:22 - NaverCafeCrawler_group2 - INFO - '가전구매' 3페이지 없음, 종료
+2026-01-12 15:22:22 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 25개
+2026-01-12 15:22:22 - NaverCafeCrawler_group2 - INFO - '가전구매' 25개 데이터 저장 중...
+2026-01-12 15:22:25 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:22:25 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [18/24] 'lg vs 삼성' 시작
+2026-01-12 15:22:28 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지: 1개
+2026-01-12 15:22:53 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 2페이지 없음, 종료
+2026-01-12 15:22:53 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 1개
+2026-01-12 15:22:53 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1개 데이터 저장 중...
+2026-01-12 15:22:55 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:22:55 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [19/24] 'lg구독' 시작
+2026-01-12 15:23:09 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지 없음, 종료
+2026-01-12 15:23:09 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 0개
+2026-01-12 15:23:09 - NaverCafeCrawler_group2 - INFO - 'lg구독' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:23:09 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [20/24] '가전구독' 시작
+2026-01-12 15:23:23 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지 없음, 종료
+2026-01-12 15:23:23 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 0개
+2026-01-12 15:23:23 - NaverCafeCrawler_group2 - INFO - '가전구독' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:23:23 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [21/24] '가전상담' 시작
+2026-01-12 15:23:25 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 8개
+2026-01-12 15:25:00 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지 없음, 종료
+2026-01-12 15:25:00 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 8개
+2026-01-12 15:25:00 - NaverCafeCrawler_group2 - INFO - '가전상담' 8개 데이터 저장 중...
+2026-01-12 15:25:02 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:25:02 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [22/24] 'lg상담후기' 시작
+2026-01-12 15:25:05 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지: 1개
+2026-01-12 15:25:29 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 2페이지 없음, 종료
+2026-01-12 15:25:29 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 1개
+2026-01-12 15:25:29 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1개 데이터 저장 중...
+2026-01-12 15:25:31 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:25:31 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [23/24] '엘지상담' 시작
+2026-01-12 15:25:33 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지: 3개
+2026-01-12 15:26:14 - NaverCafeCrawler_group2 - INFO - '엘지상담' 2페이지 없음, 종료
+2026-01-12 15:26:14 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 3개
+2026-01-12 15:26:14 - NaverCafeCrawler_group2 - INFO - '엘지상담' 3개 데이터 저장 중...
+2026-01-12 15:26:15 - NaverCafeCrawler_group2 - INFO - '엘지상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:26:15 - NaverCafeCrawler_group2 - INFO - [맘스홀릭베이비] [24/24] '삼성상담' 시작
+2026-01-12 15:26:18 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지: 15개
+2026-01-12 15:28:35 - NaverCafeCrawler_group2 - INFO - '삼성상담' 2페이지 없음, 종료
+2026-01-12 15:28:35 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 15개
+2026-01-12 15:28:35 - NaverCafeCrawler_group2 - INFO - '삼성상담' 15개 데이터 저장 중...
+2026-01-12 15:28:37 - NaverCafeCrawler_group2 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:28:37 - NaverCafeCrawler_group2 - INFO - [카페 7/9] 맘스홀릭베이비 완료
+2026-01-12 15:28:37 - NaverCafeCrawler_group2 - INFO - [카페 8/9] 레몬테라스 시작
+2026-01-12 15:28:37 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [1/24] 'lg계약' 시작
+2026-01-12 15:28:41 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지: 2개
+2026-01-12 15:29:12 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2페이지 없음, 종료
+2026-01-12 15:29:12 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 2개
+2026-01-12 15:29:12 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2개 데이터 저장 중...
+2026-01-12 15:29:15 - NaverCafeCrawler_group2 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:29:15 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [2/24] 'lg구매' 시작
+2026-01-12 15:29:18 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지: 7개
+2026-01-12 15:29:23 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10298136/articles/34399743?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjM0Mzk5NzQzLCJpc3N1ZWRBdCI6MTc2ODE5OTM1ODI3MCwiY2FmZUlkIjoxMDI5ODEzNn0.1V72CwmPANCsnGY93a5XypLmStWoKsJv6WoNzwkimrM&page=1)
+2026-01-12 15:30:42 - NaverCafeCrawler_group2 - INFO - 'lg구매' 2페이지 없음, 종료
+2026-01-12 15:30:42 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 7개
+2026-01-12 15:30:42 - NaverCafeCrawler_group2 - INFO - 'lg구매' 7개 데이터 저장 중...
+2026-01-12 15:30:43 - NaverCafeCrawler_group2 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:30:43 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [3/24] 'lg졸업' 시작
+2026-01-12 15:30:59 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지 없음, 종료
+2026-01-12 15:30:59 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 0개
+2026-01-12 15:30:59 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:30:59 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [4/24] '삼성계약' 시작
+2026-01-12 15:31:02 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지: 3개
+2026-01-12 15:31:42 - NaverCafeCrawler_group2 - INFO - '삼성계약' 2페이지 없음, 종료
+2026-01-12 15:31:42 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 3개
+2026-01-12 15:31:42 - NaverCafeCrawler_group2 - INFO - '삼성계약' 3개 데이터 저장 중...
+2026-01-12 15:31:44 - NaverCafeCrawler_group2 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:31:44 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [5/24] '삼성구매' 시작
+2026-01-12 15:31:50 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지: 13개
+2026-01-12 15:32:10 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10298136/articles/34401825?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjM0NDAxODI1LCJpc3N1ZWRBdCI6MTc2ODE5OTUwOTYwMywiY2FmZUlkIjoxMDI5ODEzNn0.UC6rlGcw7LM1WSWRCmu5uYcObO4Qy5CDG1PjDcLUgno&page=1)
+2026-01-12 15:34:10 - NaverCafeCrawler_group2 - INFO - '삼성구매' 2페이지 없음, 종료
+2026-01-12 15:34:10 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 13개
+2026-01-12 15:34:10 - NaverCafeCrawler_group2 - INFO - '삼성구매' 13개 데이터 저장 중...
+2026-01-12 15:34:12 - NaverCafeCrawler_group2 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:34:12 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [6/24] '삼성졸업' 시작
+2026-01-12 15:34:17 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지: 2개
+2026-01-12 15:34:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 2페이지 없음, 종료
+2026-01-12 15:34:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 2개
+2026-01-12 15:34:52 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 2개 데이터 저장 중...
+2026-01-12 15:34:55 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:34:55 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [7/24] '엘지계약' 시작
+2026-01-12 15:34:58 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지: 3개
+2026-01-12 15:35:40 - NaverCafeCrawler_group2 - INFO - '엘지계약' 2페이지 없음, 종료
+2026-01-12 15:35:40 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 3개
+2026-01-12 15:35:40 - NaverCafeCrawler_group2 - INFO - '엘지계약' 3개 데이터 저장 중...
+2026-01-12 15:35:43 - NaverCafeCrawler_group2 - INFO - '엘지계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:35:43 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [8/24] '엘지구매' 시작
+2026-01-12 15:35:46 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지: 5개
+2026-01-12 15:36:48 - NaverCafeCrawler_group2 - INFO - '엘지구매' 2페이지 없음, 종료
+2026-01-12 15:36:48 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 5개
+2026-01-12 15:36:48 - NaverCafeCrawler_group2 - INFO - '엘지구매' 5개 데이터 저장 중...
+2026-01-12 15:36:51 - NaverCafeCrawler_group2 - INFO - '엘지구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:36:51 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [9/24] '엘지졸업' 시작
+2026-01-12 15:37:06 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지 없음, 종료
+2026-01-12 15:37:06 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 0개
+2026-01-12 15:37:06 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:37:06 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [10/24] '베스트샵' 시작
+2026-01-12 15:37:10 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 1개
+2026-01-12 15:37:39 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지 없음, 종료
+2026-01-12 15:37:39 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 1개
+2026-01-12 15:37:39 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1개 데이터 저장 중...
+2026-01-12 15:37:42 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:37:42 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [11/24] '삼성스토어' 시작
+2026-01-12 15:37:48 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지: 4개
+2026-01-12 15:37:57 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10298136/articles/34402745?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%8A%A4%ED%86%A0%EC%96%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjM0NDAyNzQ1LCJpc3N1ZWRBdCI6MTc2ODE5OTg2Njc5NCwiY2FmZUlkIjoxMDI5ODEzNn0.JFtu7YeU55co98qQ7kra-LfPMqy9zTo481gUTNHH7ds&page=1)
+2026-01-12 15:39:03 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 2페이지 없음, 종료
+2026-01-12 15:39:03 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 4개
+2026-01-12 15:39:03 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 4개 데이터 저장 중...
+2026-01-12 15:39:05 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:39:05 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [12/24] '가전졸업' 시작
+2026-01-12 15:39:08 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지: 1개
+2026-01-12 15:39:37 - NaverCafeCrawler_group2 - INFO - '가전졸업' 2페이지 없음, 종료
+2026-01-12 15:39:37 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 1개
+2026-01-12 15:39:37 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1개 데이터 저장 중...
+2026-01-12 15:39:41 - NaverCafeCrawler_group2 - INFO - '가전졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:39:41 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [13/24] 'lg렌탈' 시작
+2026-01-12 15:39:46 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지: 5개
+2026-01-12 15:40:49 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 2페이지 없음, 종료
+2026-01-12 15:40:49 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 5개
+2026-01-12 15:40:49 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 5개 데이터 저장 중...
+2026-01-12 15:40:52 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:40:52 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [14/24] '가전렌탈' 시작
+2026-01-12 15:40:56 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 1페이지: 3개
+2026-01-12 15:41:45 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 2페이지 없음, 종료
+2026-01-12 15:41:45 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 3개
+2026-01-12 15:41:45 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 3개 데이터 저장 중...
+2026-01-12 15:41:48 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:41:48 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [15/24] '엘지교원' 시작
+2026-01-12 15:41:52 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지: 2개
+2026-01-12 15:42:28 - NaverCafeCrawler_group2 - INFO - '엘지교원' 2페이지 없음, 종료
+2026-01-12 15:42:28 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 2개
+2026-01-12 15:42:28 - NaverCafeCrawler_group2 - INFO - '엘지교원' 2개 데이터 저장 중...
+2026-01-12 15:42:32 - NaverCafeCrawler_group2 - INFO - '엘지교원' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:42:32 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [16/24] '베스트라이프' 시작
+2026-01-12 15:42:49 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 15:42:49 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 15:42:49 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 15:42:49 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [17/24] '가전구매' 시작
+2026-01-12 15:42:56 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 13개
+2026-01-12 15:43:24 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10298136/articles/34399743?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjM0Mzk5NzQzLCJpc3N1ZWRBdCI6MTc2ODIwMDE3NTgzNSwiY2FmZUlkIjoxMDI5ODEzNn0.R-TRm3vDr9Hb9Ey1WSjLtzONnwwp-N1sWFHLAxOq3vk&page=1)
+2026-01-12 15:45:36 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지 없음, 종료
+2026-01-12 15:45:36 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 13개
+2026-01-12 15:45:36 - NaverCafeCrawler_group2 - INFO - '가전구매' 13개 데이터 저장 중...
+2026-01-12 15:45:39 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:45:39 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [18/24] 'lg vs 삼성' 시작
+2026-01-12 15:45:43 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지: 1개
+2026-01-12 15:46:08 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 2페이지 없음, 종료
+2026-01-12 15:46:08 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 1개
+2026-01-12 15:46:08 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1개 데이터 저장 중...
+2026-01-12 15:46:11 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:46:11 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [19/24] 'lg구독' 시작
+2026-01-12 15:46:14 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지: 2개
+2026-01-12 15:46:20 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10298136/articles/34399743?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%8F%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjM0Mzk5NzQzLCJpc3N1ZWRBdCI6MTc2ODIwMDM3NDIwMSwiY2FmZUlkIjoxMDI5ODEzNn0.kqnDdt2kJi81Nd5SfOHdk_rsGj4NAS5KKdENlzeXMDY&page=1)
+2026-01-12 15:47:01 - NaverCafeCrawler_group2 - INFO - 'lg구독' 2페이지 없음, 종료
+2026-01-12 15:47:01 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 2개
+2026-01-12 15:47:01 - NaverCafeCrawler_group2 - INFO - 'lg구독' 2개 데이터 저장 중...
+2026-01-12 15:47:06 - NaverCafeCrawler_group2 - INFO - 'lg구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:47:07 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [20/24] '가전구독' 시작
+2026-01-12 15:47:09 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지: 3개
+2026-01-12 15:47:16 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10298136/articles/34399743?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%8F%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjM0Mzk5NzQzLCJpc3N1ZWRBdCI6MTc2ODIwMDQyOTA2NywiY2FmZUlkIjoxMDI5ODEzNn0.s5s07joF-yLhEP71r8dthA8SXtRAf6VBFq_jlYkiID8&page=1)
+2026-01-12 15:48:15 - NaverCafeCrawler_group2 - INFO - '가전구독' 2페이지 없음, 종료
+2026-01-12 15:48:15 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 3개
+2026-01-12 15:48:15 - NaverCafeCrawler_group2 - INFO - '가전구독' 3개 데이터 저장 중...
+2026-01-12 15:48:17 - NaverCafeCrawler_group2 - INFO - '가전구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:48:17 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [21/24] '가전상담' 시작
+2026-01-12 15:48:20 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 3개
+2026-01-12 15:49:06 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지 없음, 종료
+2026-01-12 15:49:06 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 3개
+2026-01-12 15:49:06 - NaverCafeCrawler_group2 - INFO - '가전상담' 3개 데이터 저장 중...
+2026-01-12 15:49:07 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:49:07 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [22/24] 'lg상담후기' 시작
+2026-01-12 15:49:12 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지: 1개
+2026-01-12 15:49:39 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 2페이지 없음, 종료
+2026-01-12 15:49:39 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 1개
+2026-01-12 15:49:39 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1개 데이터 저장 중...
+2026-01-12 15:49:41 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:49:41 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [23/24] '엘지상담' 시작
+2026-01-12 15:49:46 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지: 3개
+2026-01-12 15:50:32 - NaverCafeCrawler_group2 - INFO - '엘지상담' 2페이지 없음, 종료
+2026-01-12 15:50:33 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 3개
+2026-01-12 15:50:33 - NaverCafeCrawler_group2 - INFO - '엘지상담' 3개 데이터 저장 중...
+2026-01-12 15:50:38 - NaverCafeCrawler_group2 - INFO - '엘지상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:50:38 - NaverCafeCrawler_group2 - INFO - [레몬테라스] [24/24] '삼성상담' 시작
+2026-01-12 15:50:43 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지: 9개
+2026-01-12 15:50:49 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/10298136/articles/34402745?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjM0NDAyNzQ1LCJpc3N1ZWRBdCI6MTc2ODIwMDY0MjY4OCwiY2FmZUlkIjoxMDI5ODEzNn0.RUEMFySG3ztEu71CDCkia_2cipLLHNH4B7LREHU0Wx0&page=1)
+2026-01-12 15:52:48 - NaverCafeCrawler_group2 - INFO - '삼성상담' 2페이지 없음, 종료
+2026-01-12 15:52:48 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 9개
+2026-01-12 15:52:48 - NaverCafeCrawler_group2 - INFO - '삼성상담' 9개 데이터 저장 중...
+2026-01-12 15:52:55 - NaverCafeCrawler_group2 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:52:55 - NaverCafeCrawler_group2 - INFO - [카페 8/9] 레몬테라스 완료
+2026-01-12 15:52:55 - NaverCafeCrawler_group2 - INFO - [카페 9/9] 셀프인테리어마이홈 시작
+2026-01-12 15:52:55 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [1/24] 'lg계약' 시작
+2026-01-12 15:53:00 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지: 15개
+2026-01-12 15:53:15 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533802?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM4MDIsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTE5LCJjYWZlSWQiOjIzNzAwNDE4fQ.p0fRS51TnHPSNQZF1VwYVOt06OQZ_N0F0yjYevBHkMg&page=1)
+2026-01-12 15:53:36 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533574?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM1NzQsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTE5LCJjYWZlSWQiOjIzNzAwNDE4fQ.pKMX9Ilwg6g4VFOiVqHY7JBEt7c-vMX4obclaIbAGTo&page=1)
+2026-01-12 15:53:59 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532838?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzI4MzgsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTE5LCJjYWZlSWQiOjIzNzAwNDE4fQ.kGaYQzNaxGvfL-k4ZCdw6T5HzP7S-HrjDCgXJrwJ5Ik&page=1)
+2026-01-12 15:54:21 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532217?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzIyMTcsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTE5LCJjYWZlSWQiOjIzNzAwNDE4fQ.ic9H1c6vhcIfPgOXXnx9CoxqpWlU1F7KnaTofuK_s6g&page=1)
+2026-01-12 15:54:43 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531603?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzE2MDMsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTE5LCJjYWZlSWQiOjIzNzAwNDE4fQ.0YZQGhD-U2XDByTXNGRI1O71oRbveNRqE2AoGPZ91LY&page=1)
+2026-01-12 15:55:49 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529992?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjk5OTIsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTE5LCJjYWZlSWQiOjIzNzAwNDE4fQ.nGT22XvcKbSjkUuxcx9K8cKDCliv-eyteYh4kZEx3tk&page=1)
+2026-01-12 15:56:12 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529781?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjk3ODEsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTIxLCJjYWZlSWQiOjIzNzAwNDE4fQ.7HABXShq5NXAGqouwuohE6W9mG9fqnJGKWxPFvpSEag&page=1)
+2026-01-12 15:56:32 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529308?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzMDgsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTIxLCJjYWZlSWQiOjIzNzAwNDE4fQ.aFB2zIuoi0mTZBgQgKQS3K7KNubA_C0jkPFtpSUWKgo&page=1)
+2026-01-12 15:56:56 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527225?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcyMjUsImlzc3VlZEF0IjoxNzY4MjAwNzgwNTIxLCJjYWZlSWQiOjIzNzAwNDE4fQ.tVMEURHCX0JCHDJddEKNv43bqLqmR04waoO_vxBq19Y&page=1)
+2026-01-12 15:57:43 - NaverCafeCrawler_group2 - INFO - 'lg계약' 2페이지 없음, 종료
+2026-01-12 15:57:44 - NaverCafeCrawler_group2 - INFO - 'lg계약' 완료: 15개
+2026-01-12 15:57:44 - NaverCafeCrawler_group2 - INFO - 'lg계약' 15개 데이터 저장 중...
+2026-01-12 15:57:51 - NaverCafeCrawler_group2 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 15:57:51 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [2/24] 'lg구매' 시작
+2026-01-12 15:57:59 - NaverCafeCrawler_group2 - INFO - 'lg구매' 1페이지: 15개
+2026-01-12 15:58:27 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533802?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM4MDIsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.NRFTyup5ufIza5q3ZQkSAkOLQjnGtXgGyEGb8VB6Q5Q&page=1)
+2026-01-12 15:58:49 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533751?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM3NTEsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.19tY2NGDDu87x9pt09RJZB2oX1U__tVzOVYU4rAeM_A&page=1)
+2026-01-12 15:59:13 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533715?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM3MTUsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.Kt74YH5to2idTYE9boMoYkcCnOZytIDktL4-rkLyrpA&page=1)
+2026-01-12 16:01:35 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533489?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM0ODksImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.KQv3Oagtb7KJzCuCsZ7hQ2SVhScra09aXZF3jjz2ULc&page=1)
+2026-01-12 16:01:53 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533341?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMzNDEsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.hdfwTA_xb3yTJ3rNjyGXKwUoCiG387rDCnWfTgS5mys&page=1)
+2026-01-12 16:02:11 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532641?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzI2NDEsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.7aUicI2UkY2dKnCk_ZYOV9SjB2X_x1Myk_QlC6zBhTA&page=1)
+2026-01-12 16:02:26 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532217?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzIyMTcsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.OhLrzWjb5DNII-4-6pBWSL0iPiQbu-0YkqNz999_r1M&page=1)
+2026-01-12 16:02:49 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531237?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzEyMzcsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.0bq07dimEUMwOhNsOuRpvRa8XN6QAw47RWYFi-WatDE&page=1)
+2026-01-12 16:03:07 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531232?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzEyMzIsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.NCLY31fkqex8cD6Bi7QeTubZVlJcRGGMqhs4czsMq0U&page=1)
+2026-01-12 16:03:25 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530880?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzA4ODAsImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.i5clTP7opy-6kA0QXR5Uws_JFnFiMWI7DECG3jvPStE&page=1)
+2026-01-12 16:03:43 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530419?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzA0MTksImlzc3VlZEF0IjoxNzY4MjAxMDc1MTYzLCJjYWZlSWQiOjIzNzAwNDE4fQ.i8zpFcsOda1QUVTRkcQa0KkoNLg0AaC6g9R5BMyjCZs&page=1)
+2026-01-12 16:04:09 - NaverCafeCrawler_group2 - INFO - 'lg구매' 2페이지: 15개
+2026-01-12 16:04:32 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529992?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjk5OTIsImlzc3VlZEF0IjoxNzY4MjAxNDQ5MjQzLCJjYWZlSWQiOjIzNzAwNDE4fQ.YObaOw1t7Jcr8iinwybCNknQJM1zU7QPH36Bx1jZdPQ&page=2)
+2026-01-12 16:05:06 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529545?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjk1NDUsImlzc3VlZEF0IjoxNzY4MjAxNDQ5MjQzLCJjYWZlSWQiOjIzNzAwNDE4fQ.CxrPPsFgeN3838FfSibcbrysWwFAf983glVtDhN2FBI&page=2)
+2026-01-12 16:05:29 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529308?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzMDgsImlzc3VlZEF0IjoxNzY4MjAxNDQ5MjQzLCJjYWZlSWQiOjIzNzAwNDE4fQ.GBntru6uQfz2Ietl1o5j2zGMol689Ft1rzt9Ar9nC0E&page=2)
+2026-01-12 16:05:47 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529279?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkyNzksImlzc3VlZEF0IjoxNzY4MjAxNDQ5MjQzLCJjYWZlSWQiOjIzNzAwNDE4fQ.g-gaUGLPtjY7eXFQ3GPctRkxbLYV36nZABtvWSuap9Q&page=2)
+2026-01-12 16:06:05 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528910?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjg5MTAsImlzc3VlZEF0IjoxNzY4MjAxNDQ5MjQzLCJjYWZlSWQiOjIzNzAwNDE4fQ.cUNTGs-ef3g97lfMMauYh5_eMSwA7hDjmgcgqgeMZGg&page=2)
+2026-01-12 16:06:23 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528817?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjg4MTcsImlzc3VlZEF0IjoxNzY4MjAxNDQ5MjQzLCJjYWZlSWQiOjIzNzAwNDE4fQ.-afjyDIeNXvWQoFdv7mKVQgsvJBuBYYYI5_uOM8AvLY&page=2)
+2026-01-12 16:07:18 - NaverCafeCrawler_group2 - INFO - 'lg구매' 3페이지: 10개
+2026-01-12 16:07:21 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528206?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjgyMDYsImlzc3VlZEF0IjoxNzY4MjAxNjM3NzI5LCJjYWZlSWQiOjIzNzAwNDE4fQ.GOxpMws_vP-RyXtdVZCI80nJMc3Y8ayMtGrvNwSkCPs&page=3)
+2026-01-12 16:07:39 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528053?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjgwNTMsImlzc3VlZEF0IjoxNzY4MjAxNjM3NzI5LCJjYWZlSWQiOjIzNzAwNDE4fQ.-KmxOH-1ClAye-QrHGWRsnlPWGnXJh37u2rWq7iqcqU&page=3)
+2026-01-12 16:07:57 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527633?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjc2MzMsImlzc3VlZEF0IjoxNzY4MjAxNjM3NzI5LCJjYWZlSWQiOjIzNzAwNDE4fQ.PLf9AofCAw2Kq_NbPd1OspqGfofWdGv69xyjRKLaFHM&page=3)
+2026-01-12 16:08:37 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527213?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcyMTMsImlzc3VlZEF0IjoxNzY4MjAxNjM3NzI5LCJjYWZlSWQiOjIzNzAwNDE4fQ.kbXbxrijcf7TEpG77Zwbb6-1GO3bMJPwJku6OfxYKk4&page=3)
+2026-01-12 16:08:55 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527187?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcxODcsImlzc3VlZEF0IjoxNzY4MjAxNjM3NzI5LCJjYWZlSWQiOjIzNzAwNDE4fQ.O4vPOPtmOAYz_LI2JTsBHIh9pI3yWCENqFPplMvoVhQ&page=3)
+2026-01-12 16:09:20 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527115?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcxMTUsImlzc3VlZEF0IjoxNzY4MjAxNjM3NzI5LCJjYWZlSWQiOjIzNzAwNDE4fQ.EKACR6QsTjdLcfCEtoCTRZzVKAS1YizJMlNn4dm63lY&page=3)
+2026-01-12 16:09:51 - NaverCafeCrawler_group2 - INFO - 'lg구매' 4페이지 없음, 종료
+2026-01-12 16:09:51 - NaverCafeCrawler_group2 - INFO - 'lg구매' 완료: 40개
+2026-01-12 16:09:51 - NaverCafeCrawler_group2 - INFO - 'lg구매' 40개 데이터 저장 중...
+2026-01-12 16:09:53 - NaverCafeCrawler_group2 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:09:53 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [3/24] 'lg졸업' 시작
+2026-01-12 16:09:54 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1페이지: 1개
+2026-01-12 16:10:18 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 2페이지 없음, 종료
+2026-01-12 16:10:18 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 완료: 1개
+2026-01-12 16:10:18 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 1개 데이터 저장 중...
+2026-01-12 16:10:24 - NaverCafeCrawler_group2 - INFO - 'lg졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:10:24 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [4/24] '삼성계약' 시작
+2026-01-12 16:10:26 - NaverCafeCrawler_group2 - INFO - '삼성계약' 1페이지: 15개
+2026-01-12 16:10:30 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533802?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM4MDIsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.g6CGIBBIFQf22INv3YD-WJng61Hmd01dc_oU0omxyUI&page=1)
+2026-01-12 16:10:58 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533574?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM1NzQsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.CAkU56WwSSQ5j3gln6jI0vOb70t-0yMowOWk2gF0hK0&page=1)
+2026-01-12 16:11:17 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533381?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMzODEsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.UakJp9V3XgzEeHSJ5MEw9G274Jqr3_OkqoHbSA3XpzQ&page=1)
+2026-01-12 16:11:35 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533206?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMyMDYsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.VObZyIS3Sz9-MfeFuJ2NopbfKB23uBdjS7sTpG_-QYg&page=1)
+2026-01-12 16:11:54 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532755?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzI3NTUsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.BeqWnNn2YTL0imAmjVOQedgO-NmroCYzEBkndPJL4Vg&page=1)
+2026-01-12 16:12:23 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531555?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzE1NTUsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.O1lW329XMTqSKKCSo_d8z29NIpPGOXA0_F2VwoFKKQE&page=1)
+2026-01-12 16:12:42 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530604?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzA2MDQsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.o4_n-1zvRh4QUS71YZvki-2Nik03VUT0yM4ufYKu698&page=1)
+2026-01-12 16:13:16 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529992?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjk5OTIsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.disqT0MEhnOeZ9OCDIJMkOfHwnKI8e2g1OK8kL2z8-U&page=1)
+2026-01-12 16:13:45 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528745?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjg3NDUsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.nAiz0nH9PLLvDCjSqQXj8aphf3sJfxFK9zkE3Zg7NR0&page=1)
+2026-01-12 16:14:04 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528493?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjg0OTMsImlzc3VlZEF0IjoxNzY4MjAxODI2NDMzLCJjYWZlSWQiOjIzNzAwNDE4fQ.hMvTGkwvDY98DHMzCa1VrVzZT_55xUMs-ll239oIzxk&page=1)
+2026-01-12 16:14:19 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 16:14:19 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 #5 (경과: 62분)
+2026-01-12 16:14:19 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 16:14:19 - NaverCafeCrawler_group2 - INFO - 브라우저 종료
+2026-01-12 16:14:21 - NaverCafeCrawler_group2 - INFO - 브라우저 시작
+2026-01-12 16:14:23 - NaverCafeCrawler_group2 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 16:14:23 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 완료
+2026-01-12 16:14:25 - NaverCafeCrawler_group2 - WARNING - 쿠키 만료됨
+2026-01-12 16:14:25 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 16:14:25 - NaverCafeCrawler_group2 - INFO - 네이버 로그인 시작
+2026-01-12 16:15:01 - NaverCafeCrawler_group2 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 16:15:11 - NaverCafeCrawler_group2 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 16:15:11 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 16:15:11 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 16:15:12 - NaverCafeCrawler_group2 - INFO - 기존 URL 1450개 로드 완료
+2026-01-12 16:15:12 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 후 '삼성계약' 계속
+2026-01-12 16:15:16 - NaverCafeCrawler_group2 - INFO - '삼성계약' 2페이지: 3개
+2026-01-12 16:15:19 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528317?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjgzMTcsImlzc3VlZEF0IjoxNzY4MjAyMTE2NTI5LCJjYWZlSWQiOjIzNzAwNDE4fQ.IHjNhHr28tqccBYUstqQ8Ioh_bHUGj9HcvDdXUeGuOg&page=2)
+2026-01-12 16:15:37 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527229?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcyMjksImlzc3VlZEF0IjoxNzY4MjAyMTE2NTI5LCJjYWZlSWQiOjIzNzAwNDE4fQ.pHgMByBDbLTXIc4S9NtwokiSeGhynSdtcTZ5Ms_CnX8&page=2)
+2026-01-12 16:16:12 - NaverCafeCrawler_group2 - INFO - '삼성계약' 3페이지 없음, 종료
+2026-01-12 16:16:12 - NaverCafeCrawler_group2 - INFO - '삼성계약' 완료: 18개
+2026-01-12 16:16:12 - NaverCafeCrawler_group2 - INFO - '삼성계약' 18개 데이터 저장 중...
+2026-01-12 16:16:15 - NaverCafeCrawler_group2 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:16:15 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [5/24] '삼성구매' 시작
+2026-01-12 16:16:16 - NaverCafeCrawler_group2 - INFO - '삼성구매' 1페이지: 15개
+2026-01-12 16:16:25 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533802?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM4MDIsImlzc3VlZEF0IjoxNzY4MjAyMTc2MzA3LCJjYWZlSWQiOjIzNzAwNDE4fQ.0JNsjFUBp9JdHQH3WQUQm0QV_4KhBA94HyoL3Hxd7EE&page=1)
+2026-01-12 16:16:43 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533751?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM3NTEsImlzc3VlZEF0IjoxNzY4MjAyMTc2MzA3LCJjYWZlSWQiOjIzNzAwNDE4fQ.JmHmbuB-ByNW6JBCUi1VoGfq-Bb8qODxz3aKpMX8PY4&page=1)
+2026-01-12 16:17:21 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533381?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMzODEsImlzc3VlZEF0IjoxNzY4MjAyMTc2MzA3LCJjYWZlSWQiOjIzNzAwNDE4fQ.qkB9Wqc2iAx6mj4lD6xxnkP6N-nHSyxI3RPzE9lOlJk&page=1)
+2026-01-12 16:17:45 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533341?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMzNDEsImlzc3VlZEF0IjoxNzY4MjAyMTc2MzA3LCJjYWZlSWQiOjIzNzAwNDE4fQ.dxO28wFem_kgLZAHV2LXujZIFSW1QnukS_uZvGr0Rww&page=1)
+2026-01-12 16:18:33 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532456?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzI0NTYsImlzc3VlZEF0IjoxNzY4MjAyMTc2MzA3LCJjYWZlSWQiOjIzNzAwNDE4fQ.bj8NC21GElzGD8xdioV5Mw8phGUXp6WHoS6qs2iRMq0&page=1)
+2026-01-12 16:18:53 - NaverCafeCrawler_group2 - INFO - '삼성구매' 2페이지: 15개
+2026-01-12 16:19:18 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531334?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzEzMzQsImlzc3VlZEF0IjoxNzY4MjAyMzMyOTIyLCJjYWZlSWQiOjIzNzAwNDE4fQ.tuMWE6Ws6JupQPzyBLKvEPwYj1Nk8ruXiLVq2KIgFFg&page=2)
+2026-01-12 16:19:41 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531216?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzEyMTYsImlzc3VlZEF0IjoxNzY4MjAyMzMyOTIyLCJjYWZlSWQiOjIzNzAwNDE4fQ.FhG3Kc_UBY8XlHtONQ9yAmgsNc6lQJO1PGR6Idzjjn0&page=2)
+2026-01-12 16:19:59 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530880?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzA4ODAsImlzc3VlZEF0IjoxNzY4MjAyMzMyOTIyLCJjYWZlSWQiOjIzNzAwNDE4fQ.82e1clH-cnvFJeEsYBgPmPM8t56BXwUr2mFPI8ielb8&page=2)
+2026-01-12 16:20:17 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530600?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzA2MDAsImlzc3VlZEF0IjoxNzY4MjAyMzMyOTIyLCJjYWZlSWQiOjIzNzAwNDE4fQ.1i6X5M2KaFLhlBGey-hSyVpc9mOXh7gPqMuTbMnKDEk&page=2)
+2026-01-12 16:20:55 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530156?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzAxNTYsImlzc3VlZEF0IjoxNzY4MjAyMzMyOTIyLCJjYWZlSWQiOjIzNzAwNDE4fQ.MDh0dNRwO0pBf1IeC1fY5Wup9jAxrAe4DHZbNOhihHM&page=2)
+2026-01-12 16:21:28 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529992?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjk5OTIsImlzc3VlZEF0IjoxNzY4MjAyMzMyOTIyLCJjYWZlSWQiOjIzNzAwNDE4fQ.C-EnU6ecGSYPohmoJK2EMHWQhMIxuj5ya7RfiLjmrug&page=2)
+2026-01-12 16:21:49 - NaverCafeCrawler_group2 - INFO - '삼성구매' 3페이지: 15개
+2026-01-12 16:22:20 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529393?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzOTMsImlzc3VlZEF0IjoxNzY4MjAyNTA4MzcwLCJjYWZlSWQiOjIzNzAwNDE4fQ.CB88C2BQm7ZzD8rVOHeRNQluIQmT3VgLLQGT5i0xkvg&page=3)
+2026-01-12 16:22:39 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529338?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzMzgsImlzc3VlZEF0IjoxNzY4MjAyNTA4MzcwLCJjYWZlSWQiOjIzNzAwNDE4fQ.iYLiFwNM5BP4m-JsCeHtxnQ12lFAejT99v3c3j7tXhQ&page=3)
+2026-01-12 16:22:57 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529218?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkyMTgsImlzc3VlZEF0IjoxNzY4MjAyNTA4MzcwLCJjYWZlSWQiOjIzNzAwNDE4fQ.WSJ_1r5c4iKZCXXQHc28hCMnaeyVfsqc8H6oIOhECks&page=3)
+2026-01-12 16:23:29 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528910?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjg5MTAsImlzc3VlZEF0IjoxNzY4MjAyNTA4MzcwLCJjYWZlSWQiOjIzNzAwNDE4fQ.ACHX4_Sil0NX_I9oiFQAvyMrKHtX-_uRJAgh23X2aEI&page=3)
+2026-01-12 16:23:47 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528817?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjg4MTcsImlzc3VlZEF0IjoxNzY4MjAyNTA4MzcwLCJjYWZlSWQiOjIzNzAwNDE4fQ.baRFbBCkSOuaq3nNPJ3TqEofOpW4MqfCUaI3mRT7in8&page=3)
+2026-01-12 16:24:43 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528387?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjgzODcsImlzc3VlZEF0IjoxNzY4MjAyNTA4MzcwLCJjYWZlSWQiOjIzNzAwNDE4fQ.kzq1EXsopjmV3r5gQrRnCCObNiNFPnE_G6kegDZLSL0&page=3)
+2026-01-12 16:25:11 - NaverCafeCrawler_group2 - INFO - '삼성구매' 4페이지: 9개
+2026-01-12 16:25:55 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527633?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjc2MzMsImlzc3VlZEF0IjoxNzY4MjAyNzEwNDU0LCJjYWZlSWQiOjIzNzAwNDE4fQ.qCSp5SIqeZhGWziJy9XAaPUh3e6mxYwV0iujM6vm_YQ&page=4)
+2026-01-12 16:26:14 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527213?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcyMTMsImlzc3VlZEF0IjoxNzY4MjAyNzEwNDU0LCJjYWZlSWQiOjIzNzAwNDE4fQ.M6qmDCt0KcifDCjGeEhvqwIAWn5AA4ZIblt-Rxp1eKw&page=4)
+2026-01-12 16:26:49 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527115?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcxMTUsImlzc3VlZEF0IjoxNzY4MjAyNzEwNDU0LCJjYWZlSWQiOjIzNzAwNDE4fQ.ee0HVXYlxoCFJHCpaKx_R4FBDQ3WAuQs2G1VN4tArDw&page=4)
+2026-01-12 16:27:21 - NaverCafeCrawler_group2 - INFO - '삼성구매' 5페이지 없음, 종료
+2026-01-12 16:27:21 - NaverCafeCrawler_group2 - INFO - '삼성구매' 완료: 54개
+2026-01-12 16:27:21 - NaverCafeCrawler_group2 - INFO - '삼성구매' 54개 데이터 저장 중...
+2026-01-12 16:27:25 - NaverCafeCrawler_group2 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:27:25 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [6/24] '삼성졸업' 시작
+2026-01-12 16:27:29 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 1페이지: 3개
+2026-01-12 16:28:09 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 2페이지 없음, 종료
+2026-01-12 16:28:09 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 완료: 3개
+2026-01-12 16:28:09 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 3개 데이터 저장 중...
+2026-01-12 16:28:12 - NaverCafeCrawler_group2 - INFO - '삼성졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:28:12 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [7/24] '엘지계약' 시작
+2026-01-12 16:28:16 - NaverCafeCrawler_group2 - INFO - '엘지계약' 1페이지: 12개
+2026-01-12 16:28:21 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533381?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMzODEsImlzc3VlZEF0IjoxNzY4MjAyODk2NDAwLCJjYWZlSWQiOjIzNzAwNDE4fQ.6i-Xt-vPwSs0YTQe2vcsbQpK3M1EgfF-zZ4EB1p_zc0&page=1)
+2026-01-12 16:28:40 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533206?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMyMDYsImlzc3VlZEF0IjoxNzY4MjAyODk2NDAxLCJjYWZlSWQiOjIzNzAwNDE4fQ.AdLrmK6njMGKwBEfNVRv4uoOvQSSFSevww9IxVAvr4c&page=1)
+2026-01-12 16:29:01 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532217?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzIyMTcsImlzc3VlZEF0IjoxNzY4MjAyODk2NDAxLCJjYWZlSWQiOjIzNzAwNDE4fQ.BpQg3KHY3d2fYOaH1dbwRYdBFLNZIwN3D7Re-E3jG3w&page=1)
+2026-01-12 16:30:01 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529308?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzMDgsImlzc3VlZEF0IjoxNzY4MjAyODk2NDAxLCJjYWZlSWQiOjIzNzAwNDE4fQ.vte5ruf5T3I-genna2haqnRqywZnhwP40y4yLiC1MwQ&page=1)
+2026-01-12 16:30:33 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528300?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjgzMDAsImlzc3VlZEF0IjoxNzY4MjAyODk2NDAxLCJjYWZlSWQiOjIzNzAwNDE4fQ.IMWAThPnfOrji56hXKnWhPbA3URUWk5Z-srWFn-PPxE&page=1)
+2026-01-12 16:31:11 - NaverCafeCrawler_group2 - INFO - '엘지계약' 2페이지 없음, 종료
+2026-01-12 16:31:11 - NaverCafeCrawler_group2 - INFO - '엘지계약' 완료: 12개
+2026-01-12 16:31:11 - NaverCafeCrawler_group2 - INFO - '엘지계약' 12개 데이터 저장 중...
+2026-01-12 16:31:16 - NaverCafeCrawler_group2 - INFO - '엘지계약' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:31:16 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [8/24] '엘지구매' 시작
+2026-01-12 16:31:20 - NaverCafeCrawler_group2 - INFO - '엘지구매' 1페이지: 15개
+2026-01-12 16:31:56 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533381?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMzODEsImlzc3VlZEF0IjoxNzY4MjAzMDc5NTA1LCJjYWZlSWQiOjIzNzAwNDE4fQ.MtlNDn5Xm5PSSca4hwcDTEEz1CT54RaskyrsMt9ffwA&page=1)
+2026-01-12 16:32:24 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532456?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzI0NTYsImlzc3VlZEF0IjoxNzY4MjAzMDc5NTA1LCJjYWZlSWQiOjIzNzAwNDE4fQ.YPFTwvQV_FvxQw7rA7bMVn2ERfpCHRHnRekh25iYkc4&page=1)
+2026-01-12 16:32:44 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532217?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzIyMTcsImlzc3VlZEF0IjoxNzY4MjAzMDc5NTA1LCJjYWZlSWQiOjIzNzAwNDE4fQ.-HlzxswsipSXYBt_Iggvd8202-Bp0N799uD85fhLubo&page=1)
+2026-01-12 16:33:03 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531334?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzEzMzQsImlzc3VlZEF0IjoxNzY4MjAzMDc5NTA1LCJjYWZlSWQiOjIzNzAwNDE4fQ.yuEa2Nj3eSO9Nz3jxY50yk9Ko9Rh9voc9oMoMHeDfl4&page=1)
+2026-01-12 16:34:17 - NaverCafeCrawler_group2 - INFO - '엘지구매' 2페이지: 12개
+2026-01-12 16:34:31 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529308?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzMDgsImlzc3VlZEF0IjoxNzY4MjAzMjU3MDkzLCJjYWZlSWQiOjIzNzAwNDE4fQ.bPJZFhZTssJtCIns_djjBuf_c7exu5KIJ79cKcYUODs&page=2)
+2026-01-12 16:35:43 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527633?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjc2MzMsImlzc3VlZEF0IjoxNzY4MjAzMjU3MDkzLCJjYWZlSWQiOjIzNzAwNDE4fQ.f0HILx9vHftc7TOskJEGe-9gol61a_EZEPzDggMMtZE&page=2)
+2026-01-12 16:36:38 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527115?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcxMTUsImlzc3VlZEF0IjoxNzY4MjAzMjU3MDkzLCJjYWZlSWQiOjIzNzAwNDE4fQ.7oBTPa0_SvHDXMzvyL6p5ZGy6-UueBUULBqWFEPeuks&page=2)
+2026-01-12 16:37:10 - NaverCafeCrawler_group2 - INFO - '엘지구매' 3페이지 없음, 종료
+2026-01-12 16:37:10 - NaverCafeCrawler_group2 - INFO - '엘지구매' 완료: 27개
+2026-01-12 16:37:10 - NaverCafeCrawler_group2 - INFO - '엘지구매' 27개 데이터 저장 중...
+2026-01-12 16:37:12 - NaverCafeCrawler_group2 - INFO - '엘지구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:37:12 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [9/24] '엘지졸업' 시작
+2026-01-12 16:37:15 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 1페이지: 2개
+2026-01-12 16:37:54 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 2페이지 없음, 종료
+2026-01-12 16:37:54 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 완료: 2개
+2026-01-12 16:37:54 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 2개 데이터 저장 중...
+2026-01-12 16:37:56 - NaverCafeCrawler_group2 - INFO - '엘지졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:37:56 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [10/24] '베스트샵' 시작
+2026-01-12 16:38:01 - NaverCafeCrawler_group2 - INFO - '베스트샵' 1페이지: 15개
+2026-01-12 16:38:07 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1534130?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzQxMzAsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.d1Le5Ez2T3lA9gMyjOoIW9ZRWenGIr-F1P__Wl2OkYk&page=1)
+2026-01-12 16:38:27 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533871?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM4NzEsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.bvg68XIL-lbdIslf0OlK5ax22GDDO8CXMA2bpi6PW6E&page=1)
+2026-01-12 16:38:46 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533823?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM4MjMsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ._bq6MH6bRlhGXnNmJv3Lagqyhy7Yw_WJjBK_p1IVS6w&page=1)
+2026-01-12 16:39:05 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533067?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMwNjcsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.eTkTRSxl-pKMdKEWASm6gGkX_9W-BvI1YhWwY2z2wrs&page=1)
+2026-01-12 16:39:25 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533066?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMwNjYsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.CCxjqs8Ud-5gX7srIPZVvlPZjUoNH0s_6lUx9x3_0zU&page=1)
+2026-01-12 16:39:59 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532417?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzI0MTcsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.dZy_IvyvtfuK1_0KXgOI-oTDoWefEAJ76SG5y8pZ8_I&page=1)
+2026-01-12 16:40:20 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532287?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzIyODcsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.dFpKUPk60_GHBiplqmVBJJK-PGLXhyg1b4tkw-DktLw&page=1)
+2026-01-12 16:40:42 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1532201?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzIyMDEsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.faSDgRH5IIreQuU79BHldSoLWPACC8IYmtslu3N8izM&page=1)
+2026-01-12 16:41:03 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531796?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzE3OTYsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.-dDNhZKc1L-cem-nSQpxhXPZpw1vfgY782zQYmncKd4&page=1)
+2026-01-12 16:41:26 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531677?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzE2NzcsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.L5obCD90bCzhzsePqncfbWDibAJU9rMcUXGrULumKF4&page=1)
+2026-01-12 16:41:46 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531428?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzE0MjgsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.kKMcsvQAelzB9q4f4U7_-o-eJMc6AMQ7tFl0H35ItgY&page=1)
+2026-01-12 16:42:07 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531402?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzE0MDIsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.3ZMRLjnoiRVGRUGnt8HYfsX6D-7LTX7_TN0vWZwFnM8&page=1)
+2026-01-12 16:42:38 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530780?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzA3ODAsImlzc3VlZEF0IjoxNzY4MjAzNDgwMDQwLCJjYWZlSWQiOjIzNzAwNDE4fQ.8ejmyI_dLQfSQwFsbiCYxe7xCSESaAx2PAfhR080C6I&page=1)
+2026-01-12 16:43:01 - NaverCafeCrawler_group2 - INFO - '베스트샵' 2페이지: 15개
+2026-01-12 16:43:07 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530661?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzA2NjEsImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE3LCJjYWZlSWQiOjIzNzAwNDE4fQ.Kv0T5ttLGL4DYeyfErDoyEbM5Q1ZvoLIy9gB_aWi-jE&page=2)
+2026-01-12 16:43:30 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530367?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzAzNjcsImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE3LCJjYWZlSWQiOjIzNzAwNDE4fQ.ap0MoUoDCS0wYLXWWvi1CpSHFUdR0UkHWR8ep-DCiQg&page=2)
+2026-01-12 16:44:27 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529709?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjk3MDksImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE3LCJjYWZlSWQiOjIzNzAwNDE4fQ.cmk6ukrq0fR-LtYHlp6SyrBlpMefN2WV7AC3zANSTsU&page=2)
+2026-01-12 16:44:46 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529708?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjk3MDgsImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE3LCJjYWZlSWQiOjIzNzAwNDE4fQ.C_Cc76LorjHpaitdAxXCXigTwV7BcBMA3m4yiXmKiFg&page=2)
+2026-01-12 16:45:08 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529389?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzODksImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE4LCJjYWZlSWQiOjIzNzAwNDE4fQ.t8dL8GHn6OW_Abtz7jnYWm5Yrx9ILrY0Yh1ULfPrMAM&page=2)
+2026-01-12 16:45:40 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529331?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzMzEsImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE4LCJjYWZlSWQiOjIzNzAwNDE4fQ.M3M9pA1qBu2Hyss4uriXJAmUl8DX--rgrZF1NIdi8Rs&page=2)
+2026-01-12 16:46:31 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528431?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjg0MzEsImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE4LCJjYWZlSWQiOjIzNzAwNDE4fQ.2VIMpwr3btobpEXIkn5kcrtLbmY7-ZLWqPVuzhyRxQs&page=2)
+2026-01-12 16:46:51 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528311?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjgzMTEsImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE4LCJjYWZlSWQiOjIzNzAwNDE4fQ.gPuF04mxu-yAEradTC695w4fadKLwuTsdqUJefgolOQ&page=2)
+2026-01-12 16:47:15 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527550?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjc1NTAsImlzc3VlZEF0IjoxNzY4MjAzNzgwNzE4LCJjYWZlSWQiOjIzNzAwNDE4fQ.TaPLXQjr5b7-o1vihoJGmwIxs_s10-HKUpY7X3G6qLE&page=2)
+2026-01-12 16:47:40 - NaverCafeCrawler_group2 - INFO - '베스트샵' 3페이지: 3개
+2026-01-12 16:47:48 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527364?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjczNjQsImlzc3VlZEF0IjoxNzY4MjA0MDU5MzY3LCJjYWZlSWQiOjIzNzAwNDE4fQ.lRPx8P6bnduB4HOYlyxxn_HDOPhznJI5ITtLdYtQMd8&page=3)
+2026-01-12 16:48:24 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1527223?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjcyMjMsImlzc3VlZEF0IjoxNzY4MjA0MDU5MzY3LCJjYWZlSWQiOjIzNzAwNDE4fQ.matTD-KeHHhf1hyZ5nY-ONQ-QC-vbDIqa6EhUaOK_80&page=3)
+2026-01-12 16:48:56 - NaverCafeCrawler_group2 - INFO - '베스트샵' 4페이지 없음, 종료
+2026-01-12 16:48:56 - NaverCafeCrawler_group2 - INFO - '베스트샵' 완료: 33개
+2026-01-12 16:48:56 - NaverCafeCrawler_group2 - INFO - '베스트샵' 33개 데이터 저장 중...
+2026-01-12 16:48:58 - NaverCafeCrawler_group2 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:48:58 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [11/24] '삼성스토어' 시작
+2026-01-12 16:49:02 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 1페이지: 14개
+2026-01-12 16:49:50 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531555?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%8A%A4%ED%86%A0%EC%96%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzE1NTUsImlzc3VlZEF0IjoxNzY4MjA0MTQyMDY2LCJjYWZlSWQiOjIzNzAwNDE4fQ.F8XFDmxVkhPZ6a2MfnRFeQ-KGAsxjbm9bE77yoJf568&page=1)
+2026-01-12 16:50:10 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1530156?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%8A%A4%ED%86%A0%EC%96%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzAxNTYsImlzc3VlZEF0IjoxNzY4MjA0MTQyMDY2LCJjYWZlSWQiOjIzNzAwNDE4fQ.mtU4qI5aSUgM24pia9JjFrVEgHkc4eM_I-RIZWx0XUo&page=1)
+2026-01-12 16:50:38 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1529393?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%8A%A4%ED%86%A0%EC%96%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjkzOTMsImlzc3VlZEF0IjoxNzY4MjA0MTQyMDY2LCJjYWZlSWQiOjIzNzAwNDE4fQ.yUTbcxZhy9tUXzFmN_KaHhsb_0UaLZFTKnjnraEo85k&page=1)
+2026-01-12 16:51:08 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528493?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%8A%A4%ED%86%A0%EC%96%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1Mjg0OTMsImlzc3VlZEF0IjoxNzY4MjA0MTQyMDY2LCJjYWZlSWQiOjIzNzAwNDE4fQ.XZLmvD0dFSJxqRNTrfDqfRSbeUkT-W0sA8t_680LKC4&page=1)
+2026-01-12 16:51:37 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1528387?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%8A%A4%ED%86%A0%EC%96%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MjgzODcsImlzc3VlZEF0IjoxNzY4MjA0MTQyMDY2LCJjYWZlSWQiOjIzNzAwNDE4fQ.rhotEsyKNKe3Eb_G0cujFBlzwmqgXUjK_JFKsrqYKuY&page=1)
+2026-01-12 16:52:18 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 2페이지 없음, 종료
+2026-01-12 16:52:18 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 완료: 14개
+2026-01-12 16:52:18 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 14개 데이터 저장 중...
+2026-01-12 16:52:20 - NaverCafeCrawler_group2 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:52:20 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [12/24] '가전졸업' 시작
+2026-01-12 16:52:25 - NaverCafeCrawler_group2 - INFO - '가전졸업' 1페이지: 6개
+2026-01-12 16:53:44 - NaverCafeCrawler_group2 - INFO - '가전졸업' 2페이지 없음, 종료
+2026-01-12 16:53:44 - NaverCafeCrawler_group2 - INFO - '가전졸업' 완료: 6개
+2026-01-12 16:53:44 - NaverCafeCrawler_group2 - INFO - '가전졸업' 6개 데이터 저장 중...
+2026-01-12 16:53:46 - NaverCafeCrawler_group2 - INFO - '가전졸업' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:53:46 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [13/24] 'lg렌탈' 시작
+2026-01-12 16:53:52 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 1페이지: 7개
+2026-01-12 16:55:57 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 2페이지 없음, 종료
+2026-01-12 16:55:57 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 완료: 7개
+2026-01-12 16:55:57 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 7개 데이터 저장 중...
+2026-01-12 16:55:59 - NaverCafeCrawler_group2 - INFO - 'lg렌탈' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:55:59 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [14/24] '가전렌탈' 시작
+2026-01-12 16:56:05 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 1페이지: 2개
+2026-01-12 16:56:48 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 2페이지 없음, 종료
+2026-01-12 16:56:48 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 완료: 2개
+2026-01-12 16:56:48 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 2개 데이터 저장 중...
+2026-01-12 16:56:52 - NaverCafeCrawler_group2 - INFO - '가전렌탈' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 16:56:52 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [15/24] '엘지교원' 시작
+2026-01-12 16:57:09 - NaverCafeCrawler_group2 - INFO - '엘지교원' 1페이지 없음, 종료
+2026-01-12 16:57:09 - NaverCafeCrawler_group2 - INFO - '엘지교원' 완료: 0개
+2026-01-12 16:57:09 - NaverCafeCrawler_group2 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 16:57:09 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [16/24] '베스트라이프' 시작
+2026-01-12 16:57:26 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 1페이지 없음, 종료
+2026-01-12 16:57:26 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 16:57:26 - NaverCafeCrawler_group2 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 16:57:26 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [17/24] '가전구매' 시작
+2026-01-12 16:57:33 - NaverCafeCrawler_group2 - INFO - '가전구매' 1페이지: 15개
+2026-01-12 17:23:43 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533489?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzM0ODksImlzc3VlZEF0IjoxNzY4MjA0NjUyOTg4LCJjYWZlSWQiOjIzNzAwNDE4fQ.pjzGehTiCoWpEW01ZVDX52kIQt3zRor5_WTcFGTdW7g&page=1)
+2026-01-12 17:24:53 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 17:24:53 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 #6 (경과: 69분)
+2026-01-12 17:24:53 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 17:24:54 - NaverCafeCrawler_group2 - INFO - 브라우저 종료
+2026-01-12 17:24:56 - NaverCafeCrawler_group2 - INFO - 브라우저 시작
+2026-01-12 17:24:57 - NaverCafeCrawler_group2 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 17:24:57 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 완료
+2026-01-12 17:24:58 - NaverCafeCrawler_group2 - WARNING - 쿠키 만료됨
+2026-01-12 17:24:58 - NaverCafeCrawler_group2 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 17:24:59 - NaverCafeCrawler_group2 - INFO - 네이버 로그인 시작
+2026-01-12 17:25:03 - NaverCafeCrawler_group2 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 17:25:13 - NaverCafeCrawler_group2 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 17:25:13 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 17:25:13 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-12 17:25:14 - NaverCafeCrawler_group2 - INFO - 기존 URL 1628개 로드 완료
+2026-01-12 17:25:14 - NaverCafeCrawler_group2 - INFO - 브라우저 재시작 후 '가전구매' 계속
+2026-01-12 17:25:19 - NaverCafeCrawler_group2 - INFO - '가전구매' 2페이지: 15개
+2026-01-12 17:26:57 - NaverCafeCrawler_group2 - INFO - '가전구매' 3페이지: 15개
+2026-01-12 17:29:07 - NaverCafeCrawler_group2 - INFO - '가전구매' 4페이지: 6개
+2026-01-12 17:30:18 - NaverCafeCrawler_group2 - INFO - '가전구매' 5페이지 없음, 종료
+2026-01-12 17:30:18 - NaverCafeCrawler_group2 - INFO - '가전구매' 완료: 51개
+2026-01-12 17:30:18 - NaverCafeCrawler_group2 - INFO - '가전구매' 51개 데이터 저장 중...
+2026-01-12 17:30:21 - NaverCafeCrawler_group2 - INFO - '가전구매' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 17:30:21 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [18/24] 'lg vs 삼성' 시작
+2026-01-12 17:30:23 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 1페이지: 5개
+2026-01-12 17:31:17 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 2페이지 없음, 종료
+2026-01-12 17:31:17 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 완료: 5개
+2026-01-12 17:31:17 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 5개 데이터 저장 중...
+2026-01-12 17:31:20 - NaverCafeCrawler_group2 - INFO - 'lg vs 삼성' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 17:31:20 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [19/24] 'lg구독' 시작
+2026-01-12 17:31:23 - NaverCafeCrawler_group2 - INFO - 'lg구독' 1페이지: 3개
+2026-01-12 17:32:03 - NaverCafeCrawler_group2 - INFO - 'lg구독' 2페이지 없음, 종료
+2026-01-12 17:32:03 - NaverCafeCrawler_group2 - INFO - 'lg구독' 완료: 3개
+2026-01-12 17:32:03 - NaverCafeCrawler_group2 - INFO - 'lg구독' 3개 데이터 저장 중...
+2026-01-12 17:32:05 - NaverCafeCrawler_group2 - INFO - 'lg구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 17:32:05 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [20/24] '가전구독' 시작
+2026-01-12 17:32:08 - NaverCafeCrawler_group2 - INFO - '가전구독' 1페이지: 10개
+2026-01-12 17:33:38 - NaverCafeCrawler_group2 - INFO - '가전구독' 2페이지 없음, 종료
+2026-01-12 17:33:38 - NaverCafeCrawler_group2 - INFO - '가전구독' 완료: 10개
+2026-01-12 17:33:38 - NaverCafeCrawler_group2 - INFO - '가전구독' 10개 데이터 저장 중...
+2026-01-12 17:33:41 - NaverCafeCrawler_group2 - INFO - '가전구독' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 17:33:41 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [21/24] '가전상담' 시작
+2026-01-12 17:33:44 - NaverCafeCrawler_group2 - INFO - '가전상담' 1페이지: 15개
+2026-01-12 17:36:20 - NaverCafeCrawler_group2 - INFO - '가전상담' 2페이지: 15개
+2026-01-12 17:39:17 - NaverCafeCrawler_group2 - INFO - '가전상담' 3페이지: 15개
+2026-01-12 17:41:48 - NaverCafeCrawler_group2 - INFO - '가전상담' 4페이지: 3개
+2026-01-12 17:42:37 - NaverCafeCrawler_group2 - INFO - '가전상담' 5페이지 없음, 종료
+2026-01-12 17:42:37 - NaverCafeCrawler_group2 - INFO - '가전상담' 완료: 48개
+2026-01-12 17:42:37 - NaverCafeCrawler_group2 - INFO - '가전상담' 48개 데이터 저장 중...
+2026-01-12 17:42:41 - NaverCafeCrawler_group2 - INFO - '가전상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 17:42:41 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [22/24] 'lg상담후기' 시작
+2026-01-12 17:42:45 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 1페이지: 15개
+2026-01-12 17:45:39 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 2페이지: 15개
+2026-01-12 17:48:45 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 3페이지: 15개
+2026-01-12 17:52:15 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 4페이지: 6개
+2026-01-12 17:53:57 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 5페이지 없음, 종료
+2026-01-12 17:53:57 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 완료: 51개
+2026-01-12 17:53:57 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 51개 데이터 저장 중...
+2026-01-12 17:53:59 - NaverCafeCrawler_group2 - INFO - 'lg상담후기' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 17:53:59 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [23/24] '엘지상담' 시작
+2026-01-12 17:54:05 - NaverCafeCrawler_group2 - INFO - '엘지상담' 1페이지: 15개
+2026-01-12 17:54:40 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533206?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMyMDYsImlzc3VlZEF0IjoxNzY4MjA4MDQ0MTgxLCJjYWZlSWQiOjIzNzAwNDE4fQ.ZFvKj-kzzEGUNIozUZ3SjOgGAClv7RvgyvMQMTLIqr0&page=1)
+2026-01-12 18:03:42 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1531002?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzEwMDIsImlzc3VlZEF0IjoxNzY4MjA4MDQ0MTgxLCJjYWZlSWQiOjIzNzAwNDE4fQ.wdEYq8dhKWOCakx_T8dsVKRi_eHvDlp6Wk_0WvjyzOg&page=1)
+2026-01-12 18:04:52 - NaverCafeCrawler_group2 - INFO - '엘지상담' 2페이지: 7개
+2026-01-12 18:06:08 - NaverCafeCrawler_group2 - INFO - '엘지상담' 3페이지 없음, 종료
+2026-01-12 18:06:08 - NaverCafeCrawler_group2 - INFO - '엘지상담' 완료: 22개
+2026-01-12 18:06:08 - NaverCafeCrawler_group2 - INFO - '엘지상담' 22개 데이터 저장 중...
+2026-01-12 18:06:11 - NaverCafeCrawler_group2 - INFO - '엘지상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 18:06:11 - NaverCafeCrawler_group2 - INFO - [셀프인테리어마이홈] [24/24] '삼성상담' 시작
+2026-01-12 18:06:13 - NaverCafeCrawler_group2 - INFO - '삼성상담' 1페이지: 15개
+2026-01-12 18:06:49 - NaverCafeCrawler_group2 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/23700418/articles/1533206?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjE1MzMyMDYsImlzc3VlZEF0IjoxNzY4MjA4NzcyNzM5LCJjYWZlSWQiOjIzNzAwNDE4fQ.U_3mn1AGBZ-5FjwfldoASpJxrY-fSqa9ERGTgFQrElE&page=1)
+2026-01-12 18:08:18 - NaverCafeCrawler_group2 - INFO - '삼성상담' 2페이지: 15개
+2026-01-12 18:10:31 - NaverCafeCrawler_group2 - INFO - '삼성상담' 3페이지: 14개
+2026-01-12 18:12:47 - NaverCafeCrawler_group2 - INFO - '삼성상담' 4페이지 없음, 종료
+2026-01-12 18:12:47 - NaverCafeCrawler_group2 - INFO - '삼성상담' 완료: 44개
+2026-01-12 18:12:47 - NaverCafeCrawler_group2 - INFO - '삼성상담' 44개 데이터 저장 중...
+2026-01-12 18:12:51 - NaverCafeCrawler_group2 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group2_2026-01-06~12.xlsx
+2026-01-12 18:12:51 - NaverCafeCrawler_group2 - INFO - [카페 9/9] 셀프인테리어마이홈 완료
+2026-01-12 18:12:52 - NaverCafeCrawler_group2 - INFO - 브라우저 종료
+2026-01-12 18:12:52 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-12 18:12:52 - NaverCafeCrawler_group2 - INFO - 크롤링 완료!
+2026-01-12 18:12:52 - NaverCafeCrawler_group2 - INFO - ================================================================================

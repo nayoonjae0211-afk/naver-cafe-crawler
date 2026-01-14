@@ -1,0 +1,834 @@
+2026-01-12 11:05:24 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 11:05:34 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 11:05:34 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 11:05:34 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-12 11:05:34 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 11:05:34 - NaverCafeCrawler_group1 - INFO - 기존 엑셀 파일 없음, 처음부터 시작
+2026-01-12 11:05:34 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 11:05:46 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 11:05:56 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 11:05:56 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 11:05:56 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-12 11:05:56 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-12 11:05:58 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-12 11:07:40 - NaverCafeCrawler_group1 - INFO - 'lg계약' 2페이지: 15개
+2026-01-12 11:09:33 - NaverCafeCrawler_group1 - INFO - 'lg계약' 3페이지: 15개
+2026-01-12 11:11:18 - NaverCafeCrawler_group1 - INFO - 'lg계약' 4페이지: 15개
+2026-01-12 11:13:12 - NaverCafeCrawler_group1 - INFO - 'lg계약' 5페이지: 15개
+2026-01-12 11:15:10 - NaverCafeCrawler_group1 - INFO - 'lg계약' 6페이지: 15개
+2026-01-12 11:17:33 - NaverCafeCrawler_group1 - INFO - 'lg계약' 7페이지: 15개
+2026-01-12 11:19:41 - NaverCafeCrawler_group1 - INFO - 'lg계약' 8페이지: 15개
+2026-01-12 11:22:09 - NaverCafeCrawler_group1 - INFO - 'lg계약' 9페이지: 15개
+2026-01-12 11:24:17 - NaverCafeCrawler_group1 - INFO - 'lg계약' 10페이지: 15개
+2026-01-12 11:26:33 - NaverCafeCrawler_group1 - INFO - 'lg계약' 11페이지: 3개
+2026-01-12 11:27:19 - NaverCafeCrawler_group1 - INFO - 'lg계약' 12페이지 없음, 종료
+2026-01-12 11:27:19 - NaverCafeCrawler_group1 - INFO - 'lg계약' 완료: 153개
+2026-01-12 11:27:19 - NaverCafeCrawler_group1 - INFO - 'lg계약' 153개 데이터 저장 중...
+2026-01-12 11:27:20 - NaverCafeCrawler_group1 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 11:27:20 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [2/24] 'lg구매' 시작
+2026-01-12 11:27:25 - NaverCafeCrawler_group1 - INFO - 'lg구매' 1페이지: 15개
+2026-01-12 11:29:49 - NaverCafeCrawler_group1 - INFO - 'lg구매' 2페이지: 15개
+2026-01-12 11:32:47 - NaverCafeCrawler_group1 - INFO - 'lg구매' 3페이지: 15개
+2026-01-12 11:36:30 - NaverCafeCrawler_group1 - INFO - 'lg구매' 4페이지: 15개
+2026-01-12 11:45:19 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470731?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3MzEsImlzc3VlZEF0IjoxNzY4MTg1Mzg5MzY1LCJjYWZlSWQiOjI1MjI4MDkxfQ.2bRI_eh58CNsKo_sHXtUtZBgUSYfop2_pGBM86MhgRE&page=4)
+2026-01-12 11:45:45 - NaverCafeCrawler_group1 - INFO - 'lg구매' 5페이지: 15개
+2026-01-12 11:47:40 - NaverCafeCrawler_group1 - INFO - 'lg구매' 6페이지: 15개
+2026-01-12 11:49:29 - NaverCafeCrawler_group1 - INFO - 'lg구매' 7페이지: 15개
+2026-01-12 11:51:15 - NaverCafeCrawler_group1 - INFO - 'lg구매' 8페이지: 15개
+2026-01-12 11:53:01 - NaverCafeCrawler_group1 - INFO - 'lg구매' 9페이지: 15개
+2026-01-12 11:54:45 - NaverCafeCrawler_group1 - INFO - 'lg구매' 10페이지: 15개
+2026-01-12 11:56:53 - NaverCafeCrawler_group1 - INFO - 'lg구매' 11페이지: 15개
+2026-01-12 11:59:07 - NaverCafeCrawler_group1 - INFO - 'lg구매' 12페이지: 15개
+2026-01-12 12:01:34 - NaverCafeCrawler_group1 - INFO - 'lg구매' 13페이지: 15개
+2026-01-12 12:04:12 - NaverCafeCrawler_group1 - INFO - 'lg구매' 14페이지: 15개
+2026-01-12 12:06:18 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 12:06:18 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #1 (경과: 60분)
+2026-01-12 12:06:18 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 12:06:19 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 12:06:21 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 12:06:22 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 12:06:22 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 12:06:24 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 12:06:24 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 12:06:24 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 12:06:59 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 12:07:09 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 12:07:09 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 12:07:09 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 12:07:09 - NaverCafeCrawler_group1 - INFO - 기존 URL 153개 로드 완료
+2026-01-12 12:07:09 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 'lg구매' 계속
+2026-01-12 12:07:13 - NaverCafeCrawler_group1 - INFO - 'lg구매' 15페이지: 15개
+2026-01-12 12:08:56 - NaverCafeCrawler_group1 - INFO - 'lg구매' 16페이지: 15개
+2026-01-12 12:10:23 - NaverCafeCrawler_group1 - INFO - 'lg구매' 17페이지: 15개
+2026-01-12 12:11:59 - NaverCafeCrawler_group1 - INFO - 'lg구매' 18페이지: 15개
+2026-01-12 12:13:54 - NaverCafeCrawler_group1 - INFO - 'lg구매' 19페이지: 15개
+2026-01-12 12:15:59 - NaverCafeCrawler_group1 - INFO - 'lg구매' 20페이지: 15개
+2026-01-12 12:18:07 - NaverCafeCrawler_group1 - INFO - 'lg구매' 21페이지: 15개
+2026-01-12 12:20:16 - NaverCafeCrawler_group1 - INFO - 'lg구매' 22페이지: 15개
+2026-01-12 12:22:27 - NaverCafeCrawler_group1 - INFO - 'lg구매' 23페이지: 15개
+2026-01-12 12:24:38 - NaverCafeCrawler_group1 - INFO - 'lg구매' 24페이지: 15개
+2026-01-12 12:27:11 - NaverCafeCrawler_group1 - INFO - 'lg구매' 25페이지: 15개
+2026-01-12 12:29:55 - NaverCafeCrawler_group1 - INFO - 'lg구매' 26페이지: 15개
+2026-01-12 12:33:26 - NaverCafeCrawler_group1 - INFO - 'lg구매' 27페이지: 5개
+2026-01-12 12:34:24 - NaverCafeCrawler_group1 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8443997?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NDM5OTcsImlzc3VlZEF0IjoxNzY4MTg4ODA1ODgxLCJjYWZlSWQiOjI1MjI4MDkxfQ.aKeqRqU4EEnSbNPVhe0HNntbcuEYmdfYdQ5oeaAKxGc&page=27): Execution context was destroyed, most likely because of a navigation
+2026-01-12 12:34:24 - NaverCafeCrawler_group1 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 776, in collect_post_details
+    author = author_elem.inner_text().strip() if author_elem.count() > 0 else ""
+                                                 ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17171, in count
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.count()))
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 390, in count
+    return await self._frame._query_count(self._selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 132, in _query_count
+    return await self._channel.send("queryCount", {"selector": selector})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.Error: Execution context was destroyed, most likely because of a navigation
+
+2026-01-12 12:34:57 - NaverCafeCrawler_group1 - INFO - 'lg구매' 28페이지 없음, 종료
+2026-01-12 12:34:57 - NaverCafeCrawler_group1 - INFO - 'lg구매' 완료: 394개
+2026-01-12 12:34:57 - NaverCafeCrawler_group1 - INFO - 'lg구매' 394개 데이터 저장 중...
+2026-01-12 12:34:59 - NaverCafeCrawler_group1 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 12:34:59 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [3/24] 'lg졸업' 시작
+2026-01-12 12:35:01 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 1페이지: 15개
+2026-01-12 12:36:32 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 2페이지: 15개
+2026-01-12 12:38:27 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 3페이지: 15개
+2026-01-12 12:40:23 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 4페이지: 15개
+2026-01-12 12:42:50 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 5페이지: 15개
+2026-01-12 12:45:05 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 6페이지: 15개
+2026-01-12 12:47:12 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 7페이지: 15개
+2026-01-12 12:49:31 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 8페이지: 15개
+2026-01-12 12:51:44 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 9페이지: 15개
+2026-01-12 12:53:58 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 10페이지: 15개
+2026-01-12 12:53:59 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466974?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY5NzQsImlzc3VlZEF0IjoxNzY4MTkwMDM4NTIyLCJjYWZlSWQiOjI1MjI4MDkxfQ.4m446cY8x8hLDt_3rAX4OgDLgIwP_aEgYKBzJi9p6Yw&page=10): net::ERR_ABORTED at https://cafe.naver.com/f-e/cafes/25228091/articles/8466974?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY5NzQsImlzc3VlZEF0IjoxNzY4MTkwMDM4NTIyLCJjYWZlSWQiOjI1MjI4MDkxfQ.4m446cY8x8hLDt_3rAX4OgDLgIwP_aEgYKBzJi9p6Yw&page=10
+2026-01-12 12:53:59 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466974?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY5NzQsImlzc3VlZEF0IjoxNzY4MTkwMDM4NTIyLCJjYWZlSWQiOjI1MjI4MDkxfQ.4m446cY8x8hLDt_3rAX4OgDLgIwP_aEgYKBzJi9p6Yw&page=10): net::ERR_ABORTED at https://cafe.naver.com/f-e/cafes/25228091/articles/8466974?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY5NzQsImlzc3VlZEF0IjoxNzY4MTkwMDM4NTIyLCJjYWZlSWQiOjI1MjI4MDkxfQ.4m446cY8x8hLDt_3rAX4OgDLgIwP_aEgYKBzJi9p6Yw&page=10
+2026-01-12 12:55:51 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 11페이지: 15개
+2026-01-12 12:57:58 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 12페이지: 15개
+2026-01-12 13:00:15 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 13페이지: 15개
+2026-01-12 13:02:35 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 14페이지: 15개
+2026-01-12 13:05:18 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 15페이지: 15개
+2026-01-12 13:07:19 - NaverCafeCrawler_group1 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8447356?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NDczNTYsImlzc3VlZEF0IjoxNzY4MTkwNzE3ODgxLCJjYWZlSWQiOjI1MjI4MDkxfQ.Bt0B2kDXiBvUr7YeDUyjjUqj8-5I0bXbcdh_OCrv7-s&page=15): Execution context was destroyed, most likely because of a navigation
+2026-01-12 13:07:19 - NaverCafeCrawler_group1 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 771, in collect_post_details
+    title = self._normalize_text(title_elem.inner_text()) if title_elem.count() > 0 else ""
+                                                             ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17171, in count
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.count()))
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 390, in count
+    return await self._frame._query_count(self._selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 132, in _query_count
+    return await self._channel.send("queryCount", {"selector": selector})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.Error: Execution context was destroyed, most likely because of a navigation
+
+2026-01-12 13:08:09 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 13:08:09 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #2 (경과: 61분)
+2026-01-12 13:08:09 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 13:08:09 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 13:08:11 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 13:08:14 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 13:08:14 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 13:08:16 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 13:08:16 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 13:08:16 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 13:08:35 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 13:08:45 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 13:08:45 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 13:08:45 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 13:08:45 - NaverCafeCrawler_group1 - INFO - 기존 URL 547개 로드 완료
+2026-01-12 13:08:45 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 'lg졸업' 계속
+2026-01-12 13:08:49 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 16페이지: 5개
+2026-01-12 13:09:34 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 17페이지 없음, 종료
+2026-01-12 13:09:34 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 완료: 228개
+2026-01-12 13:09:34 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 228개 데이터 저장 중...
+2026-01-12 13:09:36 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 13:09:36 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [4/24] '삼성계약' 시작
+2026-01-12 13:09:38 - NaverCafeCrawler_group1 - INFO - '삼성계약' 1페이지: 15개
+2026-01-12 13:11:05 - NaverCafeCrawler_group1 - INFO - '삼성계약' 2페이지: 15개
+2026-01-12 13:12:55 - NaverCafeCrawler_group1 - INFO - '삼성계약' 3페이지: 15개
+2026-01-12 13:14:35 - NaverCafeCrawler_group1 - INFO - '삼성계약' 4페이지: 15개
+2026-01-12 13:16:36 - NaverCafeCrawler_group1 - INFO - '삼성계약' 5페이지: 15개
+2026-01-12 13:19:15 - NaverCafeCrawler_group1 - INFO - '삼성계약' 6페이지: 15개
+2026-01-12 13:21:36 - NaverCafeCrawler_group1 - INFO - '삼성계약' 7페이지: 15개
+2026-01-12 13:23:44 - NaverCafeCrawler_group1 - INFO - '삼성계약' 8페이지: 15개
+2026-01-12 13:25:59 - NaverCafeCrawler_group1 - INFO - '삼성계약' 9페이지: 15개
+2026-01-12 13:28:15 - NaverCafeCrawler_group1 - INFO - '삼성계약' 10페이지: 15개
+2026-01-12 13:30:32 - NaverCafeCrawler_group1 - INFO - '삼성계약' 11페이지: 1개
+2026-01-12 13:30:58 - NaverCafeCrawler_group1 - INFO - '삼성계약' 12페이지 없음, 종료
+2026-01-12 13:30:58 - NaverCafeCrawler_group1 - INFO - '삼성계약' 완료: 151개
+2026-01-12 13:30:58 - NaverCafeCrawler_group1 - INFO - '삼성계약' 151개 데이터 저장 중...
+2026-01-12 13:31:01 - NaverCafeCrawler_group1 - INFO - '삼성계약' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 13:31:01 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [5/24] '삼성구매' 시작
+2026-01-12 13:31:16 - NaverCafeCrawler_group1 - INFO - '삼성구매' 1페이지: 15개
+2026-01-12 13:33:48 - NaverCafeCrawler_group1 - INFO - '삼성구매' 2페이지: 15개
+2026-01-12 13:36:36 - NaverCafeCrawler_group1 - INFO - '삼성구매' 3페이지: 15개
+2026-01-12 13:40:08 - NaverCafeCrawler_group1 - INFO - '삼성구매' 4페이지: 15개
+2026-01-12 13:43:26 - NaverCafeCrawler_group1 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471085?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEwODUsImlzc3VlZEF0IjoxNzY4MTkyODA3NjQ1LCJjYWZlSWQiOjI1MjI4MDkxfQ.knFvLy4IU0P8yTiDJUN3M3E7vGH0pkIvEFAHg4QEtvk&page=4): Timeout 30000ms exceeded.
+2026-01-12 13:43:26 - NaverCafeCrawler_group1 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 771, in collect_post_details
+    title = self._normalize_text(title_elem.inner_text()) if title_elem.count() > 0 else ""
+                                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17400, in inner_text
+    self._sync(self._impl_obj.inner_text(timeout=timeout))
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 442, in inner_text
+    return await self._frame.inner_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 624, in inner_text
+    return await self._channel.send("innerText", locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.TimeoutError: Timeout 30000ms exceeded.
+
+2026-01-12 13:44:18 - NaverCafeCrawler_group1 - INFO - '삼성구매' 5페이지: 15개
+2026-01-12 13:46:17 - NaverCafeCrawler_group1 - INFO - '삼성구매' 6페이지: 15개
+2026-01-12 13:48:01 - NaverCafeCrawler_group1 - INFO - '삼성구매' 7페이지: 15개
+2026-01-12 13:49:50 - NaverCafeCrawler_group1 - INFO - '삼성구매' 8페이지: 15개
+2026-01-12 13:52:01 - NaverCafeCrawler_group1 - INFO - '삼성구매' 9페이지: 15개
+2026-01-12 13:53:51 - NaverCafeCrawler_group1 - INFO - '삼성구매' 10페이지: 15개
+2026-01-12 13:55:42 - NaverCafeCrawler_group1 - INFO - '삼성구매' 11페이지: 15개
+2026-01-12 13:58:08 - NaverCafeCrawler_group1 - INFO - '삼성구매' 12페이지: 15개
+2026-01-12 14:00:17 - NaverCafeCrawler_group1 - INFO - '삼성구매' 13페이지: 15개
+2026-01-12 14:02:31 - NaverCafeCrawler_group1 - INFO - '삼성구매' 14페이지: 15개
+2026-01-12 14:04:52 - NaverCafeCrawler_group1 - INFO - '삼성구매' 15페이지: 15개
+2026-01-12 14:07:47 - NaverCafeCrawler_group1 - INFO - '삼성구매' 16페이지: 15개
+2026-01-12 14:10:24 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 14:10:24 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #3 (경과: 61분)
+2026-01-12 14:10:24 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 14:10:24 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 14:10:26 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 14:10:28 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 14:10:28 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 14:10:29 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 14:10:29 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 14:10:29 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 14:11:04 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 14:11:14 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 14:11:14 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 14:11:14 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 14:11:14 - NaverCafeCrawler_group1 - INFO - 기존 URL 926개 로드 완료
+2026-01-12 14:11:14 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '삼성구매' 계속
+2026-01-12 14:11:18 - NaverCafeCrawler_group1 - INFO - '삼성구매' 17페이지: 15개
+2026-01-12 14:12:48 - NaverCafeCrawler_group1 - INFO - '삼성구매' 18페이지: 15개
+2026-01-12 14:13:37 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8449572?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NDk1NzIsImlzc3VlZEF0IjoxNzY4MTk0NzY3NjU5LCJjYWZlSWQiOjI1MjI4MDkxfQ.wJhSj6b3uowOKdFbKV6stOByrcygJRbp7EXc2BSl00E&page=18)
+2026-01-12 14:14:43 - NaverCafeCrawler_group1 - INFO - '삼성구매' 19페이지: 15개
+2026-01-12 14:16:24 - NaverCafeCrawler_group1 - INFO - '삼성구매' 20페이지: 15개
+2026-01-12 14:18:13 - NaverCafeCrawler_group1 - INFO - '삼성구매' 21페이지: 4개
+2026-01-12 14:18:56 - NaverCafeCrawler_group1 - INFO - '삼성구매' 22페이지 없음, 종료
+2026-01-12 14:18:56 - NaverCafeCrawler_group1 - INFO - '삼성구매' 완료: 303개
+2026-01-12 14:18:56 - NaverCafeCrawler_group1 - INFO - '삼성구매' 303개 데이터 저장 중...
+2026-01-12 14:18:58 - NaverCafeCrawler_group1 - INFO - '삼성구매' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 14:18:58 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [6/24] '삼성졸업' 시작
+2026-01-12 14:19:02 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 1페이지: 15개
+2026-01-12 14:21:01 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 2페이지: 15개
+2026-01-12 14:23:14 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 3페이지: 15개
+2026-01-12 14:25:59 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 4페이지: 15개
+2026-01-12 14:28:19 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 5페이지: 15개
+2026-01-12 14:30:55 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 6페이지: 15개
+2026-01-12 14:33:23 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 7페이지: 15개
+2026-01-12 14:35:53 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 8페이지: 15개
+2026-01-12 14:38:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8460728?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjA3MjgsImlzc3VlZEF0IjoxNzY4MTk2MTUzMTYzLCJjYWZlSWQiOjI1MjI4MDkxfQ.50UEM65ERcuE-1JMBw6vM30-kLRJ3te_tu1QYXGh_84&page=8)
+2026-01-12 14:39:11 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 9페이지: 15개
+2026-01-12 14:42:14 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 10페이지: 15개
+2026-01-12 14:43:15 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8454028?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTQwMjgsImlzc3VlZEF0IjoxNzY4MTk2NTI5Mjg4LCJjYWZlSWQiOjI1MjI4MDkxfQ.DO8bKiDa0Qs_e1eGCOJyoSs71mrokDv-mhyLEKw47Oc&page=10): Timeout 30000ms exceeded.
+2026-01-12 14:44:42 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 11페이지: 15개
+2026-01-12 14:46:25 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 12페이지: 8개
+2026-01-12 14:47:27 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 13페이지 없음, 종료
+2026-01-12 14:47:27 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 완료: 173개
+2026-01-12 14:47:27 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 173개 데이터 저장 중...
+2026-01-12 14:47:32 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 14:47:32 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [7/24] '엘지계약' 시작
+2026-01-12 14:47:35 - NaverCafeCrawler_group1 - INFO - '엘지계약' 1페이지: 15개
+2026-01-12 14:49:24 - NaverCafeCrawler_group1 - INFO - '엘지계약' 2페이지: 15개
+2026-01-12 14:51:11 - NaverCafeCrawler_group1 - INFO - '엘지계약' 3페이지: 15개
+2026-01-12 14:52:56 - NaverCafeCrawler_group1 - INFO - '엘지계약' 4페이지: 2개
+2026-01-12 14:53:29 - NaverCafeCrawler_group1 - INFO - '엘지계약' 5페이지 없음, 종료
+2026-01-12 14:53:29 - NaverCafeCrawler_group1 - INFO - '엘지계약' 완료: 47개
+2026-01-12 14:53:29 - NaverCafeCrawler_group1 - INFO - '엘지계약' 47개 데이터 저장 중...
+2026-01-12 14:53:31 - NaverCafeCrawler_group1 - INFO - '엘지계약' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 14:53:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [8/24] '엘지구매' 시작
+2026-01-12 14:53:35 - NaverCafeCrawler_group1 - INFO - '엘지구매' 1페이지: 15개
+2026-01-12 14:55:41 - NaverCafeCrawler_group1 - INFO - '엘지구매' 2페이지: 15개
+2026-01-12 14:58:04 - NaverCafeCrawler_group1 - INFO - '엘지구매' 3페이지: 15개
+2026-01-12 15:00:25 - NaverCafeCrawler_group1 - INFO - '엘지구매' 4페이지: 15개
+2026-01-12 15:02:49 - NaverCafeCrawler_group1 - INFO - '엘지구매' 5페이지: 15개
+2026-01-12 15:05:19 - NaverCafeCrawler_group1 - INFO - '엘지구매' 6페이지: 15개
+2026-01-12 15:08:40 - NaverCafeCrawler_group1 - INFO - '엘지구매' 7페이지: 15개
+2026-01-12 15:11:43 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8453544?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTM1NDQsImlzc3VlZEF0IjoxNzY4MTk4MTE5MTY4LCJjYWZlSWQiOjI1MjI4MDkxfQ.iOXIaNg2qhJ4NEakeSPCVJoMAvPJNUh5bt7iJNdgriQ&page=7)
+2026-01-12 15:12:09 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 15:12:09 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #4 (경과: 60분)
+2026-01-12 15:12:09 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 15:12:09 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 15:12:11 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 15:12:12 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 15:12:12 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 15:12:14 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 15:12:14 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 15:12:14 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 15:12:48 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 15:12:58 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 15:12:58 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 15:12:58 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 15:12:59 - NaverCafeCrawler_group1 - INFO - 기존 URL 1449개 로드 완료
+2026-01-12 15:12:59 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '엘지구매' 계속
+2026-01-12 15:13:05 - NaverCafeCrawler_group1 - INFO - '엘지구매' 8페이지: 15개
+2026-01-12 15:14:40 - NaverCafeCrawler_group1 - INFO - '엘지구매' 9페이지: 14개
+2026-01-12 15:16:29 - NaverCafeCrawler_group1 - INFO - '엘지구매' 10페이지 없음, 종료
+2026-01-12 15:16:29 - NaverCafeCrawler_group1 - INFO - '엘지구매' 완료: 134개
+2026-01-12 15:16:29 - NaverCafeCrawler_group1 - INFO - '엘지구매' 134개 데이터 저장 중...
+2026-01-12 15:16:31 - NaverCafeCrawler_group1 - INFO - '엘지구매' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 15:16:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [9/24] '엘지졸업' 시작
+2026-01-12 15:16:33 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 1페이지: 15개
+2026-01-12 15:18:29 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 2페이지: 15개
+2026-01-12 15:20:25 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 3페이지: 15개
+2026-01-12 15:22:31 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 4페이지: 15개
+2026-01-12 15:24:34 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 5페이지: 12개
+2026-01-12 15:26:27 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 6페이지 없음, 종료
+2026-01-12 15:26:27 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 완료: 72개
+2026-01-12 15:26:27 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 72개 데이터 저장 중...
+2026-01-12 15:26:29 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 15:26:29 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [10/24] '베스트샵' 시작
+2026-01-12 15:26:35 - NaverCafeCrawler_group1 - INFO - '베스트샵' 1페이지: 15개
+2026-01-12 15:29:11 - NaverCafeCrawler_group1 - INFO - '베스트샵' 2페이지: 15개
+2026-01-12 15:31:33 - NaverCafeCrawler_group1 - INFO - '베스트샵' 3페이지: 15개
+2026-01-12 15:34:12 - NaverCafeCrawler_group1 - INFO - '베스트샵' 4페이지: 15개
+2026-01-12 15:36:44 - NaverCafeCrawler_group1 - INFO - '베스트샵' 5페이지: 15개
+2026-01-12 15:39:18 - NaverCafeCrawler_group1 - INFO - '베스트샵' 6페이지: 15개
+2026-01-12 15:40:08 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467683?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc2ODMsImlzc3VlZEF0IjoxNzY4MTk5OTUzMTQyLCJjYWZlSWQiOjI1MjI4MDkxfQ.y3bPhEpHTOt72bOgj5ucJww1W7nfKoenz_cYgrbOqbs&page=6)
+2026-01-12 15:42:32 - NaverCafeCrawler_group1 - INFO - '베스트샵' 7페이지: 15개
+2026-01-12 15:45:27 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464930?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%83%B5&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ5MzAsImlzc3VlZEF0IjoxNzY4MjAwMTUyMTEwLCJjYWZlSWQiOjI1MjI4MDkxfQ.vKcFKjhVEIfa8uwfux9k_NQYe2oU8UxLKqdhFl_2wbM&page=7): Timeout 30000ms exceeded.
+2026-01-12 15:46:10 - NaverCafeCrawler_group1 - INFO - '베스트샵' 8페이지: 15개
+2026-01-12 15:47:45 - NaverCafeCrawler_group1 - INFO - '베스트샵' 9페이지: 15개
+2026-01-12 15:49:18 - NaverCafeCrawler_group1 - INFO - '베스트샵' 10페이지: 15개
+2026-01-12 15:51:05 - NaverCafeCrawler_group1 - INFO - '베스트샵' 11페이지: 15개
+2026-01-12 15:53:17 - NaverCafeCrawler_group1 - INFO - '베스트샵' 12페이지: 15개
+2026-01-12 15:55:27 - NaverCafeCrawler_group1 - INFO - '베스트샵' 13페이지: 3개
+2026-01-12 15:56:07 - NaverCafeCrawler_group1 - INFO - '베스트샵' 14페이지 없음, 종료
+2026-01-12 15:56:07 - NaverCafeCrawler_group1 - INFO - '베스트샵' 완료: 183개
+2026-01-12 15:56:07 - NaverCafeCrawler_group1 - INFO - '베스트샵' 183개 데이터 저장 중...
+2026-01-12 15:56:11 - NaverCafeCrawler_group1 - INFO - '베스트샵' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 15:56:11 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [11/24] '삼성스토어' 시작
+2026-01-12 15:56:14 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 1페이지: 15개
+2026-01-12 15:58:31 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 2페이지: 15개
+2026-01-12 16:00:27 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 3페이지: 15개
+2026-01-12 16:02:42 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 4페이지: 15개
+2026-01-12 16:05:03 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 5페이지: 15개
+2026-01-12 16:07:41 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 6페이지: 15개
+2026-01-12 16:10:15 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 7페이지: 15개
+2026-01-12 16:12:43 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 8페이지: 15개
+2026-01-12 16:14:59 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 16:14:59 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #5 (경과: 62분)
+2026-01-12 16:14:59 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 16:15:00 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 16:15:02 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 16:15:03 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 16:15:03 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 16:15:04 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 16:15:04 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 16:15:04 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 16:15:09 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 16:15:19 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 16:15:19 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 16:15:19 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 16:15:20 - NaverCafeCrawler_group1 - INFO - 기존 URL 1838개 로드 완료
+2026-01-12 16:15:20 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '삼성스토어' 계속
+2026-01-12 16:15:25 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 9페이지: 15개
+2026-01-12 16:17:12 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 10페이지: 15개
+2026-01-12 16:19:13 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 11페이지: 15개
+2026-01-12 16:20:59 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 12페이지: 15개
+2026-01-12 16:22:48 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 13페이지: 15개
+2026-01-12 16:24:35 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 14페이지: 15개
+2026-01-12 16:26:46 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 15페이지: 15개
+2026-01-12 16:28:55 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 16페이지: 15개
+2026-01-12 16:31:04 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 17페이지: 15개
+2026-01-12 16:33:09 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 18페이지: 15개
+2026-01-12 16:35:15 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 19페이지: 15개
+2026-01-12 16:37:46 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 20페이지: 15개
+2026-01-12 16:40:26 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 21페이지: 15개
+2026-01-12 16:43:12 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 22페이지: 7개
+2026-01-12 16:44:47 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 23페이지 없음, 종료
+2026-01-12 16:44:47 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 완료: 322개
+2026-01-12 16:44:47 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 322개 데이터 저장 중...
+2026-01-12 16:44:52 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 16:44:52 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [12/24] '가전졸업' 시작
+2026-01-12 16:44:58 - NaverCafeCrawler_group1 - INFO - '가전졸업' 1페이지: 15개
+2026-01-12 16:48:48 - NaverCafeCrawler_group1 - INFO - '가전졸업' 2페이지: 15개
+2026-01-12 16:50:26 - NaverCafeCrawler_group1 - INFO - '가전졸업' 3페이지: 15개
+2026-01-12 16:51:53 - NaverCafeCrawler_group1 - INFO - '가전졸업' 4페이지: 15개
+2026-01-12 16:53:33 - NaverCafeCrawler_group1 - INFO - '가전졸업' 5페이지: 15개
+2026-01-12 16:55:54 - NaverCafeCrawler_group1 - INFO - '가전졸업' 6페이지: 15개
+2026-01-12 16:58:08 - NaverCafeCrawler_group1 - INFO - '가전졸업' 7페이지: 15개
+2026-01-12 17:00:15 - NaverCafeCrawler_group1 - INFO - '가전졸업' 8페이지: 15개
+2026-01-12 17:02:39 - NaverCafeCrawler_group1 - INFO - '가전졸업' 9페이지: 15개
+2026-01-12 17:05:03 - NaverCafeCrawler_group1 - INFO - '가전졸업' 10페이지: 15개
+2026-01-12 17:07:05 - NaverCafeCrawler_group1 - INFO - '가전졸업' 11페이지: 15개
+2026-01-12 17:08:56 - NaverCafeCrawler_group1 - INFO - '가전졸업' 12페이지: 15개
+2026-01-12 17:10:45 - NaverCafeCrawler_group1 - INFO - '가전졸업' 13페이지: 15개
+2026-01-12 17:12:44 - NaverCafeCrawler_group1 - INFO - '가전졸업' 14페이지: 15개
+2026-01-12 17:15:15 - NaverCafeCrawler_group1 - INFO - '가전졸업' 15페이지: 15개
+2026-01-12 17:17:45 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 17:17:45 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #6 (경과: 62분)
+2026-01-12 17:17:45 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 17:17:45 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 17:17:47 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 17:17:56 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 17:17:56 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 17:17:58 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 17:17:58 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 17:17:58 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 17:18:33 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 17:18:43 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 17:18:43 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 17:18:43 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 17:18:43 - NaverCafeCrawler_group1 - INFO - 기존 URL 2160개 로드 완료
+2026-01-12 17:18:43 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '가전졸업' 계속
+2026-01-12 17:18:48 - NaverCafeCrawler_group1 - INFO - '가전졸업' 16페이지: 15개
+2026-01-12 17:20:31 - NaverCafeCrawler_group1 - INFO - '가전졸업' 17페이지: 15개
+2026-01-12 17:21:55 - NaverCafeCrawler_group1 - INFO - '가전졸업' 18페이지: 15개
+2026-01-12 17:23:21 - NaverCafeCrawler_group1 - INFO - '가전졸업' 19페이지: 15개
+2026-01-12 17:25:20 - NaverCafeCrawler_group1 - INFO - '가전졸업' 20페이지: 15개
+2026-01-12 17:27:41 - NaverCafeCrawler_group1 - INFO - '가전졸업' 21페이지: 15개
+2026-01-12 17:30:11 - NaverCafeCrawler_group1 - INFO - '가전졸업' 22페이지: 15개
+2026-01-12 17:32:55 - NaverCafeCrawler_group1 - INFO - '가전졸업' 23페이지: 15개
+2026-01-12 17:35:26 - NaverCafeCrawler_group1 - INFO - '가전졸업' 24페이지: 15개
+2026-01-12 17:37:59 - NaverCafeCrawler_group1 - INFO - '가전졸업' 25페이지: 15개
+2026-01-12 17:40:38 - NaverCafeCrawler_group1 - INFO - '가전졸업' 26페이지: 15개
+2026-01-12 17:43:28 - NaverCafeCrawler_group1 - INFO - '가전졸업' 27페이지: 15개
+2026-01-12 17:46:35 - NaverCafeCrawler_group1 - INFO - '가전졸업' 28페이지: 15개
+2026-01-12 17:49:57 - NaverCafeCrawler_group1 - INFO - '가전졸업' 29페이지: 9개
+2026-01-12 17:52:40 - NaverCafeCrawler_group1 - INFO - '가전졸업' 30페이지 없음, 종료
+2026-01-12 17:52:40 - NaverCafeCrawler_group1 - INFO - '가전졸업' 완료: 429개
+2026-01-12 17:52:40 - NaverCafeCrawler_group1 - INFO - '가전졸업' 429개 데이터 저장 중...
+2026-01-12 17:52:48 - NaverCafeCrawler_group1 - INFO - '가전졸업' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 17:52:48 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [13/24] 'lg렌탈' 시작
+2026-01-12 17:52:55 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 1페이지: 15개
+2026-01-12 17:53:27 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8472576?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EB%A0%8C%ED%83%88&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzI1NzYsImlzc3VlZEF0IjoxNzY4MjA3OTczNDcxLCJjYWZlSWQiOjI1MjI4MDkxfQ.uIB3LQyl1nZV60V3GdoDJcWeYdINMjhG2EbgWNzrtL8&page=1)
+2026-01-12 18:04:45 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 2페이지: 11개
+2026-01-12 18:06:02 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 3페이지 없음, 종료
+2026-01-12 18:06:02 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 완료: 26개
+2026-01-12 18:06:02 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 26개 데이터 저장 중...
+2026-01-12 18:06:05 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 18:06:05 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [14/24] '가전렌탈' 시작
+2026-01-12 18:06:06 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 1페이지: 15개
+2026-01-12 18:07:45 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 2페이지: 15개
+2026-01-12 18:09:28 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 3페이지: 15개
+2026-01-12 18:11:25 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 4페이지: 8개
+2026-01-12 18:12:40 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 5페이지 없음, 종료
+2026-01-12 18:12:40 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 완료: 53개
+2026-01-12 18:12:40 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 53개 데이터 저장 중...
+2026-01-12 18:12:44 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 18:12:44 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [15/24] '엘지교원' 시작
+2026-01-12 18:12:46 - NaverCafeCrawler_group1 - INFO - '엘지교원' 1페이지: 1개
+2026-01-12 18:13:10 - NaverCafeCrawler_group1 - INFO - '엘지교원' 2페이지 없음, 종료
+2026-01-12 18:13:10 - NaverCafeCrawler_group1 - INFO - '엘지교원' 완료: 1개
+2026-01-12 18:13:10 - NaverCafeCrawler_group1 - INFO - '엘지교원' 1개 데이터 저장 중...
+2026-01-12 18:13:13 - NaverCafeCrawler_group1 - INFO - '엘지교원' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 18:13:13 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [16/24] '베스트라이프' 시작
+2026-01-12 18:13:15 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 1페이지: 1개
+2026-01-12 18:13:39 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 2페이지 없음, 종료
+2026-01-12 18:13:39 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 완료: 1개
+2026-01-12 18:13:39 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 1개 데이터 저장 중...
+2026-01-12 18:13:42 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 18:13:42 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [17/24] '가전구매' 시작
+2026-01-12 18:13:45 - NaverCafeCrawler_group1 - INFO - '가전구매' 1페이지: 15개
+2026-01-12 18:16:13 - NaverCafeCrawler_group1 - INFO - '가전구매' 2페이지: 15개
+2026-01-12 18:18:48 - NaverCafeCrawler_group1 - INFO - '가전구매' 3페이지: 15개
+2026-01-12 18:21:30 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 18:21:30 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #7 (경과: 62분)
+2026-01-12 18:21:30 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 18:21:30 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 18:21:32 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 18:21:33 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 18:21:33 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 18:21:35 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 18:21:35 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 18:21:35 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 18:22:09 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 18:22:19 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 18:22:19 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 18:22:19 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 18:22:20 - NaverCafeCrawler_group1 - INFO - 기존 URL 2670개 로드 완료
+2026-01-12 18:22:20 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '가전구매' 계속
+2026-01-12 18:22:24 - NaverCafeCrawler_group1 - INFO - '가전구매' 4페이지: 15개
+2026-01-12 18:23:58 - NaverCafeCrawler_group1 - INFO - '가전구매' 5페이지: 15개
+2026-01-12 18:25:28 - NaverCafeCrawler_group1 - INFO - '가전구매' 6페이지: 15개
+2026-01-12 18:27:05 - NaverCafeCrawler_group1 - INFO - '가전구매' 7페이지: 15개
+2026-01-12 18:29:02 - NaverCafeCrawler_group1 - INFO - '가전구매' 8페이지: 15개
+2026-01-12 18:31:14 - NaverCafeCrawler_group1 - INFO - '가전구매' 9페이지: 15개
+2026-01-12 18:33:34 - NaverCafeCrawler_group1 - INFO - '가전구매' 10페이지: 15개
+2026-01-12 18:35:52 - NaverCafeCrawler_group1 - INFO - '가전구매' 11페이지: 15개
+2026-01-12 18:38:24 - NaverCafeCrawler_group1 - INFO - '가전구매' 12페이지: 15개
+2026-01-12 18:40:29 - NaverCafeCrawler_group1 - INFO - '가전구매' 13페이지: 15개
+2026-01-12 18:42:55 - NaverCafeCrawler_group1 - INFO - '가전구매' 14페이지: 15개
+2026-01-12 18:45:20 - NaverCafeCrawler_group1 - INFO - '가전구매' 15페이지: 15개
+2026-01-12 18:47:55 - NaverCafeCrawler_group1 - INFO - '가전구매' 16페이지: 15개
+2026-01-12 18:50:21 - NaverCafeCrawler_group1 - INFO - '가전구매' 17페이지: 15개
+2026-01-12 18:52:18 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469285?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjkyODUsImlzc3VlZEF0IjoxNzY4MjExNDIwNzU2LCJjYWZlSWQiOjI1MjI4MDkxfQ.56KBJij1o_KFwnSO6PiQq3pDAj7BtKeEUL5BvZ30BuI&page=17)
+2026-01-12 18:53:27 - NaverCafeCrawler_group1 - INFO - '가전구매' 18페이지: 15개
+2026-01-12 18:54:52 - NaverCafeCrawler_group1 - INFO - '가전구매' 19페이지: 15개
+2026-01-12 18:56:23 - NaverCafeCrawler_group1 - INFO - '가전구매' 20페이지: 15개
+2026-01-12 18:58:05 - NaverCafeCrawler_group1 - INFO - '가전구매' 21페이지: 15개
+2026-01-12 19:00:02 - NaverCafeCrawler_group1 - INFO - '가전구매' 22페이지: 15개
+2026-01-12 19:02:06 - NaverCafeCrawler_group1 - INFO - '가전구매' 23페이지: 15개
+2026-01-12 19:04:21 - NaverCafeCrawler_group1 - INFO - '가전구매' 24페이지: 15개
+2026-01-12 19:06:17 - NaverCafeCrawler_group1 - INFO - '가전구매' 25페이지: 15개
+2026-01-12 19:08:04 - NaverCafeCrawler_group1 - INFO - '가전구매' 26페이지: 15개
+2026-01-12 19:10:14 - NaverCafeCrawler_group1 - INFO - '가전구매' 27페이지: 15개
+2026-01-12 19:12:15 - NaverCafeCrawler_group1 - INFO - '가전구매' 28페이지: 15개
+2026-01-12 19:14:17 - NaverCafeCrawler_group1 - INFO - '가전구매' 29페이지: 15개
+2026-01-12 19:16:37 - NaverCafeCrawler_group1 - INFO - '가전구매' 30페이지: 15개
+2026-01-12 19:19:28 - NaverCafeCrawler_group1 - INFO - '가전구매' 31페이지: 15개
+2026-01-12 19:20:30 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463850?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjM4NTAsImlzc3VlZEF0IjoxNzY4MjEzMTY4MzMzLCJjYWZlSWQiOjI1MjI4MDkxfQ.tpFRAwZ9TT0adrufS8Mi-qsbbMu1RbQRs1Z6Rmr-8Uc&page=31): Timeout 30000ms exceeded.
+2026-01-12 19:21:59 - NaverCafeCrawler_group1 - INFO - '가전구매' 32페이지: 15개
+2026-01-12 19:23:33 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 19:23:33 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #8 (경과: 61분)
+2026-01-12 19:23:33 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 19:23:33 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 19:23:35 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 19:23:37 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 19:23:37 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 19:23:38 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 19:23:38 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 19:23:38 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 19:23:43 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 19:23:53 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 19:23:53 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 19:23:53 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 19:23:53 - NaverCafeCrawler_group1 - INFO - 기존 URL 2670개 로드 완료
+2026-01-12 19:23:53 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '가전구매' 계속
+2026-01-12 19:23:58 - NaverCafeCrawler_group1 - INFO - '가전구매' 33페이지: 15개
+2026-01-12 19:25:26 - NaverCafeCrawler_group1 - INFO - '가전구매' 34페이지: 15개
+2026-01-12 19:27:04 - NaverCafeCrawler_group1 - INFO - '가전구매' 35페이지: 15개
+2026-01-12 19:28:46 - NaverCafeCrawler_group1 - INFO - '가전구매' 36페이지: 15개
+2026-01-12 19:30:33 - NaverCafeCrawler_group1 - INFO - '가전구매' 37페이지: 15개
+2026-01-12 19:32:24 - NaverCafeCrawler_group1 - INFO - '가전구매' 38페이지: 15개
+2026-01-12 19:34:06 - NaverCafeCrawler_group1 - INFO - '가전구매' 39페이지: 15개
+2026-01-12 19:36:03 - NaverCafeCrawler_group1 - INFO - '가전구매' 40페이지: 15개
+2026-01-12 19:37:57 - NaverCafeCrawler_group1 - INFO - '가전구매' 41페이지: 15개
+2026-01-12 19:40:07 - NaverCafeCrawler_group1 - INFO - '가전구매' 42페이지: 15개
+2026-01-12 19:42:25 - NaverCafeCrawler_group1 - INFO - '가전구매' 43페이지: 15개
+2026-01-12 19:44:34 - NaverCafeCrawler_group1 - INFO - '가전구매' 44페이지: 15개
+2026-01-12 21:55:58 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8451230?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTEyMzAsImlzc3VlZEF0IjoxNzY4MjE0NjczNDg4LCJjYWZlSWQiOjI1MjI4MDkxfQ.hzfBQPy0tzzWlIC_T0dOxyc8MQ0nxYZnbp2OQkhJHHg&page=44)
+2026-01-12 21:57:08 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 21:57:08 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #9 (경과: 153분)
+2026-01-12 21:57:08 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 21:57:08 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 21:57:10 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 21:57:11 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 21:57:11 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 21:57:13 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 21:57:13 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 21:57:13 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 21:57:47 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 21:57:57 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 21:57:57 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 21:57:57 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 21:57:58 - NaverCafeCrawler_group1 - INFO - 기존 URL 2670개 로드 완료
+2026-01-12 21:57:58 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '가전구매' 계속
+2026-01-12 21:58:03 - NaverCafeCrawler_group1 - INFO - '가전구매' 45페이지: 15개
+2026-01-12 21:59:35 - NaverCafeCrawler_group1 - INFO - '가전구매' 46페이지: 15개
+2026-01-12 22:01:24 - NaverCafeCrawler_group1 - INFO - '가전구매' 47페이지: 15개
+2026-01-12 22:03:11 - NaverCafeCrawler_group1 - INFO - '가전구매' 48페이지: 15개
+2026-01-12 22:05:04 - NaverCafeCrawler_group1 - INFO - '가전구매' 49페이지: 15개
+2026-01-12 22:06:51 - NaverCafeCrawler_group1 - INFO - '가전구매' 50페이지: 15개
+2026-01-12 22:08:50 - NaverCafeCrawler_group1 - INFO - '가전구매' 51페이지: 15개
+2026-01-12 22:10:54 - NaverCafeCrawler_group1 - INFO - '가전구매' 52페이지: 15개
+2026-01-12 22:13:12 - NaverCafeCrawler_group1 - INFO - '가전구매' 53페이지: 15개
+2026-01-12 22:15:17 - NaverCafeCrawler_group1 - INFO - '가전구매' 54페이지: 5개
+2026-01-12 22:16:16 - NaverCafeCrawler_group1 - INFO - '가전구매' 55페이지 없음, 종료
+2026-01-12 22:16:16 - NaverCafeCrawler_group1 - INFO - '가전구매' 완료: 800개
+2026-01-12 22:16:16 - NaverCafeCrawler_group1 - INFO - '가전구매' 800개 데이터 저장 중...
+2026-01-12 22:16:26 - NaverCafeCrawler_group1 - INFO - '가전구매' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 22:16:26 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [18/24] 'lg vs 삼성' 시작
+2026-01-12 22:16:30 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 1페이지: 15개
+2026-01-12 22:19:54 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466681?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%20vs%20%EC%82%BC%EC%84%B1&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY2ODEsImlzc3VlZEF0IjoxNzY4MjIzNzkwNjIzLCJjYWZlSWQiOjI1MjI4MDkxfQ.bK6kooP3jNa54oGQX85tHCB8v3x4NvlbLYRFLY2i33I&page=1)
+2026-01-12 22:20:23 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 2페이지: 15개
+2026-01-12 22:22:17 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 3페이지: 5개
+2026-01-12 22:23:16 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 4페이지 없음, 종료
+2026-01-12 22:23:16 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 완료: 35개
+2026-01-12 22:23:16 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 35개 데이터 저장 중...
+2026-01-12 22:23:21 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 22:23:21 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [19/24] 'lg구독' 시작
+2026-01-12 22:23:24 - NaverCafeCrawler_group1 - INFO - 'lg구독' 1페이지: 15개
+2026-01-12 22:25:24 - NaverCafeCrawler_group1 - INFO - 'lg구독' 2페이지: 15개
+2026-01-12 22:27:30 - NaverCafeCrawler_group1 - INFO - 'lg구독' 3페이지: 15개
+2026-01-12 22:29:34 - NaverCafeCrawler_group1 - INFO - 'lg구독' 4페이지: 15개
+2026-01-12 22:31:40 - NaverCafeCrawler_group1 - INFO - 'lg구독' 5페이지: 15개
+2026-01-12 22:33:52 - NaverCafeCrawler_group1 - INFO - 'lg구독' 6페이지: 12개
+2026-01-12 22:36:19 - NaverCafeCrawler_group1 - INFO - 'lg구독' 7페이지 없음, 종료
+2026-01-12 22:36:19 - NaverCafeCrawler_group1 - INFO - 'lg구독' 완료: 87개
+2026-01-12 22:36:19 - NaverCafeCrawler_group1 - INFO - 'lg구독' 87개 데이터 저장 중...
+2026-01-12 22:36:23 - NaverCafeCrawler_group1 - INFO - 'lg구독' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 22:36:23 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [20/24] '가전구독' 시작
+2026-01-12 22:36:29 - NaverCafeCrawler_group1 - INFO - '가전구독' 1페이지: 15개
+2026-01-12 22:39:27 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8476662?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EA%B5%AC%EB%8F%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzY2NjIsImlzc3VlZEF0IjoxNzY4MjI0OTg4NDIwLCJjYWZlSWQiOjI1MjI4MDkxfQ.YFy_Qza2awUcvA5a-CYjLqVfltuInk2pvasnkpn9qSg&page=1)
+2026-01-12 22:40:43 - NaverCafeCrawler_group1 - INFO - '가전구독' 2페이지: 15개
+2026-01-12 22:42:16 - NaverCafeCrawler_group1 - INFO - '가전구독' 3페이지: 15개
+2026-01-12 22:44:12 - NaverCafeCrawler_group1 - INFO - '가전구독' 4페이지: 15개
+2026-01-12 22:45:53 - NaverCafeCrawler_group1 - INFO - '가전구독' 5페이지: 15개
+2026-01-12 22:48:19 - NaverCafeCrawler_group1 - INFO - '가전구독' 6페이지: 15개
+2026-01-12 22:50:35 - NaverCafeCrawler_group1 - INFO - '가전구독' 7페이지: 15개
+2026-01-12 22:52:51 - NaverCafeCrawler_group1 - INFO - '가전구독' 8페이지: 15개
+2026-01-12 22:55:03 - NaverCafeCrawler_group1 - INFO - '가전구독' 9페이지: 15개
+2026-01-12 22:57:26 - NaverCafeCrawler_group1 - INFO - '가전구독' 10페이지: 5개
+2026-01-12 22:58:13 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 22:58:13 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #10 (경과: 60분)
+2026-01-12 22:58:13 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 22:58:13 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 22:58:15 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 22:58:21 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 22:58:21 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 22:58:23 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 22:58:23 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 22:58:23 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 22:58:57 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 22:59:07 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 22:59:07 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 22:59:07 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 22:59:08 - NaverCafeCrawler_group1 - INFO - 기존 URL 3592개 로드 완료
+2026-01-12 22:59:08 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '가전구독' 계속
+2026-01-12 22:59:23 - NaverCafeCrawler_group1 - INFO - '가전구독' 11페이지 없음, 종료
+2026-01-12 22:59:23 - NaverCafeCrawler_group1 - INFO - '가전구독' 완료: 140개
+2026-01-12 22:59:23 - NaverCafeCrawler_group1 - INFO - '가전구독' 140개 데이터 저장 중...
+2026-01-12 22:59:28 - NaverCafeCrawler_group1 - INFO - '가전구독' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 22:59:28 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [21/24] '가전상담' 시작
+2026-01-12 22:59:29 - NaverCafeCrawler_group1 - INFO - '가전상담' 1페이지: 15개
+2026-01-12 23:01:09 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8476859?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzY4NTksImlzc3VlZEF0IjoxNzY4MjI2MzY5NTkxLCJjYWZlSWQiOjI1MjI4MDkxfQ.n42JEHox-txFBcPNcI4kuDoVVudyZqFcKBhpov7r-vA&page=1)
+2026-01-12 23:01:28 - NaverCafeCrawler_group1 - INFO - '가전상담' 2페이지: 15개
+2026-01-12 23:03:03 - NaverCafeCrawler_group1 - INFO - '가전상담' 3페이지: 15개
+2026-01-12 23:04:52 - NaverCafeCrawler_group1 - INFO - '가전상담' 4페이지: 15개
+2026-01-12 23:06:55 - NaverCafeCrawler_group1 - INFO - '가전상담' 5페이지: 15개
+2026-01-12 23:08:51 - NaverCafeCrawler_group1 - INFO - '가전상담' 6페이지: 15개
+2026-01-12 23:10:35 - NaverCafeCrawler_group1 - INFO - '가전상담' 7페이지: 15개
+2026-01-12 23:12:24 - NaverCafeCrawler_group1 - INFO - '가전상담' 8페이지: 15개
+2026-01-12 23:14:29 - NaverCafeCrawler_group1 - INFO - '가전상담' 9페이지: 15개
+2026-01-12 23:16:32 - NaverCafeCrawler_group1 - INFO - '가전상담' 10페이지: 15개
+2026-01-12 23:18:39 - NaverCafeCrawler_group1 - INFO - '가전상담' 11페이지: 15개
+2026-01-12 23:21:00 - NaverCafeCrawler_group1 - INFO - '가전상담' 12페이지: 15개
+2026-01-12 23:23:18 - NaverCafeCrawler_group1 - INFO - '가전상담' 13페이지: 15개
+2026-01-12 23:26:13 - NaverCafeCrawler_group1 - INFO - '가전상담' 14페이지: 15개
+2026-01-12 23:28:43 - NaverCafeCrawler_group1 - INFO - '가전상담' 15페이지: 15개
+2026-01-12 23:30:31 - NaverCafeCrawler_group1 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470622?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA2MjIsImlzc3VlZEF0IjoxNzY4MjI4MTIyODM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.qtAg2WGYisjyBa1HspcnyEJWQlnJyZUBdivr7T6m_Vc&page=15): Timeout 30000ms exceeded.
+2026-01-12 23:30:31 - NaverCafeCrawler_group1 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 771, in collect_post_details
+    title = self._normalize_text(title_elem.inner_text()) if title_elem.count() > 0 else ""
+                                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17400, in inner_text
+    self._sync(self._impl_obj.inner_text(timeout=timeout))
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 442, in inner_text
+    return await self._frame.inner_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 624, in inner_text
+    return await self._channel.send("innerText", locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.TimeoutError: Timeout 30000ms exceeded.
+
+2026-01-12 23:31:52 - NaverCafeCrawler_group1 - INFO - '가전상담' 16페이지: 15개
+2026-01-12 23:33:10 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470413?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA0MTMsImlzc3VlZEF0IjoxNzY4MjI4MzExODA2LCJjYWZlSWQiOjI1MjI4MDkxfQ.Cx-XvQsXse38Y2052XKiAEU0GQavxe1BhHzM5JIFFD4&page=16)
+2026-01-12 23:33:50 - NaverCafeCrawler_group1 - INFO - '가전상담' 17페이지: 15개
+2026-01-12 23:35:44 - NaverCafeCrawler_group1 - INFO - '가전상담' 18페이지: 15개
+2026-01-12 23:37:42 - NaverCafeCrawler_group1 - INFO - '가전상담' 19페이지: 15개
+2026-01-12 23:39:51 - NaverCafeCrawler_group1 - INFO - '가전상담' 20페이지: 15개
+2026-01-12 23:41:55 - NaverCafeCrawler_group1 - INFO - '가전상담' 21페이지: 15개
+2026-01-12 23:43:56 - NaverCafeCrawler_group1 - INFO - '가전상담' 22페이지: 15개
+2026-01-12 23:45:40 - NaverCafeCrawler_group1 - INFO - '가전상담' 23페이지: 15개
+2026-01-12 23:47:35 - NaverCafeCrawler_group1 - INFO - '가전상담' 24페이지: 15개
+2026-01-12 23:49:52 - NaverCafeCrawler_group1 - INFO - '가전상담' 25페이지: 15개
+2026-01-12 23:52:22 - NaverCafeCrawler_group1 - INFO - '가전상담' 26페이지: 15개
+2026-01-12 23:54:48 - NaverCafeCrawler_group1 - INFO - '가전상담' 27페이지: 15개
+2026-01-12 23:57:32 - NaverCafeCrawler_group1 - INFO - '가전상담' 28페이지: 15개
+2026-01-12 23:59:57 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 23:59:57 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #11 (경과: 60분)
+2026-01-12 23:59:57 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 23:59:57 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 23:59:59 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-13 00:00:08 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-13 00:00:08 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-13 00:00:10 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-13 00:00:10 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-13 00:00:10 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-13 00:00:15 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-13 00:00:25 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-13 00:00:25 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-13 00:00:25 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-13 00:00:26 - NaverCafeCrawler_group1 - INFO - 기존 URL 3732개 로드 완료
+2026-01-13 00:00:26 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '가전상담' 계속
+2026-01-13 00:00:30 - NaverCafeCrawler_group1 - INFO - '가전상담' 29페이지: 15개
+2026-01-13 00:02:02 - NaverCafeCrawler_group1 - INFO - '가전상담' 30페이지: 15개
+2026-01-13 00:03:36 - NaverCafeCrawler_group1 - INFO - '가전상담' 31페이지: 15개
+2026-01-13 00:05:09 - NaverCafeCrawler_group1 - INFO - '가전상담' 32페이지: 15개
+2026-01-13 00:06:44 - NaverCafeCrawler_group1 - INFO - '가전상담' 33페이지: 15개
+2026-01-13 00:08:24 - NaverCafeCrawler_group1 - INFO - '가전상담' 34페이지: 15개
+2026-01-13 00:10:23 - NaverCafeCrawler_group1 - INFO - '가전상담' 35페이지: 15개
+2026-01-13 00:13:00 - NaverCafeCrawler_group1 - INFO - '가전상담' 36페이지: 15개
+2026-01-13 00:15:21 - NaverCafeCrawler_group1 - INFO - '가전상담' 37페이지: 15개
+2026-01-13 00:17:44 - NaverCafeCrawler_group1 - INFO - '가전상담' 38페이지: 15개
+2026-01-13 00:20:12 - NaverCafeCrawler_group1 - INFO - '가전상담' 39페이지: 15개
+2026-01-13 00:22:47 - NaverCafeCrawler_group1 - INFO - '가전상담' 40페이지: 15개
+2026-01-13 00:25:15 - NaverCafeCrawler_group1 - INFO - '가전상담' 41페이지: 15개
+2026-01-13 00:27:46 - NaverCafeCrawler_group1 - INFO - '가전상담' 42페이지: 15개
+2026-01-13 00:35:43 - NaverCafeCrawler_group1 - INFO - '가전상담' 43페이지: 15개
+2026-01-13 00:37:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8453944?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTM5NDQsImlzc3VlZEF0IjoxNzY4MjMyMTQzMDc5LCJjYWZlSWQiOjI1MjI4MDkxfQ.1hejqbQLUCotJDI_aI-nXRSyasjGi1gwUgpbMfzhkO8&page=43)
+2026-01-13 00:37:27 - NaverCafeCrawler_group1 - INFO - '가전상담' 44페이지: 15개
+2026-01-13 00:38:56 - NaverCafeCrawler_group1 - INFO - '가전상담' 45페이지: 15개
+2026-01-13 00:39:48 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8451133?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EA%B0%80%EC%A0%84%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTExMzMsImlzc3VlZEF0IjoxNzY4MjMyMzM1ODYwLCJjYWZlSWQiOjI1MjI4MDkxfQ.io4D6IVtGa4JnE0gV1LvdNMzZgI4P5pimss7jQUU2-s&page=45)
+2026-01-13 00:40:44 - NaverCafeCrawler_group1 - INFO - '가전상담' 46페이지: 15개
+2026-01-13 00:42:33 - NaverCafeCrawler_group1 - INFO - '가전상담' 47페이지: 13개
+2026-01-13 00:44:27 - NaverCafeCrawler_group1 - INFO - '가전상담' 48페이지 없음, 종료
+2026-01-13 00:44:27 - NaverCafeCrawler_group1 - INFO - '가전상담' 완료: 702개
+2026-01-13 00:44:27 - NaverCafeCrawler_group1 - INFO - '가전상담' 702개 데이터 저장 중...
+2026-01-13 00:44:36 - NaverCafeCrawler_group1 - INFO - '가전상담' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-13 00:44:36 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [22/24] 'lg상담후기' 시작
+2026-01-13 00:44:39 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 1페이지: 15개
+2026-01-13 00:46:36 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 2페이지: 15개
+2026-01-13 00:48:26 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 3페이지: 15개
+2026-01-13 00:50:35 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 4페이지: 15개
+2026-01-13 00:52:41 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 5페이지: 15개
+2026-01-13 00:54:56 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 6페이지: 15개
+2026-01-13 00:57:11 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 7페이지: 15개
+2026-01-13 00:59:20 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 8페이지: 15개
+2026-01-13 01:01:51 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-13 01:01:51 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #12 (경과: 61분)
+2026-01-13 01:01:51 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-13 01:01:51 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-13 01:01:53 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-13 01:01:54 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-13 01:01:54 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-13 01:01:56 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-13 01:01:56 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-13 01:01:56 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-13 01:02:30 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-13 01:02:40 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-13 01:02:40 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-13 01:02:40 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-13 01:02:42 - NaverCafeCrawler_group1 - INFO - 기존 URL 4434개 로드 완료
+2026-01-13 01:02:42 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 'lg상담후기' 계속
+2026-01-13 01:02:47 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 9페이지: 15개
+2026-01-13 01:04:39 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 10페이지: 15개
+2026-01-13 01:06:29 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 11페이지: 15개
+2026-01-13 01:08:05 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 12페이지: 15개
+2026-01-13 01:09:51 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 13페이지: 15개
+2026-01-13 01:11:37 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 14페이지: 15개
+2026-01-13 01:13:24 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 15페이지: 15개
+2026-01-13 01:15:04 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 16페이지: 15개
+2026-01-13 01:16:53 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8453944?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%83%81%EB%8B%B4%ED%9B%84%EA%B8%B0&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTM5NDQsImlzc3VlZEF0IjoxNzY4MjM0NTA0MDMzLCJjYWZlSWQiOjI1MjI4MDkxfQ.wbhGdKyhHLmvHUMpaK30Of3p1mvOcDO0Qits5jCNPN0&page=16)
+2026-01-13 01:17:17 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 17페이지: 15개
+2026-01-13 01:19:04 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 18페이지: 15개
+2026-01-13 01:20:58 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 19페이지: 2개
+2026-01-13 01:21:34 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 20페이지 없음, 종료
+2026-01-13 01:21:34 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 완료: 272개
+2026-01-13 01:21:34 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 272개 데이터 저장 중...
+2026-01-13 01:21:41 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-13 01:21:41 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [23/24] '엘지상담' 시작
+2026-01-13 01:21:45 - NaverCafeCrawler_group1 - INFO - '엘지상담' 1페이지: 15개
+2026-01-13 01:23:59 - NaverCafeCrawler_group1 - INFO - '엘지상담' 2페이지: 15개
+2026-01-13 01:26:17 - NaverCafeCrawler_group1 - INFO - '엘지상담' 3페이지: 15개
+2026-01-13 01:28:57 - NaverCafeCrawler_group1 - INFO - '엘지상담' 4페이지: 15개
+2026-01-13 01:31:13 - NaverCafeCrawler_group1 - INFO - '엘지상담' 5페이지: 15개
+2026-01-13 01:39:39 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467756?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%97%98%EC%A7%80%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc3NTYsImlzc3VlZEF0IjoxNzY4MjM1NDcyODQ2LCJjYWZlSWQiOjI1MjI4MDkxfQ.HZxLd-OSpN7Zf7i4_LWAIqZf8wkpKUnc8omIqFPaocU&page=5)
+2026-01-13 01:41:39 - NaverCafeCrawler_group1 - INFO - '엘지상담' 6페이지: 15개
+2026-01-13 01:43:06 - NaverCafeCrawler_group1 - INFO - '엘지상담' 7페이지: 15개
+2026-01-13 01:44:52 - NaverCafeCrawler_group1 - INFO - '엘지상담' 8페이지: 12개
+2026-01-13 01:46:21 - NaverCafeCrawler_group1 - INFO - '엘지상담' 9페이지 없음, 종료
+2026-01-13 01:46:21 - NaverCafeCrawler_group1 - INFO - '엘지상담' 완료: 117개
+2026-01-13 01:46:21 - NaverCafeCrawler_group1 - INFO - '엘지상담' 117개 데이터 저장 중...
+2026-01-13 01:46:27 - NaverCafeCrawler_group1 - INFO - '엘지상담' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-13 01:46:27 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [24/24] '삼성상담' 시작
+2026-01-13 01:46:30 - NaverCafeCrawler_group1 - INFO - '삼성상담' 1페이지: 15개
+2026-01-13 01:48:27 - NaverCafeCrawler_group1 - INFO - '삼성상담' 2페이지: 15개
+2026-01-13 01:50:38 - NaverCafeCrawler_group1 - INFO - '삼성상담' 3페이지: 15개
+2026-01-13 01:52:25 - NaverCafeCrawler_group1 - INFO - '삼성상담' 4페이지: 15개
+2026-01-13 01:54:11 - NaverCafeCrawler_group1 - INFO - '삼성상담' 5페이지: 15개
+2026-01-13 01:56:13 - NaverCafeCrawler_group1 - INFO - '삼성상담' 6페이지: 15개
+2026-01-13 01:58:35 - NaverCafeCrawler_group1 - INFO - '삼성상담' 7페이지: 15개
+2026-01-13 02:00:14 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470661?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA2NjEsImlzc3VlZEF0IjoxNzY4MjM3MTE1MzkwLCJjYWZlSWQiOjI1MjI4MDkxfQ.vrYxd-TEthDuqukqLyjMQe_qDDpAc52KXB7KKnsytN4&page=7)
+2026-01-13 02:01:04 - NaverCafeCrawler_group1 - INFO - '삼성상담' 8페이지: 15개
+2026-01-13 02:03:19 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-13 02:03:19 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #13 (경과: 60분)
+2026-01-13 02:03:19 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-13 02:03:20 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-13 02:03:22 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-13 02:03:22 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-13 02:03:22 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-13 02:03:24 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-13 02:03:24 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-13 02:03:24 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-13 02:03:29 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-13 02:03:39 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-13 02:03:39 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-13 02:03:39 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-13 02:03:40 - NaverCafeCrawler_group1 - INFO - 기존 URL 4823개 로드 완료
+2026-01-13 02:03:40 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 '삼성상담' 계속
+2026-01-13 02:03:44 - NaverCafeCrawler_group1 - INFO - '삼성상담' 9페이지: 15개
+2026-01-13 02:05:08 - NaverCafeCrawler_group1 - INFO - '삼성상담' 10페이지: 15개
+2026-01-13 02:06:35 - NaverCafeCrawler_group1 - INFO - '삼성상담' 11페이지: 15개
+2026-01-13 02:08:37 - NaverCafeCrawler_group1 - INFO - '삼성상담' 12페이지: 15개
+2026-01-13 02:10:45 - NaverCafeCrawler_group1 - INFO - '삼성상담' 13페이지: 15개
+2026-01-13 02:12:33 - NaverCafeCrawler_group1 - INFO - '삼성상담' 14페이지: 15개
+2026-01-13 02:14:22 - NaverCafeCrawler_group1 - INFO - '삼성상담' 15페이지: 15개
+2026-01-13 02:16:09 - NaverCafeCrawler_group1 - INFO - '삼성상담' 16페이지: 15개
+2026-01-13 02:18:30 - NaverCafeCrawler_group1 - INFO - '삼성상담' 17페이지: 15개
+2026-01-13 02:20:23 - NaverCafeCrawler_group1 - INFO - '삼성상담' 18페이지: 15개
+2026-01-13 02:22:29 - NaverCafeCrawler_group1 - INFO - '삼성상담' 19페이지: 15개
+2026-01-13 02:24:32 - NaverCafeCrawler_group1 - INFO - '삼성상담' 20페이지: 15개
+2026-01-13 02:26:13 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8453944?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=%EC%82%BC%EC%84%B1%EC%83%81%EB%8B%B4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTM5NDQsImlzc3VlZEF0IjoxNzY4MjM4NjcxNTgyLCJjYWZlSWQiOjI1MjI4MDkxfQ.uLuQtM_F7_FGPmQtbigPwfasM4ZG09h25nELTHaClpQ&page=20)
+2026-01-13 02:26:50 - NaverCafeCrawler_group1 - INFO - '삼성상담' 21페이지: 15개
+2026-01-13 02:29:25 - NaverCafeCrawler_group1 - INFO - '삼성상담' 22페이지: 13개
+2026-01-13 02:32:19 - NaverCafeCrawler_group1 - INFO - '삼성상담' 23페이지 없음, 종료
+2026-01-13 02:32:19 - NaverCafeCrawler_group1 - INFO - '삼성상담' 완료: 328개
+2026-01-13 02:32:19 - NaverCafeCrawler_group1 - INFO - '삼성상담' 328개 데이터 저장 중...
+2026-01-13 02:32:31 - NaverCafeCrawler_group1 - INFO - '삼성상담' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-13 02:32:32 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 완료
+2026-01-13 02:32:32 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-13 02:32:32 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-13 02:32:32 - NaverCafeCrawler_group1 - INFO - 크롤링 완료!
+2026-01-13 02:32:32 - NaverCafeCrawler_group1 - INFO - ================================================================================

@@ -1,0 +1,936 @@
+2026-01-11 11:08:55 - NaverCafeCrawler_group1 - INFO - [group1] 1개 카페 크롤링 시작
+2026-01-11 11:08:55 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 11:09:13 - NaverCafeCrawler_group1 - INFO - 브라우저 시작 완료 (이미지/폰트/CSS 차단)
+2026-01-11 11:09:13 - NaverCafeCrawler_group1 - INFO - 메모리 최적화 모드 활성화
+2026-01-11 11:09:13 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 11:09:13 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 11:09:13 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 11:09:13 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 11:09:21 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 11:09:32 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 11:09:32 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-11 11:09:32 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-11 11:09:37 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-11 11:09:41 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469845?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk4NDUsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.FLfLlk3KEPxQDyvLakEcobXIvV2IEzd-o15AS1ShcHs&page=1)
+2026-01-11 11:10:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469796?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk3OTYsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.4cKZ-O6OU-UsqA0nfMG06h77iNk37L3EV5mtIG-_vRM&page=1)
+2026-01-11 11:10:23 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469725?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk3MjUsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.vy8arViWGTOxB61-1zwwdKpS_ZdJd2IGtpa1nhKVKyw&page=1)
+2026-01-11 11:10:42 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469233?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjkyMzMsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.j8NZFNKCIvlKOqYKIuyruem63Lrf5CN0tnscEL5Hog8&page=1)
+2026-01-11 11:11:01 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468713?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg3MTMsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.w3rduUd099Zt9agzGq-B3REBqzLhFf-Pcy4tZ-4_MB0&page=1)
+2026-01-11 11:11:22 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468703?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg3MDMsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.oPn4V9Z3HuBEwQTxFzPDdSeF8N4KolN3sokBWQ2UjQY&page=1)
+2026-01-11 11:11:43 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468667?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg2NjcsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.ad-wkE8T7IQ_nxu0CSz20J6f9SpzU0LpvsfjWp5Fu68&page=1)
+2026-01-11 11:12:03 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468519?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg1MTksImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.udkDK1gl0S2vWeLKmaAc5Vqr-InQXViajrJ0suaV5m0&page=1)
+2026-01-11 11:12:23 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468292?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjgyOTIsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.Xxk-P8dzRGneFLoLY1UMOfsc4ersLIKG4-syQgycJVY&page=1)
+2026-01-11 11:12:42 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468265?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjgyNjUsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.e2E1vCMpklF5BKSnKnzDV9DHs6JMKreWlPs7gmnjeMA&page=1)
+2026-01-11 11:13:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468249?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjgyNDksImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.KYDu9hwwMUKlY5mOovUFw7yt-qE5YKMFw38a6hI5HQA&page=1)
+2026-01-11 11:13:22 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468196?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjgxOTYsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.3KHuwEnW-1-e7NFkUCrdlkRKE8tK9DxFzooSVexW3o8&page=1)
+2026-01-11 11:13:42 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467966?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc5NjYsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.NobLR8LiPp8sEhq-o-EZR7Yen2mN0V9yIx9nIiwpG6c&page=1)
+2026-01-11 11:14:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467879?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc4NzksImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.2I_omDn7ZHSkZebB_AZ7rW9pCIIm9nznfJVMSBWohI8&page=1)
+2026-01-11 11:14:22 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467816?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc4MTYsImlzc3VlZEF0IjoxNzY4MDk3Mzc3MDkyLCJjYWZlSWQiOjI1MjI4MDkxfQ.ukrT74cobsZyO3O8nYLa9cKgThd07hl9YOUfXZnW9rI&page=1)
+2026-01-11 11:14:43 - NaverCafeCrawler_group1 - INFO - 'lg계약' 2페이지: 15개
+2026-01-11 11:14:48 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467787?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc3ODcsImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.rnwyKHI78CtAY4g0a-BhfQEQFYzVIDbu9Y9j6H_Fbvw&page=2)
+2026-01-11 11:15:08 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467719?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc3MTksImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.22sP57OGBBaobghwJZv5Lde5z9bZJgVWzUW0Pw-sZ7E&page=2)
+2026-01-11 11:15:27 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467683?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc2ODMsImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.iOai8mtBQ8Ios0np9nwcG0hqi2OQxUzOxyHsCwmd0QA&page=2)
+2026-01-11 11:15:46 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467634?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc2MzQsImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.HxWKXc3G2p3oMP1rnCZbkPEof3ZuDCw5uF4tG2TSGNA&page=2)
+2026-01-11 11:16:06 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467629?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc2MjksImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.4ovQNSjXqWleZzLY0rnhTZKzyLUxYBLgFSYg_mbzO-g&page=2)
+2026-01-11 11:16:26 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467494?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc0OTQsImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.BiupEJe5OGMtIwL4xdJsH9z7NLl88vmIT0eVyKNyYIg&page=2)
+2026-01-11 11:16:45 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467485?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc0ODUsImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.AD52l32w4Aviias4A_lyVYVFvMf0xFy-BSmCeRlX2eU&page=2)
+2026-01-11 11:17:05 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467461?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc0NjEsImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.Z7ZD3uuNlL1VY61-Tw5ftL7rcX3vZ7U6Bae1Igz7-zU&page=2)
+2026-01-11 11:17:27 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467333?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjczMzMsImlzc3VlZEF0IjoxNzY4MDk3NjgzMzc4LCJjYWZlSWQiOjI1MjI4MDkxfQ.2RYkpetEbnL2zZKOZ1AqIXJk2sEJe-0nEvm43PJ4qE0&page=2)
+2026-01-11 11:18:47 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 11:18:51 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 11:18:51 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 11:18:51 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 11:18:51 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 11:18:51 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 11:19:00 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 11:19:10 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 11:19:10 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-11 11:19:10 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-11 11:19:16 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-11 11:20:55 - NaverCafeCrawler_group1 - INFO - 'lg계약' 2페이지: 15개
+2026-01-11 11:22:48 - NaverCafeCrawler_group1 - INFO - 'lg계약' 3페이지: 15개
+2026-01-11 11:25:01 - NaverCafeCrawler_group1 - INFO - 'lg계약' 4페이지: 15개
+2026-01-11 11:27:23 - NaverCafeCrawler_group1 - INFO - 'lg계약' 5페이지: 15개
+2026-01-11 11:50:09 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 11:50:13 - NaverCafeCrawler_group1 - INFO - 브라우저 시작 완료 (이미지/폰트/CSS 차단)
+2026-01-11 11:50:13 - NaverCafeCrawler_group1 - INFO - 메모리 최적화 모드 활성화
+2026-01-11 11:50:13 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 11:50:13 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 11:50:13 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 11:50:13 - NaverCafeCrawler_group1 - INFO - 기존 엑셀 파일 없음, 처음부터 시작
+2026-01-11 11:50:13 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 11:50:20 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 11:50:30 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 11:50:30 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 11:50:30 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-11 11:50:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-11 11:50:36 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-11 11:50:42 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469845?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk4NDUsImlzc3VlZEF0IjoxNzY4MDk5ODM1Mjk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.VRZbJV2uBqhodbd3KosYC_urEpqmAzEXg4Z0cis1jNk&page=1)
+2026-01-11 11:51:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469796?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk3OTYsImlzc3VlZEF0IjoxNzY4MDk5ODM1Mjk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.WDBdHVLtVxocUtRdjdk4cWCkrp6aznwvv-hm60C8R4w&page=1)
+2026-01-11 11:51:22 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469725?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk3MjUsImlzc3VlZEF0IjoxNzY4MDk5ODM1Mjk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.wBxMDMt8T7aXO0zxCMTdOJNNvPLDYI8hfFeOxxWyM3c&page=1)
+2026-01-11 15:24:05 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 15:24:10 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 15:24:10 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 15:24:10 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 15:24:10 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 15:24:10 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 15:24:18 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 15:24:28 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 15:24:28 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 15:24:28 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-11 15:24:28 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-11 15:24:31 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-11 15:26:28 - NaverCafeCrawler_group1 - INFO - 'lg계약' 2페이지: 15개
+2026-01-11 15:28:14 - NaverCafeCrawler_group1 - INFO - 'lg계약' 3페이지: 15개
+2026-01-11 15:30:14 - NaverCafeCrawler_group1 - INFO - 'lg계약' 4페이지: 15개
+2026-01-11 15:32:41 - NaverCafeCrawler_group1 - INFO - 'lg계약' 5페이지: 15개
+2026-01-11 15:35:28 - NaverCafeCrawler_group1 - INFO - 'lg계약' 6페이지: 15개
+2026-01-11 15:38:30 - NaverCafeCrawler_group1 - INFO - 'lg계약' 7페이지: 15개
+2026-01-11 15:41:47 - NaverCafeCrawler_group1 - INFO - 'lg계약' 8페이지: 15개
+2026-01-11 15:45:42 - NaverCafeCrawler_group1 - INFO - 'lg계약' 9페이지: 15개
+2026-01-11 15:49:16 - NaverCafeCrawler_group1 - INFO - 'lg계약' 10페이지: 15개
+2026-01-11 15:53:06 - NaverCafeCrawler_group1 - INFO - 'lg계약' 11페이지: 8개
+2026-01-11 15:54:03 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8439672?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Mzk2NzIsImlzc3VlZEF0IjoxNzY4MTE0Mzg1NjgyLCJjYWZlSWQiOjI1MjI4MDkxfQ.S0OK-oK_7u5rfOOOgc4_3woxtbRt9-zhJz5XnmcQkVk&page=11)
+2026-01-11 15:55:06 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8439459?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Mzk0NTksImlzc3VlZEF0IjoxNzY4MTE0Mzg1NjgyLCJjYWZlSWQiOjI1MjI4MDkxfQ.01l2Qfis6VX0FYoQujWvhWP3qdW16EBwINctvVWUBYo&page=11)
+2026-01-11 15:56:02 - NaverCafeCrawler_group1 - INFO - 'lg계약' 12페이지 없음, 종료
+2026-01-11 15:56:02 - NaverCafeCrawler_group1 - INFO - 'lg계약' 완료: 158개
+2026-01-11 15:56:02 - NaverCafeCrawler_group1 - INFO - 'lg계약' 158개 데이터 저장 중...
+2026-01-11 15:56:03 - NaverCafeCrawler_group1 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group1_2025-12-30~05.xlsx
+2026-01-11 15:56:03 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [2/24] 'lg구매' 시작
+2026-01-11 15:56:15 - NaverCafeCrawler_group1 - INFO - 'lg구매' 1페이지: 15개
+2026-01-11 15:56:40 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470734?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3MzQsImlzc3VlZEF0IjoxNzY4MTE0NTczMzMwLCJjYWZlSWQiOjI1MjI4MDkxfQ.1Vek4QkBLSMsVSDJ2FmJEuB9BPcdTt1DvJoOsw2fJNA&page=1)
+2026-01-11 15:58:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470725?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3MjUsImlzc3VlZEF0IjoxNzY4MTE0NTczMzMwLCJjYWZlSWQiOjI1MjI4MDkxfQ.uNFl-FnA81Jnc8iZYhjaznAwg3Qji4IVwWnRQnV-2AY&page=1)
+2026-01-11 16:01:01 - NaverCafeCrawler_group1 - INFO - 'lg구매' 2페이지: 15개
+2026-01-11 16:05:33 - NaverCafeCrawler_group1 - INFO - 'lg구매' 3페이지: 15개
+2026-01-11 16:05:44 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470380?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAzODAsImlzc3VlZEF0IjoxNzY4MTE1MTIzMTk2LCJjYWZlSWQiOjI1MjI4MDkxfQ.Q4aQeF5RjukSPvYDsI1BA93B2csY887vBSYOtmm3Was&page=3)
+2026-01-11 16:07:58 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470235?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAyMzUsImlzc3VlZEF0IjoxNzY4MTE1MTIzMTk2LCJjYWZlSWQiOjI1MjI4MDkxfQ._bjEab-_HiAw8ke9ZoTfomEt_-PQR9jaRBSx4W5BwTI&page=3)
+2026-01-11 16:10:17 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470028?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAwMjgsImlzc3VlZEF0IjoxNzY4MTE1MTIzMTk2LCJjYWZlSWQiOjI1MjI4MDkxfQ.UqR1XWIcZEbObpyKCx8wb4gfIwjAn7-atSvCHfmMqZI&page=3)
+2026-01-11 16:12:20 - NaverCafeCrawler_group1 - INFO - 'lg구매' 4페이지: 15개
+2026-01-11 16:12:56 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470000?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAwMDAsImlzc3VlZEF0IjoxNzY4MTE1NTM4NzAwLCJjYWZlSWQiOjI1MjI4MDkxfQ.ZxiFU7Z-sJfe4EMDgc0BMTitnlbGsB3sM1-_1sSyEc8&page=4)
+2026-01-11 16:15:06 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469938?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk5MzgsImlzc3VlZEF0IjoxNzY4MTE1NTM4NzAwLCJjYWZlSWQiOjI1MjI4MDkxfQ.To8HZiYG0eAIZ8AI-iL1Wd_xmFqsZZFxnSsruC8hliQ&page=4)
+2026-01-11 16:15:38 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469893?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk4OTMsImlzc3VlZEF0IjoxNzY4MTE1NTM4NzAwLCJjYWZlSWQiOjI1MjI4MDkxfQ.KZdQicsMW6YPqLryGdide-CB14oicjNg0iH6B4y2WBU&page=4)
+2026-01-11 16:19:04 - NaverCafeCrawler_group1 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469788?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk3ODgsImlzc3VlZEF0IjoxNzY4MTE1NTM4NzAwLCJjYWZlSWQiOjI1MjI4MDkxfQ.c6NXHs-CXp11sndj8ps3LbRD8i3ECOIn-2x0ByMUvsg&page=4): Timeout 30000ms exceeded.
+2026-01-11 16:19:04 - NaverCafeCrawler_group1 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 716, in collect_post_details
+    title = self._normalize_text(title_elem.inner_text()) if title_elem.count() > 0 else ""
+                                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17400, in inner_text
+    self._sync(self._impl_obj.inner_text(timeout=timeout))
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 442, in inner_text
+    return await self._frame.inner_text(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 624, in inner_text
+    return await self._channel.send("innerText", locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.TimeoutError: Timeout 30000ms exceeded.
+
+2026-01-11 16:19:11 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469760?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk3NjAsImlzc3VlZEF0IjoxNzY4MTE1NTM4NzAwLCJjYWZlSWQiOjI1MjI4MDkxfQ.t_rKzF5j4tcmOSmXHClIWbezgqdUmDozJvg9yi-A5PI&page=4)
+2026-01-11 16:20:06 - NaverCafeCrawler_group1 - INFO - 'lg구매' 5페이지: 15개
+2026-01-11 16:22:02 - NaverCafeCrawler_group1 - INFO - 'lg구매' 6페이지: 15개
+2026-01-11 16:24:10 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 16:24:10 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #1 (경과: 60분)
+2026-01-11 16:24:10 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 16:24:11 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 16:24:13 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 16:24:18 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 16:24:18 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-11 16:24:21 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-11 16:24:21 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-11 16:24:21 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 16:24:57 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 16:25:07 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 16:25:07 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 16:25:07 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 16:25:07 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 'lg구매' 계속
+2026-01-11 16:25:14 - NaverCafeCrawler_group1 - INFO - 'lg구매' 7페이지: 15개
+2026-01-11 16:25:19 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467901?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc5MDEsImlzc3VlZEF0IjoxNzY4MTE2MzEyODkzLCJjYWZlSWQiOjI1MjI4MDkxfQ.uCCI1W6eTDtilwbHVuDKRm7Rwu39zdS_JcILe_TQT-8&page=7)
+2026-01-11 16:27:29 - NaverCafeCrawler_group1 - INFO - 'lg구매' 8페이지: 15개
+2026-01-11 16:29:26 - NaverCafeCrawler_group1 - INFO - 'lg구매' 9페이지: 15개
+2026-01-11 16:31:45 - NaverCafeCrawler_group1 - INFO - 'lg구매' 10페이지: 15개
+2026-01-11 16:34:27 - NaverCafeCrawler_group1 - INFO - 'lg구매' 11페이지: 15개
+2026-01-11 16:37:33 - NaverCafeCrawler_group1 - INFO - 'lg구매' 12페이지: 15개
+2026-01-11 16:41:01 - NaverCafeCrawler_group1 - INFO - 'lg구매' 13페이지: 15개
+2026-01-11 16:44:32 - NaverCafeCrawler_group1 - INFO - 'lg구매' 14페이지: 15개
+2026-01-11 16:47:51 - NaverCafeCrawler_group1 - INFO - 'lg구매' 15페이지: 15개
+2026-01-11 16:51:42 - NaverCafeCrawler_group1 - INFO - 'lg구매' 16페이지: 15개
+2026-01-11 16:53:52 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8461839?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjE4MzksImlzc3VlZEF0IjoxNzY4MTE3OTAxODI2LCJjYWZlSWQiOjI1MjI4MDkxfQ.bcLmHIoti_nlaHkx5oJ0Ekof16IPxMrIPFB5fvVuVjM&page=16)
+2026-01-11 16:54:18 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8461374?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjEzNzQsImlzc3VlZEF0IjoxNzY4MTE3OTAxODI2LCJjYWZlSWQiOjI1MjI4MDkxfQ.TZgUNcQoungAsIe5LLaGWBvBzpCLWCQfshjWiDX5nFU&page=16)
+2026-01-11 16:55:54 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8460693?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjA2OTMsImlzc3VlZEF0IjoxNzY4MTE3OTAxODI2LCJjYWZlSWQiOjI1MjI4MDkxfQ.hKGQTJvaVZZI90RHW1M5CzXbqerOAaDWTBMx1k199uY&page=16)
+2026-01-11 16:56:40 - NaverCafeCrawler_group1 - INFO - 'lg구매' 17페이지: 15개
+2026-01-11 16:56:48 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8460711?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjA3MTEsImlzc3VlZEF0IjoxNzY4MTE4MTk4NTUyLCJjYWZlSWQiOjI1MjI4MDkxfQ.-t10ZdqOz_KE0-655rpTCIC0llWgukpYlpCl6WO9Knw&page=17)
+2026-01-11 16:57:17 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8460693?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjA2OTMsImlzc3VlZEF0IjoxNzY4MTE4MTk4NTUyLCJjYWZlSWQiOjI1MjI4MDkxfQ.2HyHdBhc1iC6X5BV_5MYHweKKdtdKXykTWENCsp42L0&page=17)
+2026-01-11 17:01:21 - NaverCafeCrawler_group1 - INFO - 'lg구매' 18페이지: 15개
+2026-01-11 17:03:43 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8456434?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTY0MzQsImlzc3VlZEF0IjoxNzY4MTE4NDgwNDA3LCJjYWZlSWQiOjI1MjI4MDkxfQ.aJEgkdIx7ZToQkHaSzKXVqSONcw1ddbiHOs5pgVR1x8&page=18)
+2026-01-11 17:04:16 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8456397?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTYzOTcsImlzc3VlZEF0IjoxNzY4MTE4NDgwNDA3LCJjYWZlSWQiOjI1MjI4MDkxfQ.BFd8sZuR2GH9s39JtsKkl4IcoMXe9DVZ_hLN-wRLn8k&page=18)
+2026-01-11 17:04:45 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8456352?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTYzNTIsImlzc3VlZEF0IjoxNzY4MTE4NDgwNDA3LCJjYWZlSWQiOjI1MjI4MDkxfQ.EKJYpytCitqOL7SmSWD3w_086haURTYvqdOPBjonSxc&page=18)
+2026-01-11 17:07:40 - NaverCafeCrawler_group1 - INFO - 'lg구매' 19페이지: 15개
+2026-01-11 17:08:20 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8455803?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTU4MDMsImlzc3VlZEF0IjoxNzY4MTE4ODU3Mjc0LCJjYWZlSWQiOjI1MjI4MDkxfQ.o0Rk-F9OxyjO3mgRnHveOLYJqKZ2G1UqLWvAkcFp5K8&page=19)
+2026-01-11 17:09:17 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8455639?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTU2MzksImlzc3VlZEF0IjoxNzY4MTE4ODU3Mjc0LCJjYWZlSWQiOjI1MjI4MDkxfQ.P_LDd28WRaZj0POWjjDmUsKBKbqAhSI-qLh8QktHGNY&page=19)
+2026-01-11 17:10:24 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8455459?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTU0NTksImlzc3VlZEF0IjoxNzY4MTE4ODU3Mjc0LCJjYWZlSWQiOjI1MjI4MDkxfQ.ogZK74OG4Q37Xg15BzQFPaWlOuPzKf4AcOrtTIxNFJ8&page=19)
+2026-01-11 17:11:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8455393?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTUzOTMsImlzc3VlZEF0IjoxNzY4MTE4ODU3Mjc0LCJjYWZlSWQiOjI1MjI4MDkxfQ.du-kF38CqZE_FxI-HYVaVR57LoO1J9AgulMYnNvr4iU&page=19)
+2026-01-11 17:13:34 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8454335?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTQzMzUsImlzc3VlZEF0IjoxNzY4MTE4ODU3Mjc1LCJjYWZlSWQiOjI1MjI4MDkxfQ.jZqTZsOA-nVt8vOVrHgQgfOL_ynBtyHO-YOj2ky-ubE&page=19)
+2026-01-11 17:14:40 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8453941?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTM5NDEsImlzc3VlZEF0IjoxNzY4MTE4ODU3Mjc1LCJjYWZlSWQiOjI1MjI4MDkxfQ.SPUCB6GojrtTTOhzbM6h28vcyNt0LsIZcrOpdI-cat4&page=19)
+2026-01-11 17:15:24 - NaverCafeCrawler_group1 - INFO - 'lg구매' 20페이지: 15개
+2026-01-11 17:16:46 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8453260?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTMyNjAsImlzc3VlZEF0IjoxNzY4MTE5MzEwNzk0LCJjYWZlSWQiOjI1MjI4MDkxfQ.v_jUBNP419UIgGZwg9XZpK6ywGm80sQDbeR6ESf6ims&page=20)
+2026-01-11 17:17:34 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8452419?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTI0MTksImlzc3VlZEF0IjoxNzY4MTE5MzEwNzk0LCJjYWZlSWQiOjI1MjI4MDkxfQ.7ZRCxXxvVl4nBOaTO8dL76rfenYiyGWklVe4gKVi1H0&page=20)
+2026-01-11 17:45:01 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 17:45:01 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #2 (경과: 79분)
+2026-01-11 17:45:01 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 17:45:01 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 17:45:03 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 17:45:07 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 17:45:07 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-11 17:45:13 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-11 17:45:13 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-11 17:45:13 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 17:45:20 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 17:45:30 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 17:45:30 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 17:45:30 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 17:45:30 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 'lg구매' 계속
+2026-01-11 17:45:35 - NaverCafeCrawler_group1 - INFO - 'lg구매' 21페이지: 15개
+2026-01-11 17:45:39 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8452161?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTIxNjEsImlzc3VlZEF0IjoxNzY4MTIxMTM0NDQwLCJjYWZlSWQiOjI1MjI4MDkxfQ.xc716QAH5mXhNrBOMqc59Ob2HsY9s3_Id9xXBaAKlUE&page=21)
+2026-01-11 17:47:36 - NaverCafeCrawler_group1 - INFO - 'lg구매' 22페이지: 15개
+2026-01-11 17:49:41 - NaverCafeCrawler_group1 - INFO - 'lg구매' 23페이지: 15개
+2026-01-11 17:52:13 - NaverCafeCrawler_group1 - INFO - 'lg구매' 24페이지: 15개
+2026-01-11 17:55:05 - NaverCafeCrawler_group1 - INFO - 'lg구매' 25페이지: 15개
+2026-01-11 17:58:30 - NaverCafeCrawler_group1 - INFO - 'lg구매' 26페이지: 15개
+2026-01-11 18:02:06 - NaverCafeCrawler_group1 - INFO - 'lg구매' 27페이지: 15개
+2026-01-11 18:05:49 - NaverCafeCrawler_group1 - INFO - 'lg구매' 28페이지: 15개
+2026-01-11 18:09:41 - NaverCafeCrawler_group1 - INFO - 'lg구매' 29페이지: 15개
+2026-01-11 18:13:43 - NaverCafeCrawler_group1 - INFO - 'lg구매' 30페이지: 15개
+2026-01-11 18:14:57 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8439758?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Mzk3NTgsImlzc3VlZEF0IjoxNzY4MTIyODIyNjU0LCJjYWZlSWQiOjI1MjI4MDkxfQ.awx7RUYAfRXAb8kIxNHelsVxH55QWcS5dX2M7A5jGYk&page=30)
+2026-01-11 18:18:18 - NaverCafeCrawler_group1 - INFO - 'lg구매' 31페이지: 3개
+2026-01-11 18:18:29 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8439324?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0MzkzMjQsImlzc3VlZEF0IjoxNzY4MTIzMDk3NzgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.kIMjy_c0C5xV0d5RIeWlVwGSMmQyG6dY1eSrzN0deiw&page=31)
+2026-01-11 18:19:49 - NaverCafeCrawler_group1 - INFO - 'lg구매' 32페이지 없음, 종료
+2026-01-11 18:19:49 - NaverCafeCrawler_group1 - INFO - 'lg구매' 완료: 452개
+2026-01-11 18:19:49 - NaverCafeCrawler_group1 - INFO - 'lg구매' 452개 데이터 저장 중...
+2026-01-11 18:19:55 - NaverCafeCrawler_group1 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group1_2025-12-30~05.xlsx
+2026-01-11 18:19:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [3/24] 'lg졸업' 시작
+2026-01-11 18:20:09 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 1페이지: 15개
+2026-01-11 18:25:04 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 2페이지: 15개
+2026-01-11 18:25:17 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470999?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5OTksImlzc3VlZEF0IjoxNzY4MTIzNTAzNDg0LCJjYWZlSWQiOjI1MjI4MDkxfQ.nTeZP4YJYMSH-Be9lxAgOAqNZE5V29SYaIMYc6TaVpM&page=2)
+2026-01-11 18:27:42 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470733?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3MzMsImlzc3VlZEF0IjoxNzY4MTIzNTAzNDg0LCJjYWZlSWQiOjI1MjI4MDkxfQ.Gvw-bIb7-ex0KfKpLnqixrAUP4_A1UQDymzR5K8-0pM&page=2)
+2026-01-11 18:30:40 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470542?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA1NDIsImlzc3VlZEF0IjoxNzY4MTIzNTAzNDg0LCJjYWZlSWQiOjI1MjI4MDkxfQ.BdWM99lLffK5lsq1ZAyvzc00-Zm2b3nK4lv9bXWQ5RU&page=2)
+2026-01-11 18:31:23 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 3페이지: 15개
+2026-01-11 18:32:46 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470499?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA0OTksImlzc3VlZEF0IjoxNzY4MTIzODczMjY0LCJjYWZlSWQiOjI1MjI4MDkxfQ.a4pbkl4pd83miK39ImV3w2mCvWtYyXMT8p0l7353ftc&page=3)
+2026-01-11 18:33:46 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470468?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA0NjgsImlzc3VlZEF0IjoxNzY4MTIzODczMjY0LCJjYWZlSWQiOjI1MjI4MDkxfQ.r-WicHWtGDY9m7wTql5r7NprYjKP_H9btUGWJNMYCcs&page=3)
+2026-01-11 18:35:24 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470364?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAzNjQsImlzc3VlZEF0IjoxNzY4MTIzODczMjY0LCJjYWZlSWQiOjI1MjI4MDkxfQ.vTU1l66Kt-wwVitxX5S2mlDakru654nsNPbSFs96Mzc&page=3)
+2026-01-11 18:37:00 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470321?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAzMjEsImlzc3VlZEF0IjoxNzY4MTIzODczMjY0LCJjYWZlSWQiOjI1MjI4MDkxfQ.vCefW2RkJ7eorfDE6dRKgM35pt3ngQXESZSJ7ZibB5A&page=3)
+2026-01-11 18:40:01 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 4페이지: 15개
+2026-01-11 20:52:46 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470204?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAyMDQsImlzc3VlZEF0IjoxNzY4MTI0Mzg0ODc0LCJjYWZlSWQiOjI1MjI4MDkxfQ.v1cH8h1NYeeqqBvNLWKe5WtIA_ZFcvPumNP4aJ7Zs6w&page=4)
+2026-01-11 20:54:21 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 20:54:21 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #3 (경과: 188분)
+2026-01-11 20:54:21 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 20:54:22 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 20:54:24 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 20:54:27 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 20:54:27 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-11 20:54:30 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-11 20:54:30 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-11 20:54:30 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 20:55:06 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 20:55:16 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 20:55:16 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 20:55:16 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 20:55:16 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 'lg졸업' 계속
+2026-01-11 20:55:21 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 5페이지: 15개
+2026-01-11 20:56:51 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 6페이지: 15개
+2026-01-11 20:58:23 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 7페이지: 15개
+2026-01-11 21:00:29 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 8페이지: 15개
+2026-01-11 21:02:54 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 9페이지: 15개
+2026-01-11 21:05:31 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 10페이지: 15개
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8465432?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjU0MzIsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.4yReTOcaQtR3eLa5a08626myEH7xvxgESPj0ma42_oA&page=10)
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8465432?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjU0MzIsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.4yReTOcaQtR3eLa5a08626myEH7xvxgESPj0ma42_oA&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 716, in collect_post_details
+    title = self._normalize_text(title_elem.inner_text()) if title_elem.count() > 0 else ""
+                                                             ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17171, in count
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.count()))
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 390, in count
+    return await self._frame._query_count(self._selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 132, in _query_count
+    return await self._channel.send("queryCount", {"selector": selector})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464930?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ5MzAsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.G4tJNBbseIOKIRa-g3pzxFChdlNbYE3dFbJF0n9BQB4&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464930?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ5MzAsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.G4tJNBbseIOKIRa-g3pzxFChdlNbYE3dFbJF0n9BQB4&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464927?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ5MjcsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.5B4fXjqOcNj9ZiRi9-PL5DeqL-BWp9eEC1kE1o8s4CQ&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464927?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ5MjcsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.5B4fXjqOcNj9ZiRi9-PL5DeqL-BWp9eEC1kE1o8s4CQ&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464923?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ5MjMsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.KGXDxPMmjXsEwJ4uHqQHymG3diEwKLK0qu9icXz-x38&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464923?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ5MjMsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.KGXDxPMmjXsEwJ4uHqQHymG3diEwKLK0qu9icXz-x38&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464873?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ4NzMsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.6mKMO7dPO2rwq_n5ieGw_QsSHxr86GqgJhiB_hmMSCs&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464873?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ4NzMsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.6mKMO7dPO2rwq_n5ieGw_QsSHxr86GqgJhiB_hmMSCs&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464752?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ3NTIsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.X7U7y2kCugAf_x9_yCVErBMlL_WkxocL4aSOa3Pv9Y4&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464752?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ3NTIsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.X7U7y2kCugAf_x9_yCVErBMlL_WkxocL4aSOa3Pv9Y4&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464621?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ2MjEsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.--VXVl9n1PnxKYELpxy_wDgV42kBmlh5Y3phun31a84&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464621?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ2MjEsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.--VXVl9n1PnxKYELpxy_wDgV42kBmlh5Y3phun31a84&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464574?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ1NzQsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.oGFhopghcs8OIT8q5nd4h3ETIq9d_aNUqzIsHI73pMc&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464574?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ1NzQsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.oGFhopghcs8OIT8q5nd4h3ETIq9d_aNUqzIsHI73pMc&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464474?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ0NzQsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.EAoK6FIdsRWq2lkFSxGiVIUBLV49ZA0cbzVaAdT5J5w&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464474?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ0NzQsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.EAoK6FIdsRWq2lkFSxGiVIUBLV49ZA0cbzVaAdT5J5w&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464408?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ0MDgsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.uLHU8FtlFcuZ0muT6Tl_wqcYz9LLqnGI2h-3jKDHQj8&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464408?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ0MDgsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.uLHU8FtlFcuZ0muT6Tl_wqcYz9LLqnGI2h-3jKDHQj8&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464091?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQwOTEsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.VNH66TKpWhfp2W4BwSKwa4r89uS1L77E7Vv_gxfenOU&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:20 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464091?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EC%A1%B8%EC%97%85&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQwOTEsImlzc3VlZEF0IjoxNzY4MTMzMTMxMzA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.VNH66TKpWhfp2W4BwSKwa4r89uS1L77E7Vv_gxfenOU&page=10): Target page, context or browser has been closed
+2026-01-11 21:06:23 - NaverCafeCrawler_group1 - WARNING - 'lg졸업' 11페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:23 - NaverCafeCrawler_group1 - ERROR - 'lg졸업' 11페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:23 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 완료: 139개
+2026-01-11 21:06:23 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 139개 데이터 저장 중...
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 저장 완료: results\가전모니터링_group1_2025-12-30~05.xlsx
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [4/24] '삼성계약' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '삼성계약' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '삼성계약' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '삼성계약' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '삼성계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [5/24] '삼성구매' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '삼성구매' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '삼성구매' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '삼성구매' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '삼성구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [6/24] '삼성졸업' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '삼성졸업' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '삼성졸업' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [7/24] '엘지계약' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '엘지계약' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '엘지계약' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '엘지계약' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '엘지계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [8/24] '엘지구매' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '엘지구매' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '엘지구매' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '엘지구매' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '엘지구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [9/24] '엘지졸업' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '엘지졸업' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '엘지졸업' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [10/24] '베스트샵' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '베스트샵' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '베스트샵' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '베스트샵' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '베스트샵' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [11/24] '삼성스토어' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '삼성스토어' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '삼성스토어' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [12/24] '가전졸업' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '가전졸업' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '가전졸업' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '가전졸업' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '가전졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [13/24] 'lg렌탈' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - 'lg렌탈' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - 'lg렌탈' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [14/24] '가전렌탈' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '가전렌탈' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - ERROR - '가전렌탈' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 완료: 0개
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [15/24] '엘지교원' 시작
+2026-01-11 21:06:30 - NaverCafeCrawler_group1 - WARNING - '엘지교원' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - '엘지교원' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '엘지교원' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [16/24] '베스트라이프' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - '베스트라이프' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - '베스트라이프' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [17/24] '가전구매' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - '가전구매' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - '가전구매' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '가전구매' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '가전구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [18/24] 'lg vs 삼성' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - 'lg vs 삼성' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - 'lg vs 삼성' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [19/24] 'lg구독' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - 'lg구독' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - 'lg구독' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - 'lg구독' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - 'lg구독' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [20/24] '가전구독' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - '가전구독' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - '가전구독' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '가전구독' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '가전구독' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [21/24] '가전상담' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - '가전상담' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - '가전상담' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '가전상담' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '가전상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [22/24] 'lg상담후기' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - 'lg상담후기' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - 'lg상담후기' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [23/24] '엘지상담' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - '엘지상담' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - '엘지상담' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '엘지상담' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '엘지상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [24/24] '삼성상담' 시작
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - WARNING - '삼성상담' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - ERROR - '삼성상담' 1페이지 오류: Target page, context or browser has been closed
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '삼성상담' 완료: 0개
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - '삼성상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-11 21:06:31 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 완료
+2026-01-11 21:06:34 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 21:06:34 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 21:06:34 - NaverCafeCrawler_group1 - INFO - 크롤링 완료!
+2026-01-11 21:06:34 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 21:13:39 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 21:13:44 - NaverCafeCrawler_group1 - INFO - 브라우저 시작 완료 (이미지 차단, CSS/폰트 로딩)
+2026-01-11 21:13:44 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 21:13:44 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 21:13:44 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 21:13:44 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 21:13:52 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 21:14:02 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 21:14:03 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 21:14:03 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-11 21:14:03 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-11 21:14:08 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-11 21:14:12 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8472084?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzIwODQsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.uWGJ2_us8hVsyQaoOT2Acb5ZFVVYcPZlOuJTC3O_EuQ&page=1)
+2026-01-11 21:14:32 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471775?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE3NzUsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.eetQq2edWwKf8ijKXYifNSgVl0G_8kEHrs_NaLVKUMY&page=1)
+2026-01-11 21:14:52 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471648?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE2NDgsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.1pH0yDnJHnxDCY6ZyiqmvtN1imuvMOkQXYkpZOLNFaE&page=1)
+2026-01-11 21:15:12 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471551?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE1NTEsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.mUslHvBQ5GUDKof7gDKURO2tdUaXqHNHYTCdSNzUtwo&page=1)
+2026-01-11 21:15:31 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471504?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE1MDQsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.kLzEUIDjqzvAOTthnmNwbdoiwB9revUyiOxhwP0-tjE&page=1)
+2026-01-11 21:15:51 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471454?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE0NTQsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.PkMW8NleKowzESzrS-cXtZnYkd6GvNJ-nZeCCGB_PTU&page=1)
+2026-01-11 21:16:12 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471397?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEzOTcsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.lpxS52qhHczSQ7-hiIEqAt_30uLa_x7UOKu8ZcEyiJU&page=1)
+2026-01-11 21:16:32 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471359?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEzNTksImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.38pX4E2F7xVUE0vIyf7Kji1kG1ilSol3ewoyjN_uEUI&page=1)
+2026-01-11 21:16:52 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471351?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEzNTEsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.QpVsH2TIQ1fAYGE9gWNucfDIUdIwqYKBNbRKtkl5tyQ&page=1)
+2026-01-11 21:17:12 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471222?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEyMjIsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.bv_qjJ22Fp2OAsIB45bBW2135igFRljDQ_t7gKiwe0o&page=1)
+2026-01-11 21:17:32 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471197?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzExOTcsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.a0gHnvlpQj_KvW3mshMb7TLHmtoiziwkEUBKLhlFs-c&page=1)
+2026-01-11 21:17:52 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471170?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzExNzAsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.GzA3zEq7DNwJ25IXFghjB3t0g_zLuDBuqzjJ1MpEkXM&page=1)
+2026-01-11 21:18:12 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471133?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzExMzMsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.XjnKWPf-yFCR-Mua22NruPdHeaAptc8T0u7qVZxfmtE&page=1)
+2026-01-11 21:18:32 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471132?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzExMzIsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.ZIuXQHojeXCzmaWLdl2_K6JO6f28YiBevuSwrRxUWlM&page=1)
+2026-01-11 21:18:52 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471115?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzExMTUsImlzc3VlZEF0IjoxNzY4MTMzNjQ3MTYxLCJjYWZlSWQiOjI1MjI4MDkxfQ.KN9luONbQzpWXHXUP7NvN2NA6ESxAP8RvUK4msdSgGk&page=1)
+2026-01-11 21:19:14 - NaverCafeCrawler_group1 - INFO - 'lg계약' 2페이지: 15개
+2026-01-11 21:19:17 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471060?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEwNjAsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.zcN-4g7_k-7ydPR1U--X8VJRbFffqOKfnMi1ZN66RbQ&page=2)
+2026-01-11 21:19:38 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471024?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEwMjQsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.xdifSE_p0-GYBC8_gx5zfDfui6O0MenqvrdkijuYOHw&page=2)
+2026-01-11 21:19:58 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470999?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5OTksImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.u61HzSNN4K7FQTgy_zecCbVeuFiTkJejDBaiTJs80Xc&page=2)
+2026-01-11 21:20:18 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470938?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MzgsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.wjcPYdFVzsoJglJL59eF205y4alVWlrxSXj_sUSlREY&page=2)
+2026-01-11 21:20:38 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470789?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3ODksImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.l6Kgr7qw4i_GL8fzwb5CVerg7oha67sWVEBogrLkpe8&page=2)
+2026-01-11 21:20:59 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470770?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3NzAsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.KB6Anc4BgVP0WgqI08HfaCcHT1rX3BxtDL6OgnCnPg8&page=2)
+2026-01-11 21:21:18 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470709?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3MDksImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.E96x7Yx536a9Kt50sOmLstZSCjjlpqncs-tB-yhM4_0&page=2)
+2026-01-11 21:21:40 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470615?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA2MTUsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.fxRWb3mY0UR_B6t3TC2k40ghaWgVbTRl4RfXrlf9miQ&page=2)
+2026-01-11 21:21:59 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470506?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA1MDYsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.E3rw_TTQJW19PplBpJ6G5RXAif28XIXkyDWFwx864AI&page=2)
+2026-01-11 21:22:20 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470503?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA1MDMsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.CPTSZXQns6fgwDZ3v951Z4l8HMCQAvqesEFsmEN-2K0&page=2)
+2026-01-11 21:22:40 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470498?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA0OTgsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.FXQa1l1lQQk_K09kMigLgoUVtqzbyKaXxoLukaYdjK8&page=2)
+2026-01-11 21:23:01 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470491?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA0OTEsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.kxvnGbuqOoLt4VdFCmJ9lZ_H6fxmaGF_lpRVa--YZh0&page=2)
+2026-01-11 21:23:20 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470391?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAzOTEsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.B2gPY90FWWAT_-OQtcS0V7GbWLMFf9HUbe9MeFWCFx8&page=2)
+2026-01-11 21:23:42 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470235?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAyMzUsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.Y__uCxOzDzbUrtHLxFA_I9gSqKO_46XbJ79F2xxzGtc&page=2)
+2026-01-11 21:24:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470231?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAyMzEsImlzc3VlZEF0IjoxNzY4MTMzOTUzNDIxLCJjYWZlSWQiOjI1MjI4MDkxfQ.SVUXEaN9a6JSYxAPUCMw_gXxuhR-h8vFfkYThEq7iCo&page=2)
+2026-01-11 21:24:25 - NaverCafeCrawler_group1 - INFO - 'lg계약' 3페이지: 15개
+2026-01-11 21:24:29 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470230?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAyMzAsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.I2tBxJgPzTrk8ZGrTdNFaIgl4_rcu_pmLrbdUzZk4tY&page=3)
+2026-01-11 21:24:50 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470204?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAyMDQsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.wXsGTEZ27VJRt4XjgETofibiKm35czgMB67ZlHXatrQ&page=3)
+2026-01-11 21:25:12 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470058?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAwNTgsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.fJXguFBK6KEFqU92Mj8DFikQVaQI2a5LIql30v5WIPA&page=3)
+2026-01-11 21:25:33 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470007?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAwMDcsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.KpjXVzf0XsedL3Ot3LeodOflZSJW-hQHIRwYxh1cxDc&page=3)
+2026-01-11 21:25:53 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469845?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk4NDUsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.Hsa_H67Qj-r_JumpAlANaRpOlKFYPJpem1Bdi9q_KNA&page=3)
+2026-01-11 21:26:13 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469796?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk3OTYsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.O2wFoppVEoigWuQ8i_ydGc64vObQSEyCxsC9I_RpoSQ&page=3)
+2026-01-11 21:26:33 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469725?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njk3MjUsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.v-ofnwTb2HPASLSwR35wUfx8tPFzMD_PzSCLeRb0nxs&page=3)
+2026-01-11 21:26:53 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8469233?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjkyMzMsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.mlya0z81GYkFDsi00S0q_IeUI9rznSZaLa9-xi7tzRk&page=3)
+2026-01-11 21:27:14 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468713?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg3MTMsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.bNvpbgLfSJLgrwsQKKjTZiutErXoMi33naZUkHU8S4Q&page=3)
+2026-01-11 21:27:35 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468703?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg3MDMsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.ft5BCw6zVBjBxS4YcTq-yN_2DVdAkeRbqc1XvFdKeTg&page=3)
+2026-01-11 21:27:56 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468667?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg2NjcsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.s4WeJX_3Ub_H0Ongak2suBwuwr8C1Oi2KUWtWTmkbhA&page=3)
+2026-01-11 21:28:16 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468519?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg1MTksImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.AqbjIALQCxzn1RiRhFuLNj3cR8Vgn_xkltsyZbW-uyM&page=3)
+2026-01-11 21:28:38 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468292?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjgyOTIsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.bbQQsU_Ik3xzSnd9e0WZA7vTZhmmi40OsPZh9-d_PsU&page=3)
+2026-01-11 21:29:00 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468265?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjgyNjUsImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.Ag4eHkc7ENyEP6zHl9Rc1iS51PCv92sgw-8StNJR_6M&page=3)
+2026-01-11 21:29:21 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468249?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjgyNDksImlzc3VlZEF0IjoxNzY4MTM0MjYzMzM5LCJjYWZlSWQiOjI1MjI4MDkxfQ.LHwjySG8CPCuHrQJ_EOFR8LIP0SQYuGt4msAi1KgWZY&page=3)
+2026-01-11 21:29:46 - NaverCafeCrawler_group1 - INFO - 'lg계약' 4페이지: 15개
+2026-01-11 21:29:52 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468196?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjgxOTYsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.twfR9FsSRnAE8vbfJwQ0BoOtOYO6VYpINUToa6Xmv7g&page=4)
+2026-01-11 21:30:16 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467966?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc5NjYsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.DPxf09qDeq0hL8pZkK_SrPedl47v9OArLkbS7Tz5rsQ&page=4)
+2026-01-11 21:30:38 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467879?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc4NzksImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.6TgXd-_VMqrAObiAlpaeq_fh8oN8Y_7xPF3J-IsN1VA&page=4)
+2026-01-11 21:31:01 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467816?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc4MTYsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.GmMz2EZDvbaFF5TupjIlSHCttvnyFJPQxqm7LheaksQ&page=4)
+2026-01-11 21:31:22 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467787?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc3ODcsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.Pv9md2nipkt_-CDo8NS9lzjZCJQNiWdFSV-M1cq0BBY&page=4)
+2026-01-11 21:31:44 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467719?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc3MTksImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.yEUlYAnXk_NT0WURpZr-LuIRjynStNEMe3gjW7gL6O0&page=4)
+2026-01-11 21:32:06 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467683?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc2ODMsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.wcVQWRkk_uSF_tC-QMWeh0RS9qBPCsui7Um79iSWtKY&page=4)
+2026-01-11 21:32:29 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467634?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc2MzQsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.npwQ0Rf_vrnRTr9k8A3TSwZh59c1Mrx8S1PLVwq25PE&page=4)
+2026-01-11 21:32:51 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467629?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc2MjksImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.mxlCY8gUOclf_GKGzvxq9mHBhadJJMqIrv0euQOqA3k&page=4)
+2026-01-11 21:33:13 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467494?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc0OTQsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.kJG8kHgqA-J_B0y_gNkD2gM2dx8NcOb2oiKjOi7Y5ls&page=4)
+2026-01-11 21:33:36 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467485?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc0ODUsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.45ZPpQ7akfmOIx0hifVlit2wMT_dWUwSnKC8nA6o4T4&page=4)
+2026-01-11 21:33:57 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467461?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njc0NjEsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.HrEYNbmHyaT0jPxliF6xidYu-Vt_YIaq4FnQUc0CTNE&page=4)
+2026-01-11 21:34:19 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467333?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjczMzMsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.lOHyFyYnAUhgggO4wzpd6dleXlu89bBpoD8udqD7KM8&page=4)
+2026-01-11 21:34:41 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467258?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjcyNTgsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.ZXFR4SW2dNpxLth0LDqVkHumThV3_SILhRYn9onbwuc&page=4)
+2026-01-11 21:35:03 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467173?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjcxNzMsImlzc3VlZEF0IjoxNzY4MTM0NTg0Mzk4LCJjYWZlSWQiOjI1MjI4MDkxfQ.Rti4VqnVKXL1Oz5gIusmDO0W_TQ3xXpg-AOc5szKVUk&page=4)
+2026-01-11 21:35:28 - NaverCafeCrawler_group1 - INFO - 'lg계약' 5페이지: 15개
+2026-01-11 21:35:34 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467167?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjcxNjcsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.E4a6mzBf6_yDkj0eqENyn5HSzDNcrQIKCGx_VaxdRIc&page=5)
+2026-01-11 21:35:57 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8467024?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjcwMjQsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.-8AkCaXXZh2eXSz4vi2TKROcycNy42VAj11xMrMq14c&page=5)
+2026-01-11 21:36:19 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466974?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY5NzQsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.8sH0tjuRt9m_ozxgk3Ohgnj4Qw3JTRefHOQo7zinzaI&page=5)
+2026-01-11 21:36:41 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466646?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY2NDYsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ._yWqcz7ejWwZvrFUBz77xb2HSkgieIllN7yO4vymEQg&page=5)
+2026-01-11 21:37:03 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466580?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY1ODAsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.-hIHW6Xwk8Gv0GJUQu3lYs_w8rwTsfrKvlWjlQ9Lt4g&page=5)
+2026-01-11 21:37:25 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466544?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY1NDQsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.MIec7tkNElOyQeeVYfzPA5OCZRRWSlGGFOqHlTCsuL4&page=5)
+2026-01-11 21:37:48 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8465963?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjU5NjMsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.x86MMrib6EIrtbFCT_YsF3Fp9CYln__NTBdeezbcU54&page=5)
+2026-01-11 21:38:11 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8465825?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjU4MjUsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.JFzCf1jC4B2MLrQOoHWAMxr6Pg_44NBRYWOOLD8ud5g&page=5)
+2026-01-11 21:38:34 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8465602?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjU2MDIsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.TdBJU21RCew9eAbExe70G7gRe-LZbFGon7gva681kuc&page=5)
+2026-01-11 21:38:57 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8465432?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjU0MzIsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.NjZs4XKj5IUuRuPff4ZUdl1cyIutfRa1NTIYuJa9--o&page=5)
+2026-01-11 21:39:20 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463871?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjM4NzEsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.BYAQ7dybqhDtoa8KmGSvDbzdcsaijDap811HLlo4vjQ&page=5)
+2026-01-11 21:39:44 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463478?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjM0NzgsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.2JEzlNle8vydyhBqCZ_HLmaKpWtprDMQrhZPCTtPiuA&page=5)
+2026-01-11 21:40:07 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463419?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjM0MTksImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.W4wKpb8_AGgJdy7W3wZTvL0uG03jCABUxcplUsET_Ko&page=5)
+2026-01-11 21:40:30 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463213?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjMyMTMsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.KWWeGG294gZiebxelE7UmT4JJmcCtpvBv_p2wXVRNeQ&page=5)
+2026-01-11 21:40:53 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463173?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjMxNzMsImlzc3VlZEF0IjoxNzY4MTM0OTI3MzQ4LCJjYWZlSWQiOjI1MjI4MDkxfQ.34yjW4NO4TkZMG3DNH9EPU_aZDZXKAO13w6G_0Q7Onc&page=5)
+2026-01-11 21:41:18 - NaverCafeCrawler_group1 - INFO - 'lg계약' 6페이지: 15개
+2026-01-11 21:41:25 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463173?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjMxNzMsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.WxEfVNpjLCO1SrguSn_YwW43TRzqB2dhhpynjAfEYUI&page=6)
+2026-01-11 21:41:48 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463148?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjMxNDgsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.MizDIza5-bx5nBtBNzhpnmvRaKspWHcLqEz_6wmuXQk&page=6)
+2026-01-11 21:42:10 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463120?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjMxMjAsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.llPqgcImcWGnf9v9Bwsc2so_UxJx70IhrD7qiprHaIk&page=6)
+2026-01-11 21:42:32 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463015?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjMwMTUsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.I7eoQi4Y95gG0h8BGWj16MrWaNMMPEgwp96zp1S0KMI&page=6)
+2026-01-11 21:42:55 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8462893?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjI4OTMsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.BBYimlVS2e5FNq6pUKi1U7wWqu97IGJ8Qjuv1jkZX3k&page=6)
+2026-01-11 21:43:19 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8462553?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjI1NTMsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.VWAB8ft2Qb1UZZRUr8Y-ZRFfjEhDUVK0xVXFY88mi9g&page=6)
+2026-01-11 21:43:43 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8462248?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjIyNDgsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.FxdnWB95v11wFff7000T75hVOH4ZdeqTPuhpO9J74Xw&page=6)
+2026-01-11 21:44:07 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8461418?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjE0MTgsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.U3k3yPj-AqAleyEMiGi2fpa_2DDSQqCktOuAOchaD4Y&page=6)
+2026-01-11 21:44:31 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8461070?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjEwNzAsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.97AlxJh0qjZs7Hek_oNuqmxY-NZDlv_UZM9OUanMhfk&page=6)
+2026-01-11 21:44:54 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8460944?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjA5NDQsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.TxH1GXGld8m88IapBnq1ozY2MZVLi6FEm2Fc5nYpURg&page=6)
+2026-01-11 21:45:18 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8460257?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjAyNTcsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.VKfqLK_J-QUVx0LtRM6BOYc_oojLIYYt_VkgztXa0b0&page=6)
+2026-01-11 21:45:42 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8459948?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTk5NDgsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.Uie2L5oJhtRCHUOK9_Ep4FAlrfn5DYrgnsqP2rXq0Gs&page=6)
+2026-01-11 21:46:06 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8459359?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTkzNTksImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.tzt6QxskWRxP4vaJRpmi4r3Ljz7ZqjcSudZcICASk7Y&page=6)
+2026-01-11 21:46:30 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8459276?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTkyNzYsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.JIG1ITq7ecnza8Zxxd5pRkgXa6Ea1FLR82xe5zJFHzQ&page=6)
+2026-01-11 21:46:54 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8459101?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTkxMDEsImlzc3VlZEF0IjoxNzY4MTM1Mjc3NzMxLCJjYWZlSWQiOjI1MjI4MDkxfQ.umxm6mNvOTA6DelwBNc5k8XrASag1zqgAZKl5dgM0Uo&page=6)
+2026-01-11 21:47:10 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 21:47:10 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #1 (경과: 33분)
+2026-01-11 21:47:10 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 21:47:11 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 21:47:13 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 21:47:18 - NaverCafeCrawler_group1 - INFO - 브라우저 시작 완료 (이미지 차단, CSS/폰트 로딩)
+2026-01-11 21:47:18 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-11 21:47:19 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-11 21:47:20 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-11 21:47:20 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 21:47:27 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 21:49:27 - NaverCafeCrawler_group1 - ERROR - 로그인 실패: 타임아웃
+2026-01-11 21:49:27 - NaverCafeCrawler_group1 - ERROR - 브라우저 재시작 실패: 재로그인 실패
+2026-01-11 21:49:27 - NaverCafeCrawler_group1 - ERROR - 'lg계약' 7페이지 오류: 재로그인 실패
+2026-01-11 21:49:27 - NaverCafeCrawler_group1 - INFO - 'lg계약' 완료: 90개
+2026-01-11 21:49:27 - NaverCafeCrawler_group1 - INFO - 'lg계약' 90개 데이터 저장 중...
+2026-01-11 21:49:27 - NaverCafeCrawler_group1 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group1_2025-12-30~05.xlsx
+2026-01-11 21:49:27 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [2/24] 'lg구매' 시작
+2026-01-11 21:49:31 - NaverCafeCrawler_group1 - INFO - 'lg구매' 1페이지: 15개
+2026-01-11 21:49:34 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8472291?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzIyOTEsImlzc3VlZEF0IjoxNzY4MTM1NzcwMzgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.W4ZqyzxLMyl13PI1_5KYRdiNz-Ea30rcEDSsuht7IpM&page=1)
+2026-01-11 21:49:55 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8472152?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzIxNTIsImlzc3VlZEF0IjoxNzY4MTM1NzcwMzgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.0yYgFbUg5cmEXvM7prmjWlDd6zrq8Z2m4U9mIfa4YIg&page=1)
+2026-01-11 21:50:14 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8472084?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzIwODQsImlzc3VlZEF0IjoxNzY4MTM1NzcwMzgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.nkt9g-VBYfFkuLVEUEowrdORzL7EjLKoNJX3cQrAVXI&page=1)
+2026-01-11 21:50:34 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471902?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE5MDIsImlzc3VlZEF0IjoxNzY4MTM1NzcwMzgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.YwfXbS5OTCtORyMAyYScJnb_iTMcKZJ6BktDWQTazm8&page=1)
+2026-01-11 21:50:54 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471655?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE2NTUsImlzc3VlZEF0IjoxNzY4MTM1NzcwMzgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.yvcOQssqSs0nuSWehQXQKiSPHuf4fN77TYZ-PP3hbbw&page=1)
+2026-01-11 21:51:13 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471551?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE1NTEsImlzc3VlZEF0IjoxNzY4MTM1NzcwMzgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.DDr-OgC5qjoF5_kMdx23w5p_5uDh_-0OQnh0-_j4yQQ&page=1)
+2026-01-11 21:51:35 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471538?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE1MzgsImlzc3VlZEF0IjoxNzY4MTM1NzcwMzgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.DXoQzs6Xoqr5ZOyGZsWfWCHoUND2W2UxmdO3UHOvGvc&page=1)
+2026-01-11 21:51:54 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 21:51:58 - NaverCafeCrawler_group1 - INFO - 브라우저 시작 완료 (이미지 차단, CSS/폰트 로딩)
+2026-01-11 21:51:58 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 21:51:58 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 21:51:58 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 21:51:58 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 21:52:05 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 21:54:05 - NaverCafeCrawler_group1 - ERROR - 로그인 실패: 타임아웃
+2026-01-11 21:54:05 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 21:54:06 - NaverCafeCrawler_group1 - ERROR - 치명적 오류: 로그인 실패
+2026-01-11 21:54:06 - NaverCafeCrawler_group1 - ERROR - Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 907, in run
+    self._setup()
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 877, in _setup
+    raise Exception("로그인 실패")
+Exception: 로그인 실패
+
+2026-01-11 22:19:02 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 22:19:06 - NaverCafeCrawler_group1 - INFO - 브라우저 시작 완료 (이미지 차단, CSS/폰트 로딩)
+2026-01-11 22:19:06 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 22:19:06 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 22:19:06 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 22:19:06 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 22:19:12 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 22:19:41 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 22:19:51 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 22:19:55 - NaverCafeCrawler_group1 - INFO - 브라우저 시작 완료 (이미지 차단, CSS/폰트 로딩)
+2026-01-11 22:19:55 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 22:19:55 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 22:19:55 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 22:19:55 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 22:20:01 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 22:20:50 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 22:20:54 - NaverCafeCrawler_group1 - INFO - 브라우저 시작 완료 (이미지 차단, CSS/폰트 로딩)
+2026-01-11 22:20:54 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 22:20:54 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 22:20:54 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 22:20:54 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 22:21:00 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 22:23:00 - NaverCafeCrawler_group1 - ERROR - 로그인 실패: 타임아웃
+2026-01-11 22:23:01 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 22:23:01 - NaverCafeCrawler_group1 - ERROR - 치명적 오류: 로그인 실패
+2026-01-11 22:23:01 - NaverCafeCrawler_group1 - ERROR - Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 1005, in run
+    self._setup()
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 975, in _setup
+    raise Exception("로그인 실패")
+Exception: 로그인 실패
+
+2026-01-11 22:24:39 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 22:24:43 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 22:24:43 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 22:24:43 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 22:24:43 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 22:24:43 - NaverCafeCrawler_group1 - INFO - 기존 엑셀 파일 없음, 처음부터 시작
+2026-01-11 22:24:43 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 22:24:51 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 22:25:01 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 22:25:01 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 22:25:01 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-11 22:25:01 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-11 22:25:04 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-11 22:27:09 - NaverCafeCrawler_group1 - INFO - 'lg계약' 2페이지: 15개
+2026-01-11 22:29:17 - NaverCafeCrawler_group1 - INFO - 'lg계약' 3페이지: 15개
+2026-01-11 22:31:02 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468519?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg1MTksImlzc3VlZEF0IjoxNzY4MTM4MTU1NTI3LCJjYWZlSWQiOjI1MjI4MDkxfQ.oqdUqGtSrCfiJ6iaN5HyRehiXNmyWRHe5hH1jD75HQw&page=3)
+2026-01-11 22:31:42 - NaverCafeCrawler_group1 - INFO - 'lg계약' 4페이지: 15개
+2026-01-11 22:34:21 - NaverCafeCrawler_group1 - INFO - 'lg계약' 5페이지: 15개
+2026-01-11 22:37:34 - NaverCafeCrawler_group1 - INFO - 'lg계약' 6페이지: 15개
+2026-01-11 22:40:58 - NaverCafeCrawler_group1 - INFO - 'lg계약' 7페이지: 15개
+2026-01-11 22:43:12 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8456866?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTY4NjYsImlzc3VlZEF0IjoxNzY4MTM4ODU2MjkxLCJjYWZlSWQiOjI1MjI4MDkxfQ.00nrAazmRiHgJ4K1x05GTBMpAwY2HEvjZgqosnPDBCQ&page=7)
+2026-01-11 22:44:32 - NaverCafeCrawler_group1 - INFO - 'lg계약' 8페이지: 15개
+2026-01-11 22:48:23 - NaverCafeCrawler_group1 - INFO - 'lg계약' 9페이지: 15개
+2026-01-11 22:52:13 - NaverCafeCrawler_group1 - INFO - 'lg계약' 10페이지: 15개
+2026-01-11 22:56:22 - NaverCafeCrawler_group1 - INFO - 'lg계약' 11페이지: 15개
+2026-01-11 22:59:52 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8440902?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NDA5MDIsImlzc3VlZEF0IjoxNzY4MTM5NzgxNjgzLCJjYWZlSWQiOjI1MjI4MDkxfQ.Q13-vq7jsB5fj6FLci6_Gbm4iNbYx-zKHXpKLkNx9P0&page=11)
+2026-01-11 23:01:01 - NaverCafeCrawler_group1 - INFO - 'lg계약' 12페이지: 15개
+2026-01-11 23:01:12 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8440307?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NDAzMDcsImlzc3VlZEF0IjoxNzY4MTQwMDU5NzkzLCJjYWZlSWQiOjI1MjI4MDkxfQ.3My_s_iEuCXYN2tBWZEOzqyBtdvn6y3Vn6HvytwjDW8&page=12)
+2026-01-11 23:02:17 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8439897?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Mzk4OTcsImlzc3VlZEF0IjoxNzY4MTQwMDU5NzkzLCJjYWZlSWQiOjI1MjI4MDkxfQ.EBzL8iJ-qm8wy9qECe0hHuGKm3fNYJBHFkoP7jpaUcM&page=12)
+2026-01-11 23:05:46 - NaverCafeCrawler_group1 - INFO - 'lg계약' 13페이지 없음, 종료
+2026-01-11 23:05:46 - NaverCafeCrawler_group1 - INFO - 'lg계약' 완료: 180개
+2026-01-11 23:05:46 - NaverCafeCrawler_group1 - INFO - 'lg계약' 180개 데이터 저장 중...
+2026-01-11 23:05:47 - NaverCafeCrawler_group1 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group1_2025-12-30~05.xlsx
+2026-01-11 23:05:47 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [2/24] 'lg구매' 시작
+2026-01-11 23:06:02 - NaverCafeCrawler_group1 - INFO - 'lg구매' 1페이지: 15개
+2026-01-11 23:10:19 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471438?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzE0MzgsImlzc3VlZEF0IjoxNzY4MTQwMzYxMzAyLCJjYWZlSWQiOjI1MjI4MDkxfQ.Wm8hbgSjb2pMarmu14e2igTn22ifKxLcRwhDVHry2L8&page=1)
+2026-01-11 23:12:14 - NaverCafeCrawler_group1 - INFO - 'lg구매' 2페이지: 15개
+2026-01-11 23:12:28 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471291?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEyOTEsImlzc3VlZEF0IjoxNzY4MTQwNzMzMzc1LCJjYWZlSWQiOjI1MjI4MDkxfQ.VM8U5rOLGInpDht3BcOw_r63RPtWKPYeY1avtsru8W8&page=2)
+2026-01-11 23:15:50 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471186?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzExODYsImlzc3VlZEF0IjoxNzY4MTQwNzMzMzc1LCJjYWZlSWQiOjI1MjI4MDkxfQ.7SBh5uqwOzCPTUCabaQHZZFdQEhla3j4nLtunS9i61w&page=2)
+2026-01-11 23:17:36 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471115?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzExMTUsImlzc3VlZEF0IjoxNzY4MTQwNzMzMzc1LCJjYWZlSWQiOjI1MjI4MDkxfQ.kZNsmgi5mO-HrUwhNlOXcqepTQ6m4yI3NedmF9cnhVI&page=2)
+2026-01-11 23:18:42 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471065?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEwNjUsImlzc3VlZEF0IjoxNzY4MTQwNzMzMzc1LCJjYWZlSWQiOjI1MjI4MDkxfQ.S7hRXI3aOB5wbW9ckda_NzvmwjGX0BteQgjmKLJqUOA&page=2)
+2026-01-11 23:19:20 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471056?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEwNTYsImlzc3VlZEF0IjoxNzY4MTQwNzMzMzc1LCJjYWZlSWQiOjI1MjI4MDkxfQ.w8Jdidm6G7oKrrbraIiDO7CQO1eXZGWxvO2oVFUE-W0&page=2)
+2026-01-11 23:20:48 - NaverCafeCrawler_group1 - INFO - 'lg구매' 3페이지: 15개
+2026-01-11 23:21:06 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471021?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEwMjEsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.7p9oifGsaeFHlYJmv-beS7AmTPbRvNimn1aIsSGvruk&page=3)
+2026-01-11 23:23:17 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471002?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEwMDIsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.XKFoZT6A_HC4iCsG6dcsf-m3Btrzn3qcfwrHrOIzkhk&page=3)
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470946?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5NDYsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.k-2ww8iDzyblclIjoKLSa_vGFdOs2UNzsAsJfF6J5K4&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470946?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5NDYsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.k-2ww8iDzyblclIjoKLSa_vGFdOs2UNzsAsJfF6J5K4&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470938?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MzgsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.NaXiMkmJo5qR4jdIo4NdK_pttWxCMy82godWn-NwBxs&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470938?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MzgsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.NaXiMkmJo5qR4jdIo4NdK_pttWxCMy82godWn-NwBxs&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470931?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MzEsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.DTukw2c-_KthEZ2a6F3mpg8uP_D1-sNpE4QOnRz5HL8&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470931?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MzEsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.DTukw2c-_KthEZ2a6F3mpg8uP_D1-sNpE4QOnRz5HL8&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470911?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MTEsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.oiaVKh0G9hQQ-bO-VRfHj1K2hiEYwXzk1yA4kxLCXQ0&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470911?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MTEsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.oiaVKh0G9hQQ-bO-VRfHj1K2hiEYwXzk1yA4kxLCXQ0&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470909?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MDksImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.bqyfroJcEgp_b33gOJGSGJvRVRB9YqVXHsDfF0T6ihk&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470909?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5MDksImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.bqyfroJcEgp_b33gOJGSGJvRVRB9YqVXHsDfF0T6ihk&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470887?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4ODcsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.piEjDXJIGREFQ14PGIvfdqTk22NcJZ5_HOIujK_oOYY&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470887?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4ODcsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.piEjDXJIGREFQ14PGIvfdqTk22NcJZ5_HOIujK_oOYY&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470878?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4NzgsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.QBlx1_9QklnNi0I04O-TyLAUR2YpojH7ydECmh_CjIY&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470878?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4NzgsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.QBlx1_9QklnNi0I04O-TyLAUR2YpojH7ydECmh_CjIY&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470864?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4NjQsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.AFPA7pV2QB0Y-6poIFyKv_KRDttrpZf78qNRlXZDQgg&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470864?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4NjQsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.AFPA7pV2QB0Y-6poIFyKv_KRDttrpZf78qNRlXZDQgg&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470842?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4NDIsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.e75_0ThG-6sLXQ9Q8T8BYqE9ZXRDvQxk8G0MyH00Ilk&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470842?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4NDIsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.e75_0ThG-6sLXQ9Q8T8BYqE9ZXRDvQxk8G0MyH00Ilk&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470838?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4MzgsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.wnE1vgkx6Z3scCAwm9sXup0dkYofgDvIwSwtJVlq4Lk&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470838?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4MzgsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.wnE1vgkx6Z3scCAwm9sXup0dkYofgDvIwSwtJVlq4Lk&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470820?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4MjAsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.ioMM4Ug50vFuXZcCgKHhi_S7tcKMulqD6Z6YF3qbGu4&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470820?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4MjAsImlzc3VlZEF0IjoxNzY4MTQxMjM2NTg5LCJjYWZlSWQiOjI1MjI4MDkxfQ.ioMM4Ug50vFuXZcCgKHhi_S7tcKMulqD6Z6YF3qbGu4&page=3): Target page, context or browser has been closed
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #1 (경과: 63분)
+2026-01-11 23:28:32 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 23:28:33 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-11 23:28:35 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 23:28:45 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 23:28:45 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-11 23:28:48 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-11 23:28:48 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-11 23:28:48 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 23:28:55 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 23:29:29 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 23:29:33 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 23:29:34 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 23:29:34 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 23:29:34 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 23:29:35 - NaverCafeCrawler_group1 - INFO - 기존 URL 180개 로드 완료
+2026-01-11 23:29:35 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 23:29:46 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 23:29:56 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 23:29:56 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 23:29:56 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-11 23:29:56 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-11 23:30:00 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-11 23:31:17 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-11 23:31:21 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-11 23:31:21 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 23:31:21 - NaverCafeCrawler_group1 - INFO - 네이버 카페 크롤링 시작
+2026-01-11 23:31:21 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-11 23:31:21 - NaverCafeCrawler_group1 - INFO - 기존 엑셀 파일 없음, 처음부터 시작
+2026-01-11 23:31:21 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-11 23:31:30 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-11 23:31:40 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-11 23:31:40 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-11 23:31:40 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 시작
+2026-01-11 23:31:40 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [1/24] 'lg계약' 시작
+2026-01-11 23:31:43 - NaverCafeCrawler_group1 - INFO - 'lg계약' 1페이지: 15개
+2026-01-11 23:33:48 - NaverCafeCrawler_group1 - INFO - 'lg계약' 2페이지: 15개
+2026-01-11 23:35:50 - NaverCafeCrawler_group1 - INFO - 'lg계약' 3페이지: 15개
+2026-01-11 23:36:03 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470230?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzAyMzAsImlzc3VlZEF0IjoxNzY4MTQyMTQ5MzM0LCJjYWZlSWQiOjI1MjI4MDkxfQ.pUnWfaQpccVnJMu4lOrjUbBc117kfywkGszWZDgfwcU&page=3)
+2026-01-11 23:38:17 - NaverCafeCrawler_group1 - INFO - 'lg계약' 4페이지: 15개
+2026-01-11 23:40:41 - NaverCafeCrawler_group1 - INFO - 'lg계약' 5페이지: 15개
+2026-01-11 23:43:28 - NaverCafeCrawler_group1 - INFO - 'lg계약' 6페이지: 15개
+2026-01-11 23:46:57 - NaverCafeCrawler_group1 - INFO - 'lg계약' 7페이지: 15개
+2026-01-11 23:50:26 - NaverCafeCrawler_group1 - INFO - 'lg계약' 8페이지: 15개
+2026-01-11 23:54:07 - NaverCafeCrawler_group1 - INFO - 'lg계약' 9페이지: 15개
+2026-01-11 23:55:09 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8451951?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B3%84%EC%95%BD&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTE5NTEsImlzc3VlZEF0IjoxNzY4MTQzMjQ2MzYwLCJjYWZlSWQiOjI1MjI4MDkxfQ.bGOZoMxT6UFw27bgaDI-1xIZ5XxWslWnuf52Fe6opiU&page=9)
+2026-01-11 23:57:47 - NaverCafeCrawler_group1 - INFO - 'lg계약' 10페이지: 15개
+2026-01-12 00:01:39 - NaverCafeCrawler_group1 - INFO - 'lg계약' 11페이지: 1개
+2026-01-12 00:02:20 - NaverCafeCrawler_group1 - INFO - 'lg계약' 12페이지 없음, 종료
+2026-01-12 00:02:20 - NaverCafeCrawler_group1 - INFO - 'lg계약' 완료: 151개
+2026-01-12 00:02:20 - NaverCafeCrawler_group1 - INFO - 'lg계약' 151개 데이터 저장 중...
+2026-01-12 00:02:21 - NaverCafeCrawler_group1 - INFO - 'lg계약' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 00:02:21 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [2/24] 'lg구매' 시작
+2026-01-12 00:02:33 - NaverCafeCrawler_group1 - INFO - 'lg구매' 1페이지: 15개
+2026-01-12 00:06:29 - NaverCafeCrawler_group1 - INFO - 'lg구매' 2페이지: 15개
+2026-01-12 00:11:06 - NaverCafeCrawler_group1 - INFO - 'lg구매' 3페이지: 15개
+2026-01-12 00:12:48 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8471003?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzEwMDMsImlzc3VlZEF0IjoxNzY4MTQ0MjY0NDI2LCJjYWZlSWQiOjI1MjI4MDkxfQ.X6EIwciTtzcCzkfU9E9JzW0s2lENZ7HD6uADEoFvxeE&page=3)
+2026-01-12 00:13:38 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470946?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA5NDYsImlzc3VlZEF0IjoxNzY4MTQ0MjY0NDI2LCJjYWZlSWQiOjI1MjI4MDkxfQ.1zPBT3-rfID4R0RPzvRGCNmOU0I7Mh5x3vp2RQUKmDE&page=3)
+2026-01-12 00:17:04 - NaverCafeCrawler_group1 - INFO - 'lg구매' 4페이지: 15개
+2026-01-12 00:17:44 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470838?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA4MzgsImlzc3VlZEF0IjoxNzY4MTQ0NjIyNzcxLCJjYWZlSWQiOjI1MjI4MDkxfQ.f9mjFHWkjinkl6oOX46x51R7vJNp9BoKAilZ6zd5RaI&page=4)
+2026-01-12 00:19:26 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470755?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3NTUsImlzc3VlZEF0IjoxNzY4MTQ0NjIyNzcxLCJjYWZlSWQiOjI1MjI4MDkxfQ.o2rTC9y96OmCdOaQrY_-L6ROWwWL2gSGUNDTB32uPEo&page=4)
+2026-01-12 00:20:58 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470733?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3MzMsImlzc3VlZEF0IjoxNzY4MTQ0NjIyNzcxLCJjYWZlSWQiOjI1MjI4MDkxfQ.LStFFRgQQ9Vwt9dIh6D5vLt1nyhWhyc7y8CF87uR4ds&page=4)
+2026-01-12 00:22:20 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470725?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3MjUsImlzc3VlZEF0IjoxNzY4MTQ0NjIyNzcxLCJjYWZlSWQiOjI1MjI4MDkxfQ.O-ZTw7_u8ZswSR4ogKmxUO4bZtV2MkDoxEsRPMAjWTw&page=4)
+2026-01-12 00:23:45 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470707?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA3MDcsImlzc3VlZEF0IjoxNzY4MTQ0NjIyNzcxLCJjYWZlSWQiOjI1MjI4MDkxfQ.ZloM_LLN3Gd2Th9yYc4TVdzFdvnTr3TRLx5uCvVWQ2k&page=4)
+2026-01-12 00:25:04 - NaverCafeCrawler_group1 - INFO - 'lg구매' 5페이지: 15개
+2026-01-12 00:25:19 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470671?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA2NzEsImlzc3VlZEF0IjoxNzY4MTQ1MDk2MjA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.QAOczzXzUQMgda2JmXynJ2gQKC4JUXG1iunALtZh2XI&page=5)
+2026-01-12 00:30:05 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470640?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA2NDAsImlzc3VlZEF0IjoxNzY4MTQ1MDk2MjA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.BwlC3qXbuOVcOMlhiCVZuu11dDgvNkvyLA_31jzVu1A&page=5)
+2026-01-12 00:30:27 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470578?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA1NzgsImlzc3VlZEF0IjoxNzY4MTQ1MDk2MjA1LCJjYWZlSWQiOjI1MjI4MDkxfQ.WlQWPx2TTMowtq-6pMj1mKMTXKPKibKIdt3B0msqsgY&page=5)
+2026-01-12 00:32:33 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 00:32:33 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 #1 (경과: 61분)
+2026-01-12 00:32:33 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 00:32:43 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 00:32:45 - NaverCafeCrawler_group1 - INFO - 브라우저 시작
+2026-01-12 00:32:49 - NaverCafeCrawler_group1 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-12 00:32:49 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 완료
+2026-01-12 00:32:51 - NaverCafeCrawler_group1 - WARNING - 쿠키 만료됨
+2026-01-12 00:32:51 - NaverCafeCrawler_group1 - INFO - 쿠키 로드 실패, 재로그인 필요
+2026-01-12 00:32:51 - NaverCafeCrawler_group1 - INFO - 네이버 로그인 시작
+2026-01-12 00:33:28 - NaverCafeCrawler_group1 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-12 00:33:38 - NaverCafeCrawler_group1 - INFO - 로그인 성공 (소요: 10초)
+2026-01-12 00:33:38 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 00:33:38 - NaverCafeCrawler_group1 - INFO - 쿠키 저장 완료: logs\cookies_group1.json
+2026-01-12 00:33:38 - NaverCafeCrawler_group1 - INFO - 기존 URL 151개 로드 완료
+2026-01-12 00:33:38 - NaverCafeCrawler_group1 - INFO - 브라우저 재시작 후 'lg구매' 계속
+2026-01-12 00:33:44 - NaverCafeCrawler_group1 - INFO - 'lg구매' 6페이지: 15개
+2026-01-12 00:33:47 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8470447?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NzA0NDcsImlzc3VlZEF0IjoxNzY4MTQ1NjIyOTI3LCJjYWZlSWQiOjI1MjI4MDkxfQ.8JhCDOCLd_mTCu2c3VUJqw-AIw7WU_KeNccy7eRUm0s&page=6)
+2026-01-12 00:35:56 - NaverCafeCrawler_group1 - INFO - 'lg구매' 7페이지: 15개
+2026-01-12 00:38:02 - NaverCafeCrawler_group1 - INFO - 'lg구매' 8페이지: 15개
+2026-01-12 00:38:45 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8468788?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0Njg3ODgsImlzc3VlZEF0IjoxNzY4MTQ1ODgxMzY5LCJjYWZlSWQiOjI1MjI4MDkxfQ.7oJnmJXOMLEA8u_3f6AfxWgrYPN0PxBEvksMNJHgY_8&page=8)
+2026-01-12 00:40:20 - NaverCafeCrawler_group1 - INFO - 'lg구매' 9페이지: 15개
+2026-01-12 00:42:43 - NaverCafeCrawler_group1 - INFO - 'lg구매' 10페이지: 15개
+2026-01-12 00:46:08 - NaverCafeCrawler_group1 - INFO - 'lg구매' 11페이지: 15개
+2026-01-12 00:49:20 - NaverCafeCrawler_group1 - INFO - 'lg구매' 12페이지: 15개
+2026-01-12 00:53:13 - NaverCafeCrawler_group1 - INFO - 'lg구매' 13페이지: 15개
+2026-01-12 00:57:21 - NaverCafeCrawler_group1 - INFO - 'lg구매' 14페이지: 15개
+2026-01-12 00:59:16 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466862?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY4NjIsImlzc3VlZEF0IjoxNzY4MTQ3MDQwODA2LCJjYWZlSWQiOjI1MjI4MDkxfQ.sWq8maxgC2j2sXPUmlHGOqkepdZG7i_9bwaFPIBRQNg&page=14)
+2026-01-12 01:00:19 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466719?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjY3MTksImlzc3VlZEF0IjoxNzY4MTQ3MDQwODA3LCJjYWZlSWQiOjI1MjI4MDkxfQ.c38mYQivynPeozVfsHnJvGseH96xGq72tXG3E9JxTfY&page=14)
+2026-01-12 01:01:36 - NaverCafeCrawler_group1 - INFO - 'lg구매' 15페이지: 15개
+2026-01-12 01:04:26 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8466345?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjYzNDUsImlzc3VlZEF0IjoxNzY4MTQ3Mjk0ODE1LCJjYWZlSWQiOjI1MjI4MDkxfQ.H35sAyIU2tRQJ96WJeEo1wD4R93XLJ05qUMIkv6d_ek&page=15)
+2026-01-12 01:05:34 - NaverCafeCrawler_group1 - INFO - 'lg구매' 16페이지: 15개
+2026-01-12 01:09:28 - NaverCafeCrawler_group1 - INFO - 'lg구매' 17페이지: 15개
+2026-01-12 01:10:27 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464552?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQ1NTIsImlzc3VlZEF0IjoxNzY4MTQ3NzY3MDY1LCJjYWZlSWQiOjI1MjI4MDkxfQ.Mp8KUmW0skmg7Gm9T5YAr8vJpl5Id6VrM5gLRiULl-8&page=17)
+2026-01-12 01:11:44 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8464192?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjQxOTIsImlzc3VlZEF0IjoxNzY4MTQ3NzY3MDY1LCJjYWZlSWQiOjI1MjI4MDkxfQ.mRWy_9DiBhPv88JEFB1OvpbhDauUE26oJ9JlwPMLqcM&page=17)
+2026-01-12 01:14:15 - NaverCafeCrawler_group1 - INFO - 'lg구매' 18페이지: 15개
+2026-01-12 01:15:27 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8463228?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjMyMjgsImlzc3VlZEF0IjoxNzY4MTQ4MDUyMjUzLCJjYWZlSWQiOjI1MjI4MDkxfQ.Vyymst4_8NVDYggLp40Xs3o37RU4a1cbMq-APa_6eW4&page=18)
+2026-01-12 01:16:55 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8462932?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjI5MzIsImlzc3VlZEF0IjoxNzY4MTQ4MDUyMjUzLCJjYWZlSWQiOjI1MjI4MDkxfQ.ddwN20LLerT9K3TtHywQv8mc8JLEVaKjUF7oso_C7qw&page=18)
+2026-01-12 01:17:40 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8462893?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjI4OTMsImlzc3VlZEF0IjoxNzY4MTQ4MDUyMjUzLCJjYWZlSWQiOjI1MjI4MDkxfQ.HHPk-ZXl--tr7u56DU7LZ-rqkPCgiYjrzw0vGQqkwck&page=18)
+2026-01-12 01:18:06 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8462805?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjI4MDUsImlzc3VlZEF0IjoxNzY4MTQ4MDUyMjUzLCJjYWZlSWQiOjI1MjI4MDkxfQ.lz2DLpJHozrZWU0HskOunAI8lG73mHDeZr5U9o5LNuo&page=18)
+2026-01-12 01:18:56 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8462799?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjI3OTksImlzc3VlZEF0IjoxNzY4MTQ4MDUyMjUzLCJjYWZlSWQiOjI1MjI4MDkxfQ.5xXuC5Whv7_7f2_UcGmO0Gd1IXCn_mYwmeht2aLErOg&page=18)
+2026-01-12 01:21:10 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8461839?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjE4MzksImlzc3VlZEF0IjoxNzY4MTQ4MDUyMjUzLCJjYWZlSWQiOjI1MjI4MDkxfQ.TXJyW6pBziSyYZBKASfZDwP1qCiVsbrtdyPkqwW48rE&page=18)
+2026-01-12 01:21:59 - NaverCafeCrawler_group1 - INFO - 'lg구매' 19페이지: 15개
+2026-01-12 01:22:15 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8461374?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjEzNzQsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ.fGPvWVMT9_xz4ht_W_pNdUcudKOFSxuLUgF-li9-BEs&page=19)
+2026-01-12 01:22:45 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8461365?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjEzNjUsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ.lU0hNd5zU5WOJ0SvvXpEm2sQuzPmc5NgT9ov0YMgOdQ&page=19)
+2026-01-12 01:24:06 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8460711?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NjA3MTEsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ.XuIDrjuamd4t3X7rFAWIP_WAtKVOwuFiolFWqtFsk58&page=19)
+2026-01-12 01:25:31 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8459990?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTk5OTAsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ.YSC_f0S_9uo-nc5Gz5H7uXaAj2yDPR4EX3BuGbOqD0w&page=19)
+2026-01-12 01:27:01 - NaverCafeCrawler_group1 - WARNING - 게시글 프레임 미발견, 메인 페이지 사용 (https://cafe.naver.com/f-e/cafes/25228091/articles/8459359?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTkzNTksImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ.7_xXiZlTC-lRZKJxLHZvS4DBrCAhvc5VpMKZc-3TgrQ&page=19)
+2026-01-12 01:31:48 - NaverCafeCrawler_group1 - ERROR - 기본 정보 수집 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8458724?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTg3MjQsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ.6cnJBBaGmVVS-UKcAFBmORpOQgPsrHw6ULRCSyAe_6c&page=19): Target page, context or browser has been closed
+2026-01-12 01:31:48 - NaverCafeCrawler_group1 - ERROR - 상세 오류: Traceback (most recent call last):
+  File "C:\Users\nayoo\OneDrive\바탕 화면\파이썬\crawling\crawler.py", line 771, in collect_post_details
+    title = self._normalize_text(title_elem.inner_text()) if title_elem.count() > 0 else ""
+                                                             ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 17171, in count
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.count()))
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_locator.py", line 390, in count
+    return await self._frame._query_count(self._selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 132, in _query_count
+    return await self._channel.send("queryCount", {"selector": selector})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 63, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 495, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\nayoo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 101, in inner_send
+    result = next(iter(done)).result()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+
+2026-01-12 01:31:48 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8458536?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTg1MzYsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ._sk0xPcdTgxJ6hMdohWEYzSaWkwL0IDY6Pz0RJK7Xs0&page=19): Target page, context or browser has been closed
+2026-01-12 01:31:48 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8458536?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTg1MzYsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ._sk0xPcdTgxJ6hMdohWEYzSaWkwL0IDY6Pz0RJK7Xs0&page=19): Target page, context or browser has been closed
+2026-01-12 01:31:48 - NaverCafeCrawler_group1 - WARNING - 게시글 수집 오류 (https://cafe.naver.com/f-e/cafes/25228091/articles/8458481?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTg0ODEsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ.nIJk3FQNRx5Qt74FuCYZds_r8Aj0bxiA9dLHsHvTuGM&page=19): Target page, context or browser has been closed
+2026-01-12 01:31:48 - NaverCafeCrawler_group1 - WARNING - 게시글 처리 실패 (https://cafe.naver.com/f-e/cafes/25228091/articles/8458481?boardtype=L&referrerAllArticles=true&inCafeSearch=true&query=lg%EA%B5%AC%EB%A7%A4&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjg0NTg0ODEsImlzc3VlZEF0IjoxNzY4MTQ4NTE3OTk3LCJjYWZlSWQiOjI1MjI4MDkxfQ.nIJk3FQNRx5Qt74FuCYZds_r8Aj0bxiA9dLHsHvTuGM&page=19): Target page, context or browser has been closed
+2026-01-12 01:31:51 - NaverCafeCrawler_group1 - WARNING - 'lg구매' 20페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:51 - NaverCafeCrawler_group1 - ERROR - 'lg구매' 20페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:51 - NaverCafeCrawler_group1 - INFO - 'lg구매' 완료: 282개
+2026-01-12 01:31:51 - NaverCafeCrawler_group1 - INFO - 'lg구매' 282개 데이터 저장 중...
+2026-01-12 01:31:53 - NaverCafeCrawler_group1 - INFO - 'lg구매' 저장 완료: results\가전모니터링_group1_2026-01-06~12.xlsx
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [3/24] 'lg졸업' 시작
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - WARNING - 'lg졸업' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - ERROR - 'lg졸업' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 완료: 0개
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - 'lg졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [4/24] '삼성계약' 시작
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - WARNING - '삼성계약' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - ERROR - '삼성계약' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '삼성계약' 완료: 0개
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '삼성계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [5/24] '삼성구매' 시작
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - WARNING - '삼성구매' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - ERROR - '삼성구매' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '삼성구매' 완료: 0개
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '삼성구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [6/24] '삼성졸업' 시작
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - WARNING - '삼성졸업' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - ERROR - '삼성졸업' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 완료: 0개
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '삼성졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [7/24] '엘지계약' 시작
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - WARNING - '엘지계약' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - ERROR - '엘지계약' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '엘지계약' 완료: 0개
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '엘지계약' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [8/24] '엘지구매' 시작
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - WARNING - '엘지구매' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - ERROR - '엘지구매' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:54 - NaverCafeCrawler_group1 - INFO - '엘지구매' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '엘지구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [9/24] '엘지졸업' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '엘지졸업' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '엘지졸업' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '엘지졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [10/24] '베스트샵' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '베스트샵' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '베스트샵' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '베스트샵' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '베스트샵' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [11/24] '삼성스토어' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '삼성스토어' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '삼성스토어' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '삼성스토어' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [12/24] '가전졸업' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '가전졸업' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '가전졸업' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '가전졸업' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '가전졸업' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [13/24] 'lg렌탈' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - 'lg렌탈' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - 'lg렌탈' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - 'lg렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [14/24] '가전렌탈' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '가전렌탈' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '가전렌탈' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '가전렌탈' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [15/24] '엘지교원' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '엘지교원' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '엘지교원' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '엘지교원' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '엘지교원' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [16/24] '베스트라이프' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '베스트라이프' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '베스트라이프' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '베스트라이프' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [17/24] '가전구매' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '가전구매' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '가전구매' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '가전구매' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '가전구매' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [18/24] 'lg vs 삼성' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - 'lg vs 삼성' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - 'lg vs 삼성' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - 'lg vs 삼성' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [19/24] 'lg구독' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - 'lg구독' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - 'lg구독' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - 'lg구독' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - 'lg구독' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [20/24] '가전구독' 시작
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - WARNING - '가전구독' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - ERROR - '가전구독' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '가전구독' 완료: 0개
+2026-01-12 01:31:55 - NaverCafeCrawler_group1 - INFO - '가전구독' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [21/24] '가전상담' 시작
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - WARNING - '가전상담' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - ERROR - '가전상담' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - '가전상담' 완료: 0개
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - '가전상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [22/24] 'lg상담후기' 시작
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - WARNING - 'lg상담후기' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - ERROR - 'lg상담후기' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 완료: 0개
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - 'lg상담후기' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [23/24] '엘지상담' 시작
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - WARNING - '엘지상담' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - ERROR - '엘지상담' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - '엘지상담' 완료: 0개
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - '엘지상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - [다이렉트결혼준비] [24/24] '삼성상담' 시작
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - WARNING - '삼성상담' 1페이지 검색 오류: Target page, context or browser has been closed
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - ERROR - '삼성상담' 1페이지 오류: Target page, context or browser has been closed
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - '삼성상담' 완료: 0개
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - '삼성상담' 수집 데이터 없음, 저장 건너뜀
+2026-01-12 01:31:56 - NaverCafeCrawler_group1 - INFO - [카페 1/1] 다이렉트결혼준비 완료
+2026-01-12 01:31:57 - NaverCafeCrawler_group1 - INFO - 브라우저 종료
+2026-01-12 01:31:57 - NaverCafeCrawler_group1 - INFO - ================================================================================
+2026-01-12 01:31:57 - NaverCafeCrawler_group1 - INFO - 크롤링 완료!
+2026-01-12 01:31:57 - NaverCafeCrawler_group1 - INFO - ================================================================================

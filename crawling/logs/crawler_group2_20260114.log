@@ -1,0 +1,14 @@
+2026-01-14 12:11:34 - NaverCafeCrawler_group2 - INFO - 브라우저 시작
+2026-01-14 12:11:42 - NaverCafeCrawler_group2 - INFO - 브라우저 전체화면으로 시작됨
+2026-01-14 12:11:42 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-14 12:11:42 - NaverCafeCrawler_group2 - INFO - 네이버 카페 크롤링 시작
+2026-01-14 12:11:42 - NaverCafeCrawler_group2 - INFO - ================================================================================
+2026-01-14 12:11:43 - NaverCafeCrawler_group2 - INFO - 기존 URL 2317개 로드 완료
+2026-01-14 12:11:43 - NaverCafeCrawler_group2 - INFO - 네이버 로그인 시작
+2026-01-14 12:11:48 - NaverCafeCrawler_group2 - INFO - 로그인 완료 대기 (최대 120초)
+2026-01-14 12:11:58 - NaverCafeCrawler_group2 - INFO - 로그인 성공 (소요: 10초)
+2026-01-14 12:11:58 - NaverCafeCrawler_group2 - INFO - 쿠키 저장 완료: logs\cookies_group2.json
+2026-01-14 12:11:58 - NaverCafeCrawler_group2 - INFO - [카페 1/9] 웨딩킹 시작
+2026-01-14 12:11:58 - NaverCafeCrawler_group2 - INFO - [웨딩킹] [1/24] 'lg계약' 시작
+2026-01-14 12:12:00 - NaverCafeCrawler_group2 - INFO - 'lg계약' 1페이지: 10개
+2026-01-14 12:12:05 - NaverCafeCrawler_group2 - INFO - 브라우저 종료
