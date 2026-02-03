@@ -7,8 +7,17 @@ import asyncio
 import sys
 import uuid
 import io
+import logging
 from datetime import datetime
 from typing import Dict
+
+# 로깅 설정
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[logging.StreamHandler(sys.stdout)]
+)
+logger = logging.getLogger(__name__)
 
 # Windows에서 asyncio subprocess 지원을 위한 설정
 if sys.platform == "win32":
@@ -31,7 +40,7 @@ from models import (
     TaskStatus,
     CommentData
 )
-from crawler import run_crawler_in_thread
+from crawler import run_crawler_async
 
 
 # Rate limiter 설정 (개발 중 비활성화)
@@ -73,8 +82,9 @@ async def update_task_progress(progress: CrawlProgress):
 
 async def run_crawler(task_id: str, request: CrawlRequest):
     """크롤러 실행 (백그라운드)"""
+    logger.info(f"[CRAWLER] Starting crawler for task {task_id}")
     try:
-        result = await run_crawler_in_thread(
+        result = await run_crawler_async(
             post_url=request.post_url,
             post_author=request.post_author,
             instagram_id=request.instagram_id,
@@ -84,7 +94,7 @@ async def run_crawler(task_id: str, request: CrawlRequest):
             task_id=task_id
         )
 
-        print(f"[DEBUG] Crawler result for {task_id}: success={result.get('success')}, comments={len(result.get('comments', []))}")
+        logger.info(f"[CRAWLER] Result for {task_id}: success={result.get('success')}, comments={len(result.get('comments', []))}")
 
         # 결과 저장
         if result["success"]:
@@ -96,17 +106,16 @@ async def run_crawler(task_id: str, request: CrawlRequest):
                 follower_count=result["follower_count"],
                 non_follower_count=result["non_follower_count"]
             )
-            print(f"[DEBUG] Result saved for {task_id}")
+            logger.info(f"[CRAWLER] Result saved for {task_id}")
         else:
             results[task_id] = CrawlResult(
                 task_id=task_id,
                 status=TaskStatus.FAILED,
                 error=result.get("error", "Unknown error")
             )
+            logger.error(f"[CRAWLER] Task {task_id} failed: {result.get('error')}")
     except Exception as e:
-        print(f"[ERROR] run_crawler exception for {task_id}: {e}")
-        import traceback
-        traceback.print_exc()
+        logger.exception(f"[CRAWLER] Exception for {task_id}: {e}")
         results[task_id] = CrawlResult(
             task_id=task_id,
             status=TaskStatus.FAILED,

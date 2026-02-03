@@ -6,8 +6,8 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Playwright 브라우저 설치 (Chromium만)
-RUN playwright install chromium
+# Playwright 브라우저 및 시스템 의존성 설치
+RUN playwright install --with-deps chromium
 
 # 앱 복사
 COPY . .
