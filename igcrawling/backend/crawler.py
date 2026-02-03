@@ -95,14 +95,28 @@ class InstagramCrawler:
                     '--disable-dev-shm-usage',
                     '--disable-gpu',
                     '--disable-blink-features=AutomationControlled',
+                    '--disable-web-security',
+                    '--disable-features=IsolateOrigins,site-per-process',
                 ]
             )
             logger.info(f"[BROWSER] Browser launched for task {self.task_id}")
 
             self.context = await self.browser.new_context(
                 viewport={'width': 1920, 'height': 1080},
-                user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+                user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+                locale='ko-KR',
+                timezone_id='Asia/Seoul',
+                java_script_enabled=True,
             )
+
+            # headless 감지 우회 스크립트
+            await self.context.add_init_script("""
+                Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+                Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+                Object.defineProperty(navigator, 'languages', { get: () => ['ko-KR', 'ko', 'en-US', 'en'] });
+                window.chrome = { runtime: {} };
+            """)
+
             self.page = await self.context.new_page()
             logger.info(f"[BROWSER] Page created for task {self.task_id}")
         except Exception as e:
@@ -132,21 +146,52 @@ class InstagramCrawler:
 
         try:
             await self.page.goto('https://www.instagram.com/accounts/login/', wait_until='domcontentloaded', timeout=60000)
+
+            # JavaScript 렌더링 대기 (최대 30초)
+            logger.info(f"[LOGIN] Waiting for page to render for task {self.task_id}")
+            try:
+                await self.page.wait_for_selector('input, form, button', timeout=30000)
+            except:
+                pass
             await self._wait(3)
 
-            # 아이디 입력
-            username_input = self.page.locator('input[name="username"], input[name="email"]').first
+            # 디버그: 현재 페이지 URL과 HTML 일부 출력
+            current_url = self.page.url
+            page_title = await self.page.title()
+            page_html = await self.page.content()
+            logger.info(f"[LOGIN] Current URL: {current_url}")
+            logger.info(f"[LOGIN] Page title: {page_title}")
+            logger.info(f"[LOGIN] Page HTML length: {len(page_html)}")
+            if len(page_html) < 5000:
+                logger.info(f"[LOGIN] Full page HTML: {page_html}")
+
+            # 쿠키 동의 팝업 처리 (있는 경우)
+            try:
+                cookie_btn = self.page.locator('button:has-text("모든 쿠키 허용"), button:has-text("Allow all cookies"), button:has-text("Accept All"), button:has-text("Allow essential and optional cookies")').first
+                if await cookie_btn.count() > 0:
+                    await cookie_btn.click()
+                    await self._wait(2)
+                    logger.info(f"[LOGIN] Cookie consent accepted for task {self.task_id}")
+            except:
+                pass
+
+            # 아이디 입력 (여러 셀렉터 시도)
+            username_input = self.page.locator('input[name="username"], input[name="email"], input[type="text"][autocomplete*="username"]').first
+            await username_input.wait_for(state='visible', timeout=30000)
             await username_input.fill(self.instagram_id)
+            logger.info(f"[LOGIN] Username filled for task {self.task_id}")
             await self._wait(0.5)
 
             # 비밀번호 입력
-            password_input = self.page.locator('input[name="password"], input[name="pass"]').first
+            password_input = self.page.locator('input[name="password"], input[name="pass"], input[type="password"]').first
             await password_input.fill(self.instagram_password)
+            logger.info(f"[LOGIN] Password filled for task {self.task_id}")
             await self._wait(0.5)
 
-            # 로그인 버튼 클릭
-            login_button = self.page.locator('button[type="submit"], div[role="button"]:has-text("로그인")').first
+            # 로그인 버튼 클릭 (여러 셀렉터 시도)
+            login_button = self.page.locator('button[type="submit"], div[role="button"]:has-text("로그인"), div[role="none"]:has-text("로그인") >> xpath=ancestor::div[@role="none"][1]').first
             await login_button.click()
+            logger.info(f"[LOGIN] Login button clicked for task {self.task_id}")
 
             await self._update_progress(
                 TaskStatus.LOGGING_IN,
