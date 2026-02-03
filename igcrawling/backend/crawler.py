@@ -79,7 +79,7 @@ class InstagramCrawler:
         """브라우저 시작"""
         self.playwright = sync_playwright().start()
         self.browser = self.playwright.chromium.launch(
-            headless=False,  # 로컬 테스트: 브라우저 창 표시
+            headless=True,  # 서버 환경: headless 모드
             args=[
                 '--start-maximized',
                 '--disable-blink-features=AutomationControlled',
