@@ -234,13 +234,31 @@ class NaverCafeCrawler:
 
         return logger
 
-    def _get_date_range(self) -> tuple:
-        """파일명용 날짜 범위 계산"""
+    def _get_week_info(self) -> tuple:
+        """파일명용 월/주차 계산 - 이번 주기의 화요일 기준
+        (오늘이 화요일이면 오늘, 아니면 가장 가까운 다음 화요일)
+        """
         today = datetime.now()
-        weekday = today.weekday()
-        this_monday = today if weekday == 0 else today - timedelta(days=weekday)
-        last_tuesday = this_monday - timedelta(days=6)
-        return last_tuesday, this_monday
+        weekday = today.weekday()  # 0=월, 1=화, ..., 6=일
+        days_until_tuesday = (1 - weekday) % 7
+        this_tuesday = today + timedelta(days=days_until_tuesday)
+
+        month = this_tuesday.month
+
+        # 이번 달에서 몇 번째 화요일인지 계산
+        first_day = this_tuesday.replace(day=1)
+        first_tuesday_offset = (1 - first_day.weekday()) % 7
+        first_tuesday = first_day + timedelta(days=first_tuesday_offset)
+        week_number = ((this_tuesday - first_tuesday).days // 7) + 1
+
+        return month, week_number
+
+    def _get_output_filename(self) -> str:
+        """출력 파일명 생성"""
+        month, week_number = self._get_week_info()
+        cafe_count = len(self.account_info.assigned_cafes)
+        suffix = "_9개카페" if cafe_count > 1 else ""
+        return f"(부시기획) LG전자 베스트샵 카페 모니터링_{month}월 {week_number}주차{suffix}.xlsx"
 
     def _normalize_text(self, text: str) -> str:
         """텍스트 정규화"""
@@ -494,21 +512,20 @@ class NaverCafeCrawler:
             with open(cookie_path, 'r', encoding='utf-8') as f:
                 cookies = json.load(f)
 
-            self.context.add_cookies(cookies)
-            self.logger.info("쿠키 로드 완료")
-
-            # 쿠키 유효성 확인 (네이버 메인 페이지 접속)
-            self.page.goto('https://www.naver.com', wait_until='domcontentloaded')
-            self._wait(1000)
-
-            # 로그인 상태 확인 (간단한 체크)
-            page_content = self.page.content()
-            if 'nid.naver.com' not in page_content:
-                self.logger.info("쿠키 유효 확인됨")
-                return True
-            else:
-                self.logger.warning("쿠키 만료됨")
+            # 쿠키 만료 여부를 파일에서 직접 확인 (브라우저 접속 없음)
+            now = time.time()
+            auth_cookies = [c for c in cookies if c.get('name') in ('NID_AUT', 'NID_SES')]
+            if not auth_cookies:
+                self.logger.warning("인증 쿠키 없음 (NID_AUT/NID_SES)")
                 return False
+            for c in auth_cookies:
+                expires = c.get('expires', 0)
+                if expires and expires < now:
+                    self.logger.warning(f"쿠키 만료됨: {c['name']} (만료: {datetime.fromtimestamp(expires)})")
+                    return False
+
+            self.context.add_cookies(cookies)
+            self.logger.info("쿠키 로드 완료 (유효)")
 
         except Exception as e:
             self.logger.warning(f"쿠키 로드 실패: {e}")
@@ -518,8 +535,7 @@ class NaverCafeCrawler:
         """엑셀 파일에서 기존 URL 로드"""
         try:
             output_folder = Path(self.config.output_folder)
-            last_tuesday, this_monday = self._get_date_range()
-            filename = f"키워드모니터링_{self.group_name}_{last_tuesday.strftime('%Y-%m-%d')}~{this_monday.strftime('%d')}.xlsx"
+            filename = self._get_output_filename()
             filepath = output_folder / filename
 
             if not filepath.exists():
@@ -616,14 +632,18 @@ class NaverCafeCrawler:
             self.page.goto('https://nid.naver.com/nidlogin.login', wait_until='domcontentloaded')
             self._wait(self.wait_times.AFTER_PAGE_LOAD)
 
-            # 아이디/비밀번호 입력
+            # 아이디/비밀번호 입력 (사람처럼 한 글자씩 타이핑)
             self.logger.debug(f"아이디 입력: {self.account_info.naver_id}")
-            self.page.fill(self.selectors.LOGIN_ID, self.account_info.naver_id)
-            self._wait(500)
+            self.page.click(self.selectors.LOGIN_ID)
+            self._wait(random.randint(300, 600))
+            self.page.type(self.selectors.LOGIN_ID, self.account_info.naver_id, delay=random.randint(80, 160))
+            self._wait(random.randint(400, 800))
 
             self.logger.debug("비밀번호 입력")
-            self.page.fill(self.selectors.LOGIN_PW, self.account_info.naver_password)
-            self._wait(500)
+            self.page.click(self.selectors.LOGIN_PW)
+            self._wait(random.randint(300, 600))
+            self.page.type(self.selectors.LOGIN_PW, self.account_info.naver_password, delay=random.randint(80, 160))
+            self._wait(random.randint(400, 800))
 
             # 로그인 버튼 클릭
             self.logger.debug("로그인 버튼 클릭")
@@ -896,8 +916,7 @@ class NaverCafeCrawler:
         output_folder.mkdir(parents=True, exist_ok=True)
 
         # 파일명 생성
-        last_tuesday, this_monday = self._get_date_range()
-        filename = f"키워드모니터링_{self.group_name}_{last_tuesday.strftime('%Y-%m-%d')}~{this_monday.strftime('%d')}.xlsx"
+        filename = self._get_output_filename()
         filepath = output_folder / filename
 
         # 기존 파일이 있으면 로드, 없으면 새로 생성
@@ -909,7 +928,7 @@ class NaverCafeCrawler:
         else:
             wb = Workbook()
             ws = wb.active
-            ws.title = "키워드모니터링"
+            ws.title = "모니터링"
             existing_rows = 0
 
             # 헤더 생성 (새 파일인 경우)
@@ -1161,8 +1180,7 @@ def run_crawler_for_account(account_info_dict: dict, config_path: str):
 def main():
     """메인 함수 - 멀티프로세싱 실행"""
     print("="*80)
-    print("네이버 카페 크롤러 (멀티 브라우저 버전)")
-    print("키워드 기반 게시글/댓글 모니터링")
+    print("(부시기획) LG전자 베스트샵 카페 모니터링 크롤러")
     print("="*80)
     print()
 
