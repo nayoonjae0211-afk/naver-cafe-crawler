@@ -5,6 +5,7 @@
 키워드 기반 게시글/댓글 모니터링
 """
 
+import ctypes
 import json
 import logging
 import multiprocessing
@@ -22,6 +23,7 @@ from typing import List, Dict, Any, Optional, Union
 from urllib.parse import quote
 
 from playwright.sync_api import sync_playwright, Page, Browser, Frame, TimeoutError as PlaywrightTimeoutError
+from playwright_stealth import Stealth
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment
 from pydantic import BaseModel, Field, field_validator
@@ -200,6 +202,9 @@ class NaverCafeCrawler:
         # 중복 URL 체크용
         self.existing_urls = set()
 
+        # CDP 연결 모드 여부
+        self.cdp_mode = False
+
     def _setup_logger(self) -> logging.Logger:
         """로거 설정"""
         log_folder = Path(self.config.log_folder)
@@ -291,7 +296,7 @@ class NaverCafeCrawler:
         """여러 선택자로 요소 찾기"""
         for selector in selectors:
             if wait:
-                self._wait_for_element(frame, selector, timeout=2000)
+                self._wait_for_element(frame, selector, timeout=500)
 
             elem = frame.locator(selector).first
             if elem.count() > 0:
@@ -427,34 +432,80 @@ class NaverCafeCrawler:
         """브라우저 시작"""
         self.logger.info("브라우저 시작")
 
-        self.playwright = sync_playwright().start()
-        self.browser = self.playwright.chromium.launch(
-            headless=False,
-            args=[
-                '--start-maximized',
-                '--disable-blink-features=AutomationControlled',
-                '--disable-dev-shm-usage',
-                '--disable-gpu',  # GPU 메모리 사용 최소화
-                '--disable-software-rasterizer',  # 소프트웨어 렌더링 비활성화
-                '--disable-extensions',  # 확장 프로그램 비활성화
-                '--no-sandbox',  # 샌드박스 비활성화 (메모리 절약)
-                '--disable-setuid-sandbox',
-                '--disable-features=TranslateUI',  # 번역 기능 비활성화
-                '--disable-features=Translate',
-                '--js-flags=--expose-gc'  # JavaScript 가비지 컬렉션 활성화
-            ]
-        )
+        # 계정별 CDP 디버깅 포트
+        debug_ports = {'nayoonjae': 9222, 'kimyoonj319': 9223}
+        debug_port = debug_ports.get(self.account_info.naver_id, 9222)
 
-        self.context = self.browser.new_context(
-            viewport=None,
-            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        )
-        self.page = self.context.new_page()
-        self.logger.info("브라우저 전체화면으로 시작됨")
+        # 화면 해상도 자동 감지
+        try:
+            screen_w = ctypes.windll.user32.GetSystemMetrics(0)
+            screen_h = ctypes.windll.user32.GetSystemMetrics(1)
+        except Exception:
+            screen_w, screen_h = 1920, 1080
+        win_w = screen_w // 2
+        win_h = screen_h // 2
+
+        self.playwright = sync_playwright().start()
+
+        # CDP 연결 시도 (Chrome Remote Debugging)
+        try:
+            self.browser = self.playwright.chromium.connect_over_cdp(f"http://localhost:{debug_port}")
+            if self.browser.contexts:
+                self.context = self.browser.contexts[0]
+                self.page = self.context.pages[0] if self.context.pages else self.context.new_page()
+            else:
+                self.context = self.browser.new_context(viewport={'width': win_w, 'height': win_h})
+                self.page = self.context.new_page()
+            self.cdp_mode = True
+            self.logger.info(f"Chrome CDP 연결 성공 (포트: {debug_port}, {self.account_info.naver_id})")
+            print(f"\n[{self.group_name}] Chrome CDP 연결 성공 (포트: {debug_port})\n")
+
+        except Exception as e:
+            # CDP 실패 시 일반 브라우저 실행으로 폴백
+            self.cdp_mode = False
+            self.logger.warning(f"CDP 연결 실패 ({e}), 일반 브라우저 실행")
+            print(f"\n[{self.group_name}] CDP 연결 실패, 일반 브라우저로 실행\n")
+
+            side = '좌측' if self.account_info.naver_id == 'nayoonjae' else '우측'
+            window_position = '--window-position=0,0' if self.account_info.naver_id == 'nayoonjae' else f'--window-position={win_w},0'
+
+            self.browser = self.playwright.chromium.launch(
+                headless=False,
+                args=[
+                    window_position,
+                    f'--window-size={win_w},{win_h}',
+                    '--disable-blink-features=AutomationControlled',
+                    '--disable-dev-shm-usage',
+                    '--disable-gpu',
+                    '--disable-software-rasterizer',
+                    '--disable-extensions',
+                    '--no-sandbox',
+                    '--disable-setuid-sandbox',
+                    '--disable-features=TranslateUI',
+                    '--disable-features=Translate',
+                    '--js-flags=--expose-gc'
+                ]
+            )
+            self.context = self.browser.new_context(
+                viewport={'width': win_w, 'height': win_h},
+                user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            )
+            self.page = self.context.new_page()
+            Stealth().apply_stealth_sync(self.page)
+            self.logger.info(f"브라우저 시작됨 ({side}상단, {self.account_info.naver_id})")
 
     def _close_browser(self):
         """브라우저 종료 (메모리 정리 포함)"""
         try:
+            if self.cdp_mode:
+                # CDP 모드: Chrome을 닫지 않고 연결만 해제
+                if self.playwright:
+                    self.playwright.stop()
+                import gc
+                gc.collect()
+                self.logger.info("CDP 연결 해제 (Chrome은 유지)")
+                return
+
             # 페이지 리소스 정리
             if self.page:
                 try:
@@ -581,6 +632,10 @@ class NaverCafeCrawler:
 
     def _restart_browser_if_needed(self):
         """필요시 브라우저 재시작"""
+        if self.cdp_mode:
+            # CDP 모드에서는 Chrome을 외부에서 관리하므로 재시작 생략
+            return False
+
         if not self._should_restart_browser():
             return False
 
@@ -645,6 +700,15 @@ class NaverCafeCrawler:
             self.page.type(self.selectors.LOGIN_PW, self.account_info.naver_password, delay=random.randint(80, 160))
             self._wait(random.randint(400, 800))
 
+            # 로그인 상태 유지 체크박스 클릭
+            try:
+                keep_login = self.page.locator('#keep')
+                if keep_login.count() > 0:
+                    keep_login.click()
+                    self.logger.debug("로그인 상태 유지 체크")
+            except Exception as e:
+                self.logger.debug(f"로그인 상태 유지 체크 실패 (무시): {e}")
+
             # 로그인 버튼 클릭
             self.logger.debug("로그인 버튼 클릭")
             try:
@@ -684,7 +748,8 @@ class NaverCafeCrawler:
                 self._wait(self.constants.LOGIN_CHECK_INTERVAL * 1000)
                 current_url = self.page.url
 
-                if 'nid.naver.com/nidlogin' not in current_url:
+                login_pages = ['nid.naver.com/nidlogin', 'nid.naver.com/login', 'nid.naver.com/otp', 'nid.naver.com/user2']
+                if not any(lp in current_url for lp in login_pages):
                     elapsed = (i+1) * self.constants.LOGIN_CHECK_INTERVAL
                     self.logger.info(f"로그인 성공 (소요: {elapsed}초)")
                     print(f"\n✅ 로그인 성공 (소요: {elapsed}초)\n")
@@ -698,7 +763,7 @@ class NaverCafeCrawler:
                 print(f"[{(i+1) * self.constants.LOGIN_CHECK_INTERVAL}초] 대기 중... (남은 시간: {remaining}초)")
 
             # 타임아웃
-            if 'nid.naver.com/nidlogin' in self.page.url:
+            if any(lp in self.page.url for lp in ['nid.naver.com/nidlogin', 'nid.naver.com/login', 'nid.naver.com/otp', 'nid.naver.com/user2']):
                 self.logger.error("로그인 실패: 타임아웃")
                 print("\n❌ 로그인 실패: 타임아웃\n")
                 return False
@@ -723,7 +788,7 @@ class NaverCafeCrawler:
 
         try:
             encoded_keyword = quote(keyword)
-            search_url = f"https://cafe.naver.com/f-e/cafes/{cafe_id}/menus/0?viewType=L&ta=ARTICLE_COMMENT&page={page_num}&q={encoded_keyword}&p=7d"
+            search_url = f"https://cafe.naver.com/f-e/cafes/{cafe_id}/menus/0?viewType=L&ta=ARTICLE_COMMENT&page={page_num}&q={encoded_keyword}&p=1d"
 
             self.page.goto(search_url, wait_until='domcontentloaded', timeout=self.timeouts.PAGE_LOAD)
             self._wait(self.wait_times.AFTER_PAGE_LOAD)
@@ -802,8 +867,11 @@ class NaverCafeCrawler:
             self.page.goto(url, wait_until='domcontentloaded', timeout=self.timeouts.PAGE_LOAD)
             self._wait(self.wait_times.AFTER_PAGE_LOAD)
 
-            # 추가 대기 - 동적 콘텐츠 로딩을 위해
-            self._wait(2000)
+            # 동적 콘텐츠 로딩 대기 - 고정 대기 대신 실제 요소 로딩 감지
+            try:
+                self.page.wait_for_selector('h3.title_text', timeout=3000)
+            except PlaywrightTimeoutError:
+                pass  # iframe 안에 있을 수 있으므로 실패해도 계속 진행
 
             # 모든 프레임에서 요소 찾기 시도
             article_frame = None
@@ -975,19 +1043,15 @@ class NaverCafeCrawler:
 
             ws.append(row)
 
-        # 컬럼 너비 조정
-        for column in ws.columns:
-            max_length = 0
-            column_letter = column[0].column_letter
-            for cell in column:
-                try:
-                    cell_length = len(str(cell.value))
-                    if cell_length > max_length:
-                        max_length = cell_length
-                except:
-                    pass
-            adjusted_width = min(max_length + 2, 50)
-            ws.column_dimensions[column_letter].width = adjusted_width
+        # 컬럼 너비 고정 설정 (전체 셀 순회 대신 고정값으로 성능 개선)
+        fixed_widths = {1: 20, 2: 15, 3: 15, 4: 20, 5: 40, 6: 50, 7: 8, 8: 50}
+        max_col = ws.max_column
+        for col_idx in range(1, max_col + 1):
+            col_letter = ws.cell(row=1, column=col_idx).column_letter
+            if col_idx in fixed_widths:
+                ws.column_dimensions[col_letter].width = fixed_widths[col_idx]
+            else:
+                ws.column_dimensions[col_letter].width = 30  # 댓글 컬럼
 
         # 저장
         wb.save(filepath)
@@ -1031,7 +1095,7 @@ class NaverCafeCrawler:
                 for post_idx, post_info in enumerate(posts, 1):
                     print(f"  [{post_idx}/{len(posts)}] 처리 중...")
 
-                    # 게시글 처리 전 브라우저 재시작 체크 (더 자주 체크)
+                    # 게시글 처리 전 브라우저 재시작 체크
                     try:
                         restarted = self._restart_browser_if_needed()
                         if restarted:
@@ -1062,7 +1126,7 @@ class NaverCafeCrawler:
                 # 다음 페이지로
                 page_num += 1
 
-                # 브라우저 재시작 체크
+                # 페이지 완료 후 브라우저 재시작 체크
                 try:
                     restarted = self._restart_browser_if_needed()
                     if restarted:
@@ -1071,8 +1135,11 @@ class NaverCafeCrawler:
                     self.logger.error(f"브라우저 재시작 실패: {e}")
                     raise
 
-                # Rate limiting: 랜덤 대기 시간 추가
-                random_wait = random.uniform(500, 2000)
+                # Rate limiting: 계정별 랜덤 대기 시간 (kimyoonj319는 더 느리게)
+                if self.account_info.naver_id == 'kimyoonj319':
+                    random_wait = random.uniform(1500, 3000)
+                else:
+                    random_wait = random.uniform(300, 800)
                 self._wait(self.wait_times.BETWEEN_PAGES + random_wait)
 
             except Exception as e:
@@ -1095,9 +1162,14 @@ class NaverCafeCrawler:
         # 기존 URL 로드
         self._load_existing_urls()
 
-        # 로그인
-        if not self.login_naver():
-            raise Exception("로그인 실패")
+        if self.cdp_mode:
+            # CDP 모드: 이미 로그인된 Chrome 세션 사용, 로그인 생략
+            self.logger.info("CDP 모드: 기존 Chrome 세션 사용 (로그인 생략)")
+            print(f"\n[{self.group_name}] CDP 모드: 로그인 생략 (기존 Chrome 세션 사용)\n")
+        else:
+            # 일반 모드: 로그인 진행
+            if not self.login_naver():
+                raise Exception("로그인 실패")
 
     def _crawl_cafe(self, cafe: CafeInfo, cafe_idx: int, total_cafes: int):
         """단일 카페 크롤링"""
