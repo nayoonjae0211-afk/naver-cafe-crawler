@@ -788,7 +788,7 @@ class NaverCafeCrawler:
 
         try:
             encoded_keyword = quote(keyword)
-            search_url = f"https://cafe.naver.com/f-e/cafes/{cafe_id}/menus/0?viewType=L&ta=ARTICLE_COMMENT&page={page_num}&q={encoded_keyword}&p=1d"
+            search_url = f"https://cafe.naver.com/f-e/cafes/{cafe_id}/menus/0?viewType=L&ta=ARTICLE_COMMENT&page={page_num}&q={encoded_keyword}&p=1d&size=50"
 
             self.page.goto(search_url, wait_until='domcontentloaded', timeout=self.timeouts.PAGE_LOAD)
             self._wait(self.wait_times.AFTER_PAGE_LOAD)
