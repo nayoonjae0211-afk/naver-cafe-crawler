@@ -4,7 +4,11 @@
       "naver_id": "your_naver_id_1",
       "naver_password": "your_password_1",
       "assigned_cafes": ["카페1"],
-      "group_name": "group1"
+      "group_name": "group1",
+      "debug_port": 9222,
+      "window_position": "left",
+      "rate_limit_min_ms": 300,
+      "rate_limit_max_ms": 800
     },
     {
       "naver_id": "your_naver_id_2",
@@ -14,7 +18,11 @@
         "카페3",
         "카페4"
       ],
-      "group_name": "group2"
+      "group_name": "group2",
+      "debug_port": 9223,
+      "window_position": "right",
+      "rate_limit_min_ms": 1500,
+      "rate_limit_max_ms": 3000
     }
   ],
   "cafes": [
@@ -34,6 +42,7 @@
     "키워드2",
     "키워드3"
   ],
+  "output_prefix": "모니터링 결과",
   "output_folder": "results",
   "log_folder": "logs"
 }

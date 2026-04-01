@@ -6,6 +6,7 @@
 """
 
 import ctypes
+import gc
 import json
 import logging
 import multiprocessing
@@ -24,7 +25,7 @@ from urllib.parse import quote
 
 from playwright.sync_api import sync_playwright, Page, Browser, Frame, TimeoutError as PlaywrightTimeoutError
 from playwright_stealth import Stealth
-from openpyxl import Workbook
+from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Font, Alignment
 from pydantic import BaseModel, Field, field_validator
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
@@ -87,6 +88,10 @@ class AccountConfig(BaseModel):
     naver_password: str = Field(..., min_length=1, description="네이버 비밀번호")
     assigned_cafes: List[str] = Field(..., min_length=1, description="담당 카페 목록")
     group_name: str = Field(..., min_length=1, description="그룹 이름")
+    debug_port: int = Field(default=9222, description="Chrome 원격 디버깅 포트")
+    window_position: str = Field(default="left", description="창 위치 (left/right)")
+    rate_limit_min_ms: int = Field(default=300, description="페이지 간 최소 대기 시간 (ms)")
+    rate_limit_max_ms: int = Field(default=800, description="페이지 간 최대 대기 시간 (ms)")
 
 
 class CrawlerSettings(BaseModel):
@@ -94,6 +99,7 @@ class CrawlerSettings(BaseModel):
     accounts: List[AccountConfig] = Field(..., min_length=1, description="계정 목록")
     cafes: List[CafeInfo] = Field(..., min_length=1, description="카페 목록")
     keywords: List[str] = Field(..., min_length=1, description="검색 키워드 목록")
+    output_prefix: str = Field(default='모니터링', description="출력 파일명 접두사")
     output_folder: str = Field(default='results', description="출력 폴더")
     log_folder: str = Field(default='logs', description="로그 폴더")
 
@@ -262,8 +268,8 @@ class NaverCafeCrawler:
         """출력 파일명 생성"""
         month, week_number = self._get_week_info()
         cafe_count = len(self.account_info.assigned_cafes)
-        suffix = "_9개카페" if cafe_count > 1 else ""
-        return f"(부시기획) LG전자 베스트샵 카페 모니터링_{month}월 {week_number}주차{suffix}.xlsx"
+        suffix = f"_{cafe_count}개카페" if cafe_count > 1 else ""
+        return f"{self.config.output_prefix}_{month}월 {week_number}주차{suffix}.xlsx"
 
     def _normalize_text(self, text: str) -> str:
         """텍스트 정규화"""
@@ -320,7 +326,7 @@ class NaverCafeCrawler:
                     if frame.name == frame_name:
                         self.logger.debug(f"iframe 발견 (name): {frame_name}")
                         return frame
-                except:
+                except Exception:
                     pass
 
             # URL 패턴 확인
@@ -433,8 +439,7 @@ class NaverCafeCrawler:
         self.logger.info("브라우저 시작")
 
         # 계정별 CDP 디버깅 포트
-        debug_ports = {'nayoonjae': 9222, 'kimyoonj319': 9223}
-        debug_port = debug_ports.get(self.account_info.naver_id, 9222)
+        debug_port = self.account_info.debug_port
 
         # 화면 해상도 자동 감지
         try:
@@ -466,8 +471,8 @@ class NaverCafeCrawler:
             self.logger.warning(f"CDP 연결 실패 ({e}), 일반 브라우저 실행")
             print(f"\n[{self.group_name}] CDP 연결 실패, 일반 브라우저로 실행\n")
 
-            side = '좌측' if self.account_info.naver_id == 'nayoonjae' else '우측'
-            window_position = '--window-position=0,0' if self.account_info.naver_id == 'nayoonjae' else f'--window-position={win_w},0'
+            side = '좌측' if self.account_info.window_position == 'left' else '우측'
+            window_position = '--window-position=0,0' if self.account_info.window_position == 'left' else f'--window-position={win_w},0'
 
             self.browser = self.playwright.chromium.launch(
                 headless=False,
@@ -501,7 +506,6 @@ class NaverCafeCrawler:
                 # CDP 모드: Chrome을 닫지 않고 연결만 해제
                 if self.playwright:
                     self.playwright.stop()
-                import gc
                 gc.collect()
                 self.logger.info("CDP 연결 해제 (Chrome은 유지)")
                 return
@@ -511,14 +515,14 @@ class NaverCafeCrawler:
                 try:
                     self.page.evaluate('() => { window.stop(); }')
                     self.page.evaluate('() => { console.clear(); }')
-                except:
+                except Exception:
                     pass
 
             # 컨텍스트 정리
             if self.context:
                 try:
                     self.context.close()
-                except:
+                except Exception:
                     pass
 
             # 브라우저 종료
@@ -531,7 +535,6 @@ class NaverCafeCrawler:
                 self.playwright.stop()
 
             # Python 가비지 컬렉션 강제 실행
-            import gc
             gc.collect()
 
         except Exception as e:
@@ -577,6 +580,7 @@ class NaverCafeCrawler:
 
             self.context.add_cookies(cookies)
             self.logger.info("쿠키 로드 완료 (유효)")
+            return True
 
         except Exception as e:
             self.logger.warning(f"쿠키 로드 실패: {e}")
@@ -594,7 +598,6 @@ class NaverCafeCrawler:
                 self.existing_urls = set()
                 return
 
-            from openpyxl import load_workbook
             wb = load_workbook(filepath, read_only=True)
             ws = wb.active
 
@@ -839,7 +842,7 @@ class NaverCafeCrawler:
         # 메모리 정리
         try:
             self.page.evaluate('() => { if (window.gc) window.gc(); }')
-        except:
+        except Exception:
             pass
 
         self.logger.debug(f"'{keyword}' {page_num}페이지: {len(posts)}개 URL 수집")
@@ -882,7 +885,7 @@ class NaverCafeCrawler:
                         article_frame = frame
                         self.logger.debug(f"게시글 프레임 발견: {frame.url}")
                         break
-                except:
+                except Exception:
                     continue
 
             if not article_frame:
@@ -952,7 +955,7 @@ class NaverCafeCrawler:
                 self.page.evaluate('() => { window.stop(); }')
                 # 콘솔 로그 정리
                 self.page.evaluate('() => { console.clear(); }')
-            except:
+            except Exception:
                 pass
 
             return {
@@ -989,7 +992,6 @@ class NaverCafeCrawler:
 
         # 기존 파일이 있으면 로드, 없으면 새로 생성
         if filepath.exists():
-            from openpyxl import load_workbook
             wb = load_workbook(filepath)
             ws = wb.active
             existing_rows = ws.max_row
@@ -1095,15 +1097,6 @@ class NaverCafeCrawler:
                 for post_idx, post_info in enumerate(posts, 1):
                     print(f"  [{post_idx}/{len(posts)}] 처리 중...")
 
-                    # 게시글 처리 전 브라우저 재시작 체크
-                    try:
-                        restarted = self._restart_browser_if_needed()
-                        if restarted:
-                            self.logger.info(f"브라우저 재시작 후 게시글 처리 계속")
-                    except Exception as e:
-                        self.logger.error(f"브라우저 재시작 실패: {e}")
-                        raise
-
                     try:
                         post_data = self.collect_post_details(post_info)
 
@@ -1135,11 +1128,11 @@ class NaverCafeCrawler:
                     self.logger.error(f"브라우저 재시작 실패: {e}")
                     raise
 
-                # Rate limiting: 계정별 랜덤 대기 시간 (kimyoonj319는 더 느리게)
-                if self.account_info.naver_id == 'kimyoonj319':
-                    random_wait = random.uniform(1500, 3000)
-                else:
-                    random_wait = random.uniform(300, 800)
+                # Rate limiting: 계정별 랜덤 대기 시간
+                random_wait = random.uniform(
+                    self.account_info.rate_limit_min_ms,
+                    self.account_info.rate_limit_max_ms
+                )
                 self._wait(self.wait_times.BETWEEN_PAGES + random_wait)
 
             except Exception as e:
